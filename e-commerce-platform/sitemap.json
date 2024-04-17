@@ -1,0 +1,3839 @@
+{
+  "urlset": [
+    {
+      "label": "Software Systems",
+      "loc": "Software Systems",
+      "urlset": [
+        {
+          "label": "Basket Service",
+          "loc": "Software Systems/Basket Service",
+          "urlset": [
+            {
+              "label": "Containers",
+              "loc": "Software Systems/Basket Service/Containers",
+              "urlset": [
+                {
+                  "label": "Api",
+                  "loc": "Software Systems/Basket Service/Containers/Api",
+                  "urlset": [
+                    {
+                      "label": "Interfaces",
+                      "loc": "Software Systems/Basket Service/Containers/Api/Interfaces",
+                      "urlset": [
+                        {
+                          "label": "Add Item",
+                          "loc": "Software Systems/Basket Service/Containers/Api/Interfaces/Add Item",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Delete Basket",
+                          "loc": "Software Systems/Basket Service/Containers/Api/Interfaces/Delete Basket",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Delete Item",
+                          "loc": "Software Systems/Basket Service/Containers/Api/Interfaces/Delete Item",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Get Items",
+                          "loc": "Software Systems/Basket Service/Containers/Api/Interfaces/Get Items",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Update Item",
+                          "loc": "Software Systems/Basket Service/Containers/Api/Interfaces/Update Item",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        }
+                      ],
+                      "types": [],
+                      "levelsOfDetails": [],
+                      "formats": []
+                    }
+                  ],
+                  "types": [
+                    "C4 Static",
+                    "C4"
+                  ],
+                  "levelsOfDetails": [
+                    "Container"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                },
+                {
+                  "label": "Database",
+                  "loc": "Software Systems/Basket Service/Containers/Database",
+                  "urlset": [
+                    {
+                      "label": "Interfaces",
+                      "loc": "Software Systems/Basket Service/Containers/Database/Interfaces",
+                      "urlset": [
+                        {
+                          "label": "Delete Basket",
+                          "loc": "Software Systems/Basket Service/Containers/Database/Interfaces/Delete Basket",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Delete Item",
+                          "loc": "Software Systems/Basket Service/Containers/Database/Interfaces/Delete Item",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Insert Item",
+                          "loc": "Software Systems/Basket Service/Containers/Database/Interfaces/Insert Item",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Select Items",
+                          "loc": "Software Systems/Basket Service/Containers/Database/Interfaces/Select Items",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Update Item",
+                          "loc": "Software Systems/Basket Service/Containers/Database/Interfaces/Update Item",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        }
+                      ],
+                      "types": [],
+                      "levelsOfDetails": [],
+                      "formats": []
+                    }
+                  ],
+                  "types": [
+                    "C4 Static",
+                    "C4"
+                  ],
+                  "levelsOfDetails": [
+                    "Container"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                }
+              ],
+              "types": [],
+              "levelsOfDetails": [],
+              "formats": []
+            }
+          ],
+          "types": [
+            "C4 Static",
+            "C4"
+          ],
+          "levelsOfDetails": [
+            "Container",
+            "Context"
+          ],
+          "formats": [
+            "png",
+            "puml",
+            "svg"
+          ]
+        },
+        {
+          "label": "Buying And Merchandising App",
+          "loc": "Software Systems/Buying And Merchandising App",
+          "urlset": [
+            {
+              "label": "Interfaces",
+              "loc": "Software Systems/Buying And Merchandising App/Interfaces",
+              "urlset": [
+                {
+                  "label": "Create Purchase Order",
+                  "loc": "Software Systems/Buying And Merchandising App/Interfaces/Create Purchase Order",
+                  "urlset": [],
+                  "types": [
+                    "C4 Sequence",
+                    "C4 Static",
+                    "C4",
+                    "Sequence"
+                  ],
+                  "levelsOfDetails": [
+                    "Context"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                },
+                {
+                  "label": "Delete Purchase Order",
+                  "loc": "Software Systems/Buying And Merchandising App/Interfaces/Delete Purchase Order",
+                  "urlset": [],
+                  "types": [
+                    "C4 Sequence",
+                    "C4 Static",
+                    "C4",
+                    "Sequence"
+                  ],
+                  "levelsOfDetails": [
+                    "Context"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                },
+                {
+                  "label": "Update Product Prices",
+                  "loc": "Software Systems/Buying And Merchandising App/Interfaces/Update Product Prices",
+                  "urlset": [],
+                  "types": [
+                    "C4 Sequence",
+                    "C4 Static",
+                    "C4",
+                    "Sequence"
+                  ],
+                  "levelsOfDetails": [
+                    "Context"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                },
+                {
+                  "label": "Update Purchase Order",
+                  "loc": "Software Systems/Buying And Merchandising App/Interfaces/Update Purchase Order",
+                  "urlset": [],
+                  "types": [
+                    "C4 Sequence",
+                    "C4 Static",
+                    "C4",
+                    "Sequence"
+                  ],
+                  "levelsOfDetails": [
+                    "Context"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                },
+                {
+                  "label": "View Product Prices",
+                  "loc": "Software Systems/Buying And Merchandising App/Interfaces/View Product Prices",
+                  "urlset": [],
+                  "types": [
+                    "C4 Sequence",
+                    "C4 Static",
+                    "C4",
+                    "Sequence"
+                  ],
+                  "levelsOfDetails": [
+                    "Context"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                },
+                {
+                  "label": "View Purchase Orders",
+                  "loc": "Software Systems/Buying And Merchandising App/Interfaces/View Purchase Orders",
+                  "urlset": [],
+                  "types": [
+                    "C4 Sequence",
+                    "C4 Static",
+                    "C4",
+                    "Sequence"
+                  ],
+                  "levelsOfDetails": [
+                    "Context"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                }
+              ],
+              "types": [],
+              "levelsOfDetails": [],
+              "formats": []
+            }
+          ],
+          "types": [
+            "C4 Static",
+            "C4"
+          ],
+          "levelsOfDetails": [
+            "Container",
+            "Context"
+          ],
+          "formats": [
+            "png",
+            "puml",
+            "svg"
+          ]
+        },
+        {
+          "label": "Buying Service",
+          "loc": "Software Systems/Buying Service",
+          "urlset": [
+            {
+              "label": "Containers",
+              "loc": "Software Systems/Buying Service/Containers",
+              "urlset": [
+                {
+                  "label": "Api",
+                  "loc": "Software Systems/Buying Service/Containers/Api",
+                  "urlset": [
+                    {
+                      "label": "Interfaces",
+                      "loc": "Software Systems/Buying Service/Containers/Api/Interfaces",
+                      "urlset": [
+                        {
+                          "label": "Create Purchase Order",
+                          "loc": "Software Systems/Buying Service/Containers/Api/Interfaces/Create Purchase Order",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Delete Purchase Order",
+                          "loc": "Software Systems/Buying Service/Containers/Api/Interfaces/Delete Purchase Order",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Get Purchase Orders",
+                          "loc": "Software Systems/Buying Service/Containers/Api/Interfaces/Get Purchase Orders",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Update Purchase Order",
+                          "loc": "Software Systems/Buying Service/Containers/Api/Interfaces/Update Purchase Order",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        }
+                      ],
+                      "types": [],
+                      "levelsOfDetails": [],
+                      "formats": []
+                    }
+                  ],
+                  "types": [
+                    "C4 Static",
+                    "C4"
+                  ],
+                  "levelsOfDetails": [
+                    "Container"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                },
+                {
+                  "label": "Database",
+                  "loc": "Software Systems/Buying Service/Containers/Database",
+                  "urlset": [
+                    {
+                      "label": "Interfaces",
+                      "loc": "Software Systems/Buying Service/Containers/Database/Interfaces",
+                      "urlset": [
+                        {
+                          "label": "Delete Purchase Order",
+                          "loc": "Software Systems/Buying Service/Containers/Database/Interfaces/Delete Purchase Order",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Insert Purchase Order",
+                          "loc": "Software Systems/Buying Service/Containers/Database/Interfaces/Insert Purchase Order",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Select Purchase Order",
+                          "loc": "Software Systems/Buying Service/Containers/Database/Interfaces/Select Purchase Order",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Update Purchase Order",
+                          "loc": "Software Systems/Buying Service/Containers/Database/Interfaces/Update Purchase Order",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        }
+                      ],
+                      "types": [],
+                      "levelsOfDetails": [],
+                      "formats": []
+                    }
+                  ],
+                  "types": [
+                    "C4 Static",
+                    "C4"
+                  ],
+                  "levelsOfDetails": [
+                    "Container"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                },
+                {
+                  "label": "Message Handler",
+                  "loc": "Software Systems/Buying Service/Containers/Message Handler",
+                  "urlset": [
+                    {
+                      "label": "Interfaces",
+                      "loc": "Software Systems/Buying Service/Containers/Message Handler/Interfaces",
+                      "urlset": [
+                        {
+                          "label": "Handle Purchase Order Created Event",
+                          "loc": "Software Systems/Buying Service/Containers/Message Handler/Interfaces/Handle Purchase Order Created Event",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Handle Purchase Order Deleted Event",
+                          "loc": "Software Systems/Buying Service/Containers/Message Handler/Interfaces/Handle Purchase Order Deleted Event",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Handle Purchase Order Updated Event",
+                          "loc": "Software Systems/Buying Service/Containers/Message Handler/Interfaces/Handle Purchase Order Updated Event",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        }
+                      ],
+                      "types": [],
+                      "levelsOfDetails": [],
+                      "formats": []
+                    }
+                  ],
+                  "types": [
+                    "C4 Static",
+                    "C4"
+                  ],
+                  "levelsOfDetails": [
+                    "Container"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                },
+                {
+                  "label": "Messaging",
+                  "loc": "Software Systems/Buying Service/Containers/Messaging",
+                  "urlset": [
+                    {
+                      "label": "Interfaces",
+                      "loc": "Software Systems/Buying Service/Containers/Messaging/Interfaces",
+                      "urlset": [
+                        {
+                          "label": "Receive Purchase Order Created Event",
+                          "loc": "Software Systems/Buying Service/Containers/Messaging/Interfaces/Receive Purchase Order Created Event",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Receive Purchase Order Deleted Event",
+                          "loc": "Software Systems/Buying Service/Containers/Messaging/Interfaces/Receive Purchase Order Deleted Event",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Receive Purchase Order Updated Event",
+                          "loc": "Software Systems/Buying Service/Containers/Messaging/Interfaces/Receive Purchase Order Updated Event",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Send Purchase Order Created Event",
+                          "loc": "Software Systems/Buying Service/Containers/Messaging/Interfaces/Send Purchase Order Created Event",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Send Purchase Order Deleted Event",
+                          "loc": "Software Systems/Buying Service/Containers/Messaging/Interfaces/Send Purchase Order Deleted Event",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Send Purchase Order Updated Event",
+                          "loc": "Software Systems/Buying Service/Containers/Messaging/Interfaces/Send Purchase Order Updated Event",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        }
+                      ],
+                      "types": [],
+                      "levelsOfDetails": [],
+                      "formats": []
+                    }
+                  ],
+                  "types": [
+                    "C4 Static",
+                    "C4"
+                  ],
+                  "levelsOfDetails": [
+                    "Container"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                }
+              ],
+              "types": [],
+              "levelsOfDetails": [],
+              "formats": []
+            }
+          ],
+          "types": [
+            "C4 Static",
+            "C4"
+          ],
+          "levelsOfDetails": [
+            "Container",
+            "Context"
+          ],
+          "formats": [
+            "png",
+            "puml",
+            "svg"
+          ]
+        },
+        {
+          "label": "CRM App",
+          "loc": "Software Systems/CRM App",
+          "urlset": [
+            {
+              "label": "Interfaces",
+              "loc": "Software Systems/CRM App/Interfaces",
+              "urlset": [
+                {
+                  "label": "Update Order Fraud Check Result",
+                  "loc": "Software Systems/CRM App/Interfaces/Update Order Fraud Check Result",
+                  "urlset": [],
+                  "types": [
+                    "C4 Sequence",
+                    "C4 Static",
+                    "C4",
+                    "Sequence"
+                  ],
+                  "levelsOfDetails": [
+                    "Context"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                },
+                {
+                  "label": "View High Risk Orders",
+                  "loc": "Software Systems/CRM App/Interfaces/View High Risk Orders",
+                  "urlset": [],
+                  "types": [
+                    "C4 Sequence",
+                    "C4 Static",
+                    "C4",
+                    "Sequence"
+                  ],
+                  "levelsOfDetails": [
+                    "Context"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                }
+              ],
+              "types": [],
+              "levelsOfDetails": [],
+              "formats": []
+            }
+          ],
+          "types": [
+            "C4 Static",
+            "C4"
+          ],
+          "levelsOfDetails": [
+            "Container",
+            "Context"
+          ],
+          "formats": [
+            "png",
+            "puml",
+            "svg"
+          ]
+        },
+        {
+          "label": "Fraud Engine",
+          "loc": "Software Systems/Fraud Engine",
+          "urlset": [
+            {
+              "label": "Interfaces",
+              "loc": "Software Systems/Fraud Engine/Interfaces",
+              "urlset": [
+                {
+                  "label": "Get Fraud Check Result",
+                  "loc": "Software Systems/Fraud Engine/Interfaces/Get Fraud Check Result",
+                  "urlset": [],
+                  "types": [
+                    "C4 Sequence",
+                    "C4 Static",
+                    "C4",
+                    "Sequence"
+                  ],
+                  "levelsOfDetails": [
+                    "Context"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                }
+              ],
+              "types": [],
+              "levelsOfDetails": [],
+              "formats": []
+            }
+          ],
+          "types": [
+            "C4 Static",
+            "C4"
+          ],
+          "levelsOfDetails": [
+            "Container",
+            "Context"
+          ],
+          "formats": [
+            "png",
+            "puml",
+            "svg"
+          ]
+        },
+        {
+          "label": "Fraud Service",
+          "loc": "Software Systems/Fraud Service",
+          "urlset": [
+            {
+              "label": "Containers",
+              "loc": "Software Systems/Fraud Service/Containers",
+              "urlset": [
+                {
+                  "label": "Api",
+                  "loc": "Software Systems/Fraud Service/Containers/Api",
+                  "urlset": [
+                    {
+                      "label": "Interfaces",
+                      "loc": "Software Systems/Fraud Service/Containers/Api/Interfaces",
+                      "urlset": [
+                        {
+                          "label": "Get High Risk Orders",
+                          "loc": "Software Systems/Fraud Service/Containers/Api/Interfaces/Get High Risk Orders",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Update Order Fraud Check Result",
+                          "loc": "Software Systems/Fraud Service/Containers/Api/Interfaces/Update Order Fraud Check Result",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        }
+                      ],
+                      "types": [],
+                      "levelsOfDetails": [],
+                      "formats": []
+                    }
+                  ],
+                  "types": [
+                    "C4 Static",
+                    "C4"
+                  ],
+                  "levelsOfDetails": [
+                    "Container"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                },
+                {
+                  "label": "Database",
+                  "loc": "Software Systems/Fraud Service/Containers/Database",
+                  "urlset": [
+                    {
+                      "label": "Interfaces",
+                      "loc": "Software Systems/Fraud Service/Containers/Database/Interfaces",
+                      "urlset": [
+                        {
+                          "label": "Insert Fraud Check Result",
+                          "loc": "Software Systems/Fraud Service/Containers/Database/Interfaces/Insert Fraud Check Result",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Insert Order",
+                          "loc": "Software Systems/Fraud Service/Containers/Database/Interfaces/Insert Order",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Select High Risk Orders",
+                          "loc": "Software Systems/Fraud Service/Containers/Database/Interfaces/Select High Risk Orders",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Update Fraud Check Result",
+                          "loc": "Software Systems/Fraud Service/Containers/Database/Interfaces/Update Fraud Check Result",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        }
+                      ],
+                      "types": [],
+                      "levelsOfDetails": [],
+                      "formats": []
+                    }
+                  ],
+                  "types": [
+                    "C4 Static",
+                    "C4"
+                  ],
+                  "levelsOfDetails": [
+                    "Container"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                },
+                {
+                  "label": "Message Handler",
+                  "loc": "Software Systems/Fraud Service/Containers/Message Handler",
+                  "urlset": [
+                    {
+                      "label": "Interfaces",
+                      "loc": "Software Systems/Fraud Service/Containers/Message Handler/Interfaces",
+                      "urlset": [
+                        {
+                          "label": "Handle Order Created Event",
+                          "loc": "Software Systems/Fraud Service/Containers/Message Handler/Interfaces/Handle Order Created Event",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        }
+                      ],
+                      "types": [],
+                      "levelsOfDetails": [],
+                      "formats": []
+                    }
+                  ],
+                  "types": [
+                    "C4 Static",
+                    "C4"
+                  ],
+                  "levelsOfDetails": [
+                    "Container"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                },
+                {
+                  "label": "Messaging",
+                  "loc": "Software Systems/Fraud Service/Containers/Messaging",
+                  "urlset": [
+                    {
+                      "label": "Interfaces",
+                      "loc": "Software Systems/Fraud Service/Containers/Messaging/Interfaces",
+                      "urlset": [
+                        {
+                          "label": "Receive Fraud Check Result Event",
+                          "loc": "Software Systems/Fraud Service/Containers/Messaging/Interfaces/Receive Fraud Check Result Event",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Send Fraud Check Result Event",
+                          "loc": "Software Systems/Fraud Service/Containers/Messaging/Interfaces/Send Fraud Check Result Event",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        }
+                      ],
+                      "types": [],
+                      "levelsOfDetails": [],
+                      "formats": []
+                    }
+                  ],
+                  "types": [
+                    "C4 Static",
+                    "C4"
+                  ],
+                  "levelsOfDetails": [
+                    "Container"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                }
+              ],
+              "types": [],
+              "levelsOfDetails": [],
+              "formats": []
+            }
+          ],
+          "types": [
+            "C4 Static",
+            "C4"
+          ],
+          "levelsOfDetails": [
+            "Container",
+            "Context"
+          ],
+          "formats": [
+            "png",
+            "puml",
+            "svg"
+          ]
+        },
+        {
+          "label": "Fulfilment Service",
+          "loc": "Software Systems/Fulfilment Service",
+          "urlset": [
+            {
+              "label": "Containers",
+              "loc": "Software Systems/Fulfilment Service/Containers",
+              "urlset": [
+                {
+                  "label": "Api",
+                  "loc": "Software Systems/Fulfilment Service/Containers/Api",
+                  "urlset": [
+                    {
+                      "label": "Interfaces",
+                      "loc": "Software Systems/Fulfilment Service/Containers/Api/Interfaces",
+                      "urlset": [
+                        {
+                          "label": "Post Order Shipped Event",
+                          "loc": "Software Systems/Fulfilment Service/Containers/Api/Interfaces/Post Order Shipped Event",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        }
+                      ],
+                      "types": [],
+                      "levelsOfDetails": [],
+                      "formats": []
+                    }
+                  ],
+                  "types": [
+                    "C4 Static",
+                    "C4"
+                  ],
+                  "levelsOfDetails": [
+                    "Container"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                },
+                {
+                  "label": "Database",
+                  "loc": "Software Systems/Fulfilment Service/Containers/Database",
+                  "urlset": [
+                    {
+                      "label": "Interfaces",
+                      "loc": "Software Systems/Fulfilment Service/Containers/Database/Interfaces",
+                      "urlset": [
+                        {
+                          "label": "Insert Order",
+                          "loc": "Software Systems/Fulfilment Service/Containers/Database/Interfaces/Insert Order",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Update Order Status",
+                          "loc": "Software Systems/Fulfilment Service/Containers/Database/Interfaces/Update Order Status",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        }
+                      ],
+                      "types": [],
+                      "levelsOfDetails": [],
+                      "formats": []
+                    }
+                  ],
+                  "types": [
+                    "C4 Static",
+                    "C4"
+                  ],
+                  "levelsOfDetails": [
+                    "Container"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                },
+                {
+                  "label": "Message Handler",
+                  "loc": "Software Systems/Fulfilment Service/Containers/Message Handler",
+                  "urlset": [
+                    {
+                      "label": "Interfaces",
+                      "loc": "Software Systems/Fulfilment Service/Containers/Message Handler/Interfaces",
+                      "urlset": [
+                        {
+                          "label": "Handle Order Status Changed Event",
+                          "loc": "Software Systems/Fulfilment Service/Containers/Message Handler/Interfaces/Handle Order Status Changed Event",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        }
+                      ],
+                      "types": [],
+                      "levelsOfDetails": [],
+                      "formats": []
+                    }
+                  ],
+                  "types": [
+                    "C4 Static",
+                    "C4"
+                  ],
+                  "levelsOfDetails": [
+                    "Container"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                },
+                {
+                  "label": "Messaging",
+                  "loc": "Software Systems/Fulfilment Service/Containers/Messaging",
+                  "urlset": [
+                    {
+                      "label": "Interfaces",
+                      "loc": "Software Systems/Fulfilment Service/Containers/Messaging/Interfaces",
+                      "urlset": [
+                        {
+                          "label": "Receive Order Shipped Event",
+                          "loc": "Software Systems/Fulfilment Service/Containers/Messaging/Interfaces/Receive Order Shipped Event",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Send Order Shipped Event",
+                          "loc": "Software Systems/Fulfilment Service/Containers/Messaging/Interfaces/Send Order Shipped Event",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        }
+                      ],
+                      "types": [],
+                      "levelsOfDetails": [],
+                      "formats": []
+                    }
+                  ],
+                  "types": [
+                    "C4 Static",
+                    "C4"
+                  ],
+                  "levelsOfDetails": [
+                    "Container"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                }
+              ],
+              "types": [],
+              "levelsOfDetails": [],
+              "formats": []
+            }
+          ],
+          "types": [
+            "C4 Static",
+            "C4"
+          ],
+          "levelsOfDetails": [
+            "Container",
+            "Context"
+          ],
+          "formats": [
+            "png",
+            "puml",
+            "svg"
+          ]
+        },
+        {
+          "label": "Order Service",
+          "loc": "Software Systems/Order Service",
+          "urlset": [
+            {
+              "label": "Containers",
+              "loc": "Software Systems/Order Service/Containers",
+              "urlset": [
+                {
+                  "label": "Api",
+                  "loc": "Software Systems/Order Service/Containers/Api",
+                  "urlset": [
+                    {
+                      "label": "Interfaces",
+                      "loc": "Software Systems/Order Service/Containers/Api/Interfaces",
+                      "urlset": [
+                        {
+                          "label": "Create Order",
+                          "loc": "Software Systems/Order Service/Containers/Api/Interfaces/Create Order",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        }
+                      ],
+                      "types": [],
+                      "levelsOfDetails": [],
+                      "formats": []
+                    }
+                  ],
+                  "types": [
+                    "C4 Static",
+                    "C4"
+                  ],
+                  "levelsOfDetails": [
+                    "Container"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                },
+                {
+                  "label": "Database",
+                  "loc": "Software Systems/Order Service/Containers/Database",
+                  "urlset": [
+                    {
+                      "label": "Interfaces",
+                      "loc": "Software Systems/Order Service/Containers/Database/Interfaces",
+                      "urlset": [
+                        {
+                          "label": "Insert Order",
+                          "loc": "Software Systems/Order Service/Containers/Database/Interfaces/Insert Order",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Update Order Status",
+                          "loc": "Software Systems/Order Service/Containers/Database/Interfaces/Update Order Status",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        }
+                      ],
+                      "types": [],
+                      "levelsOfDetails": [],
+                      "formats": []
+                    }
+                  ],
+                  "types": [
+                    "C4 Static",
+                    "C4"
+                  ],
+                  "levelsOfDetails": [
+                    "Container"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                },
+                {
+                  "label": "Message Handler",
+                  "loc": "Software Systems/Order Service/Containers/Message Handler",
+                  "urlset": [
+                    {
+                      "label": "Interfaces",
+                      "loc": "Software Systems/Order Service/Containers/Message Handler/Interfaces",
+                      "urlset": [
+                        {
+                          "label": "Handle Fraud Check Result Event",
+                          "loc": "Software Systems/Order Service/Containers/Message Handler/Interfaces/Handle Fraud Check Result Event",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Handle Order Shipped Event",
+                          "loc": "Software Systems/Order Service/Containers/Message Handler/Interfaces/Handle Order Shipped Event",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Handle Payment Result Event",
+                          "loc": "Software Systems/Order Service/Containers/Message Handler/Interfaces/Handle Payment Result Event",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        }
+                      ],
+                      "types": [],
+                      "levelsOfDetails": [],
+                      "formats": []
+                    }
+                  ],
+                  "types": [
+                    "C4 Static",
+                    "C4"
+                  ],
+                  "levelsOfDetails": [
+                    "Container"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                },
+                {
+                  "label": "Messaging",
+                  "loc": "Software Systems/Order Service/Containers/Messaging",
+                  "urlset": [
+                    {
+                      "label": "Interfaces",
+                      "loc": "Software Systems/Order Service/Containers/Messaging/Interfaces",
+                      "urlset": [
+                        {
+                          "label": "Receive Order Created Event",
+                          "loc": "Software Systems/Order Service/Containers/Messaging/Interfaces/Receive Order Created Event",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Receive Order Status Changed Event",
+                          "loc": "Software Systems/Order Service/Containers/Messaging/Interfaces/Receive Order Status Changed Event",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Send Order Created Event",
+                          "loc": "Software Systems/Order Service/Containers/Messaging/Interfaces/Send Order Created Event",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Send Order Status Changed Event",
+                          "loc": "Software Systems/Order Service/Containers/Messaging/Interfaces/Send Order Status Changed Event",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        }
+                      ],
+                      "types": [],
+                      "levelsOfDetails": [],
+                      "formats": []
+                    }
+                  ],
+                  "types": [
+                    "C4 Static",
+                    "C4"
+                  ],
+                  "levelsOfDetails": [
+                    "Container"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                }
+              ],
+              "types": [],
+              "levelsOfDetails": [],
+              "formats": []
+            }
+          ],
+          "types": [
+            "C4 Static",
+            "C4"
+          ],
+          "levelsOfDetails": [
+            "Container",
+            "Context"
+          ],
+          "formats": [
+            "png",
+            "puml",
+            "svg"
+          ]
+        },
+        {
+          "label": "Payment Provider",
+          "loc": "Software Systems/Payment Provider",
+          "urlset": [
+            {
+              "label": "Interfaces",
+              "loc": "Software Systems/Payment Provider/Interfaces",
+              "urlset": [
+                {
+                  "label": "Process Payment",
+                  "loc": "Software Systems/Payment Provider/Interfaces/Process Payment",
+                  "urlset": [],
+                  "types": [
+                    "C4 Sequence",
+                    "C4 Static",
+                    "C4",
+                    "Sequence"
+                  ],
+                  "levelsOfDetails": [
+                    "Context"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                }
+              ],
+              "types": [],
+              "levelsOfDetails": [],
+              "formats": []
+            }
+          ],
+          "types": [
+            "C4 Static",
+            "C4"
+          ],
+          "levelsOfDetails": [
+            "Container",
+            "Context"
+          ],
+          "formats": [
+            "png",
+            "puml",
+            "svg"
+          ]
+        },
+        {
+          "label": "Payment Service",
+          "loc": "Software Systems/Payment Service",
+          "urlset": [
+            {
+              "label": "Containers",
+              "loc": "Software Systems/Payment Service/Containers",
+              "urlset": [
+                {
+                  "label": "Api",
+                  "loc": "Software Systems/Payment Service/Containers/Api",
+                  "urlset": [
+                    {
+                      "label": "Interfaces",
+                      "loc": "Software Systems/Payment Service/Containers/Api/Interfaces",
+                      "urlset": [
+                        {
+                          "label": "Post Payment Result Event",
+                          "loc": "Software Systems/Payment Service/Containers/Api/Interfaces/Post Payment Result Event",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        }
+                      ],
+                      "types": [],
+                      "levelsOfDetails": [],
+                      "formats": []
+                    }
+                  ],
+                  "types": [
+                    "C4 Static",
+                    "C4"
+                  ],
+                  "levelsOfDetails": [
+                    "Container"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                },
+                {
+                  "label": "Database",
+                  "loc": "Software Systems/Payment Service/Containers/Database",
+                  "urlset": [
+                    {
+                      "label": "Interfaces",
+                      "loc": "Software Systems/Payment Service/Containers/Database/Interfaces",
+                      "urlset": [
+                        {
+                          "label": "Insert Order",
+                          "loc": "Software Systems/Payment Service/Containers/Database/Interfaces/Insert Order",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Insert Payment Result",
+                          "loc": "Software Systems/Payment Service/Containers/Database/Interfaces/Insert Payment Result",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        }
+                      ],
+                      "types": [],
+                      "levelsOfDetails": [],
+                      "formats": []
+                    }
+                  ],
+                  "types": [
+                    "C4 Static",
+                    "C4"
+                  ],
+                  "levelsOfDetails": [
+                    "Container"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                },
+                {
+                  "label": "Message Handler",
+                  "loc": "Software Systems/Payment Service/Containers/Message Handler",
+                  "urlset": [
+                    {
+                      "label": "Interfaces",
+                      "loc": "Software Systems/Payment Service/Containers/Message Handler/Interfaces",
+                      "urlset": [
+                        {
+                          "label": "Handle Order Status Changed Event",
+                          "loc": "Software Systems/Payment Service/Containers/Message Handler/Interfaces/Handle Order Status Changed Event",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        }
+                      ],
+                      "types": [],
+                      "levelsOfDetails": [],
+                      "formats": []
+                    }
+                  ],
+                  "types": [
+                    "C4 Static",
+                    "C4"
+                  ],
+                  "levelsOfDetails": [
+                    "Container"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                },
+                {
+                  "label": "Messaging",
+                  "loc": "Software Systems/Payment Service/Containers/Messaging",
+                  "urlset": [
+                    {
+                      "label": "Interfaces",
+                      "loc": "Software Systems/Payment Service/Containers/Messaging/Interfaces",
+                      "urlset": [
+                        {
+                          "label": "Receive Payment Result Event",
+                          "loc": "Software Systems/Payment Service/Containers/Messaging/Interfaces/Receive Payment Result Event",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Send Payment Result Event",
+                          "loc": "Software Systems/Payment Service/Containers/Messaging/Interfaces/Send Payment Result Event",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        }
+                      ],
+                      "types": [],
+                      "levelsOfDetails": [],
+                      "formats": []
+                    }
+                  ],
+                  "types": [
+                    "C4 Static",
+                    "C4"
+                  ],
+                  "levelsOfDetails": [
+                    "Container"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                }
+              ],
+              "types": [],
+              "levelsOfDetails": [],
+              "formats": []
+            }
+          ],
+          "types": [
+            "C4 Static",
+            "C4"
+          ],
+          "levelsOfDetails": [
+            "Container",
+            "Context"
+          ],
+          "formats": [
+            "png",
+            "puml",
+            "svg"
+          ]
+        },
+        {
+          "label": "PIM App",
+          "loc": "Software Systems/PIM App",
+          "urlset": [
+            {
+              "label": "Interfaces",
+              "loc": "Software Systems/PIM App/Interfaces",
+              "urlset": [
+                {
+                  "label": "Delete Product",
+                  "loc": "Software Systems/PIM App/Interfaces/Delete Product",
+                  "urlset": [],
+                  "types": [
+                    "C4 Sequence",
+                    "C4 Static",
+                    "C4",
+                    "Sequence"
+                  ],
+                  "levelsOfDetails": [
+                    "Context"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                },
+                {
+                  "label": "Update Product",
+                  "loc": "Software Systems/PIM App/Interfaces/Update Product",
+                  "urlset": [],
+                  "types": [
+                    "C4 Sequence",
+                    "C4 Static",
+                    "C4",
+                    "Sequence"
+                  ],
+                  "levelsOfDetails": [
+                    "Context"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                },
+                {
+                  "label": "View Products",
+                  "loc": "Software Systems/PIM App/Interfaces/View Products",
+                  "urlset": [],
+                  "types": [
+                    "C4 Sequence",
+                    "C4 Static",
+                    "C4",
+                    "Sequence"
+                  ],
+                  "levelsOfDetails": [
+                    "Context"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                }
+              ],
+              "types": [],
+              "levelsOfDetails": [],
+              "formats": []
+            }
+          ],
+          "types": [
+            "C4 Static",
+            "C4"
+          ],
+          "levelsOfDetails": [
+            "Container",
+            "Context"
+          ],
+          "formats": [
+            "png",
+            "puml",
+            "svg"
+          ]
+        },
+        {
+          "label": "Pricing Service",
+          "loc": "Software Systems/Pricing Service",
+          "urlset": [
+            {
+              "label": "Containers",
+              "loc": "Software Systems/Pricing Service/Containers",
+              "urlset": [
+                {
+                  "label": "Api",
+                  "loc": "Software Systems/Pricing Service/Containers/Api",
+                  "urlset": [
+                    {
+                      "label": "Interfaces",
+                      "loc": "Software Systems/Pricing Service/Containers/Api/Interfaces",
+                      "urlset": [
+                        {
+                          "label": "Get Product Prices",
+                          "loc": "Software Systems/Pricing Service/Containers/Api/Interfaces/Get Product Prices",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Update Product Prices",
+                          "loc": "Software Systems/Pricing Service/Containers/Api/Interfaces/Update Product Prices",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        }
+                      ],
+                      "types": [],
+                      "levelsOfDetails": [],
+                      "formats": []
+                    }
+                  ],
+                  "types": [
+                    "C4 Static",
+                    "C4"
+                  ],
+                  "levelsOfDetails": [
+                    "Container"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                },
+                {
+                  "label": "Database",
+                  "loc": "Software Systems/Pricing Service/Containers/Database",
+                  "urlset": [
+                    {
+                      "label": "Interfaces",
+                      "loc": "Software Systems/Pricing Service/Containers/Database/Interfaces",
+                      "urlset": [
+                        {
+                          "label": "Insert Product",
+                          "loc": "Software Systems/Pricing Service/Containers/Database/Interfaces/Insert Product",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Select Product Prices",
+                          "loc": "Software Systems/Pricing Service/Containers/Database/Interfaces/Select Product Prices",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Select Products",
+                          "loc": "Software Systems/Pricing Service/Containers/Database/Interfaces/Select Products",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Update Product Prices",
+                          "loc": "Software Systems/Pricing Service/Containers/Database/Interfaces/Update Product Prices",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        }
+                      ],
+                      "types": [],
+                      "levelsOfDetails": [],
+                      "formats": []
+                    }
+                  ],
+                  "types": [
+                    "C4 Static",
+                    "C4"
+                  ],
+                  "levelsOfDetails": [
+                    "Container"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                },
+                {
+                  "label": "Message Handler",
+                  "loc": "Software Systems/Pricing Service/Containers/Message Handler",
+                  "urlset": [
+                    {
+                      "label": "Interfaces",
+                      "loc": "Software Systems/Pricing Service/Containers/Message Handler/Interfaces",
+                      "urlset": [
+                        {
+                          "label": "Handle Purchase Order Created Event",
+                          "loc": "Software Systems/Pricing Service/Containers/Message Handler/Interfaces/Handle Purchase Order Created Event",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Handle Purchase Order Updated Event",
+                          "loc": "Software Systems/Pricing Service/Containers/Message Handler/Interfaces/Handle Purchase Order Updated Event",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        }
+                      ],
+                      "types": [],
+                      "levelsOfDetails": [],
+                      "formats": []
+                    }
+                  ],
+                  "types": [
+                    "C4 Static",
+                    "C4"
+                  ],
+                  "levelsOfDetails": [
+                    "Container"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                },
+                {
+                  "label": "Messaging",
+                  "loc": "Software Systems/Pricing Service/Containers/Messaging",
+                  "urlset": [
+                    {
+                      "label": "Interfaces",
+                      "loc": "Software Systems/Pricing Service/Containers/Messaging/Interfaces",
+                      "urlset": [
+                        {
+                          "label": "Receive Product Price Changed Event",
+                          "loc": "Software Systems/Pricing Service/Containers/Messaging/Interfaces/Receive Product Price Changed Event",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Send Product Price Changed Event",
+                          "loc": "Software Systems/Pricing Service/Containers/Messaging/Interfaces/Send Product Price Changed Event",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        }
+                      ],
+                      "types": [],
+                      "levelsOfDetails": [],
+                      "formats": []
+                    }
+                  ],
+                  "types": [
+                    "C4 Static",
+                    "C4"
+                  ],
+                  "levelsOfDetails": [
+                    "Container"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                }
+              ],
+              "types": [],
+              "levelsOfDetails": [],
+              "formats": []
+            }
+          ],
+          "types": [
+            "C4 Static",
+            "C4"
+          ],
+          "levelsOfDetails": [
+            "Container",
+            "Context"
+          ],
+          "formats": [
+            "png",
+            "puml",
+            "svg"
+          ]
+        },
+        {
+          "label": "Product Service",
+          "loc": "Software Systems/Product Service",
+          "urlset": [
+            {
+              "label": "Containers",
+              "loc": "Software Systems/Product Service/Containers",
+              "urlset": [
+                {
+                  "label": "Api",
+                  "loc": "Software Systems/Product Service/Containers/Api",
+                  "urlset": [
+                    {
+                      "label": "Interfaces",
+                      "loc": "Software Systems/Product Service/Containers/Api/Interfaces",
+                      "urlset": [
+                        {
+                          "label": "Delete Product",
+                          "loc": "Software Systems/Product Service/Containers/Api/Interfaces/Delete Product",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Get Products",
+                          "loc": "Software Systems/Product Service/Containers/Api/Interfaces/Get Products",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Update Product",
+                          "loc": "Software Systems/Product Service/Containers/Api/Interfaces/Update Product",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        }
+                      ],
+                      "types": [],
+                      "levelsOfDetails": [],
+                      "formats": []
+                    }
+                  ],
+                  "types": [
+                    "C4 Static",
+                    "C4"
+                  ],
+                  "levelsOfDetails": [
+                    "Container"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                },
+                {
+                  "label": "Database",
+                  "loc": "Software Systems/Product Service/Containers/Database",
+                  "urlset": [
+                    {
+                      "label": "Interfaces",
+                      "loc": "Software Systems/Product Service/Containers/Database/Interfaces",
+                      "urlset": [
+                        {
+                          "label": "Delete Product",
+                          "loc": "Software Systems/Product Service/Containers/Database/Interfaces/Delete Product",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Insert Product",
+                          "loc": "Software Systems/Product Service/Containers/Database/Interfaces/Insert Product",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Select Products",
+                          "loc": "Software Systems/Product Service/Containers/Database/Interfaces/Select Products",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Update Product",
+                          "loc": "Software Systems/Product Service/Containers/Database/Interfaces/Update Product",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        }
+                      ],
+                      "types": [],
+                      "levelsOfDetails": [],
+                      "formats": []
+                    }
+                  ],
+                  "types": [
+                    "C4 Static",
+                    "C4"
+                  ],
+                  "levelsOfDetails": [
+                    "Container"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                },
+                {
+                  "label": "Message Handler",
+                  "loc": "Software Systems/Product Service/Containers/Message Handler",
+                  "urlset": [
+                    {
+                      "label": "Interfaces",
+                      "loc": "Software Systems/Product Service/Containers/Message Handler/Interfaces",
+                      "urlset": [
+                        {
+                          "label": "Handle Purchase Order Created Event",
+                          "loc": "Software Systems/Product Service/Containers/Message Handler/Interfaces/Handle Purchase Order Created Event",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Handle Purchase Order Updated Event",
+                          "loc": "Software Systems/Product Service/Containers/Message Handler/Interfaces/Handle Purchase Order Updated Event",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        }
+                      ],
+                      "types": [],
+                      "levelsOfDetails": [],
+                      "formats": []
+                    }
+                  ],
+                  "types": [
+                    "C4 Static",
+                    "C4"
+                  ],
+                  "levelsOfDetails": [
+                    "Container"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                },
+                {
+                  "label": "Messaging",
+                  "loc": "Software Systems/Product Service/Containers/Messaging",
+                  "urlset": [
+                    {
+                      "label": "Interfaces",
+                      "loc": "Software Systems/Product Service/Containers/Messaging/Interfaces",
+                      "urlset": [
+                        {
+                          "label": "Receive Product Created Event",
+                          "loc": "Software Systems/Product Service/Containers/Messaging/Interfaces/Receive Product Created Event",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Receive Product Deleted Event",
+                          "loc": "Software Systems/Product Service/Containers/Messaging/Interfaces/Receive Product Deleted Event",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Receive Product Updated Event",
+                          "loc": "Software Systems/Product Service/Containers/Messaging/Interfaces/Receive Product Updated Event",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Send Product Created Event",
+                          "loc": "Software Systems/Product Service/Containers/Messaging/Interfaces/Send Product Created Event",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Send Product Deleted Event",
+                          "loc": "Software Systems/Product Service/Containers/Messaging/Interfaces/Send Product Deleted Event",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Send Product Updated Event",
+                          "loc": "Software Systems/Product Service/Containers/Messaging/Interfaces/Send Product Updated Event",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        }
+                      ],
+                      "types": [],
+                      "levelsOfDetails": [],
+                      "formats": []
+                    }
+                  ],
+                  "types": [
+                    "C4 Static",
+                    "C4"
+                  ],
+                  "levelsOfDetails": [
+                    "Container"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                }
+              ],
+              "types": [],
+              "levelsOfDetails": [],
+              "formats": []
+            }
+          ],
+          "types": [
+            "C4 Static",
+            "C4"
+          ],
+          "levelsOfDetails": [
+            "Container",
+            "Context"
+          ],
+          "formats": [
+            "png",
+            "puml",
+            "svg"
+          ]
+        },
+        {
+          "label": "Search Service",
+          "loc": "Software Systems/Search Service",
+          "urlset": [
+            {
+              "label": "Containers",
+              "loc": "Software Systems/Search Service/Containers",
+              "urlset": [
+                {
+                  "label": "Api",
+                  "loc": "Software Systems/Search Service/Containers/Api",
+                  "urlset": [
+                    {
+                      "label": "Interfaces",
+                      "loc": "Software Systems/Search Service/Containers/Api/Interfaces",
+                      "urlset": [
+                        {
+                          "label": "Search Products",
+                          "loc": "Software Systems/Search Service/Containers/Api/Interfaces/Search Products",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        }
+                      ],
+                      "types": [],
+                      "levelsOfDetails": [],
+                      "formats": []
+                    }
+                  ],
+                  "types": [
+                    "C4 Static",
+                    "C4"
+                  ],
+                  "levelsOfDetails": [
+                    "Container"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                },
+                {
+                  "label": "Database",
+                  "loc": "Software Systems/Search Service/Containers/Database",
+                  "urlset": [
+                    {
+                      "label": "Interfaces",
+                      "loc": "Software Systems/Search Service/Containers/Database/Interfaces",
+                      "urlset": [
+                        {
+                          "label": "Delete Product",
+                          "loc": "Software Systems/Search Service/Containers/Database/Interfaces/Delete Product",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Insert Product",
+                          "loc": "Software Systems/Search Service/Containers/Database/Interfaces/Insert Product",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Select Products",
+                          "loc": "Software Systems/Search Service/Containers/Database/Interfaces/Select Products",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Update Product",
+                          "loc": "Software Systems/Search Service/Containers/Database/Interfaces/Update Product",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Update Product Prices",
+                          "loc": "Software Systems/Search Service/Containers/Database/Interfaces/Update Product Prices",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        }
+                      ],
+                      "types": [],
+                      "levelsOfDetails": [],
+                      "formats": []
+                    }
+                  ],
+                  "types": [
+                    "C4 Static",
+                    "C4"
+                  ],
+                  "levelsOfDetails": [
+                    "Container"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                },
+                {
+                  "label": "Message Handler",
+                  "loc": "Software Systems/Search Service/Containers/Message Handler",
+                  "urlset": [
+                    {
+                      "label": "Interfaces",
+                      "loc": "Software Systems/Search Service/Containers/Message Handler/Interfaces",
+                      "urlset": [
+                        {
+                          "label": "Handle Product Created Event",
+                          "loc": "Software Systems/Search Service/Containers/Message Handler/Interfaces/Handle Product Created Event",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Handle Product Deleted Event",
+                          "loc": "Software Systems/Search Service/Containers/Message Handler/Interfaces/Handle Product Deleted Event",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Handle Product Price Changed Event",
+                          "loc": "Software Systems/Search Service/Containers/Message Handler/Interfaces/Handle Product Price Changed Event",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Handle Product Updated Event",
+                          "loc": "Software Systems/Search Service/Containers/Message Handler/Interfaces/Handle Product Updated Event",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        }
+                      ],
+                      "types": [],
+                      "levelsOfDetails": [],
+                      "formats": []
+                    }
+                  ],
+                  "types": [
+                    "C4 Static",
+                    "C4"
+                  ],
+                  "levelsOfDetails": [
+                    "Container"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                }
+              ],
+              "types": [],
+              "levelsOfDetails": [],
+              "formats": []
+            }
+          ],
+          "types": [
+            "C4 Static",
+            "C4"
+          ],
+          "levelsOfDetails": [
+            "Container",
+            "Context"
+          ],
+          "formats": [
+            "png",
+            "puml",
+            "svg"
+          ]
+        },
+        {
+          "label": "Storefront App",
+          "loc": "Software Systems/Storefront App",
+          "urlset": [
+            {
+              "label": "Interfaces",
+              "loc": "Software Systems/Storefront App/Interfaces",
+              "urlset": [
+                {
+                  "label": "Add Product To Basket",
+                  "loc": "Software Systems/Storefront App/Interfaces/Add Product To Basket",
+                  "urlset": [],
+                  "types": [
+                    "C4 Sequence",
+                    "C4 Static",
+                    "C4",
+                    "Sequence"
+                  ],
+                  "levelsOfDetails": [
+                    "Context"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                },
+                {
+                  "label": "Checkout",
+                  "loc": "Software Systems/Storefront App/Interfaces/Checkout",
+                  "urlset": [],
+                  "types": [
+                    "C4 Sequence",
+                    "C4 Static",
+                    "C4",
+                    "Sequence"
+                  ],
+                  "levelsOfDetails": [
+                    "Context"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                },
+                {
+                  "label": "Delete Basket Item",
+                  "loc": "Software Systems/Storefront App/Interfaces/Delete Basket Item",
+                  "urlset": [],
+                  "types": [
+                    "C4 Sequence",
+                    "C4 Static",
+                    "C4",
+                    "Sequence"
+                  ],
+                  "levelsOfDetails": [
+                    "Context"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                },
+                {
+                  "label": "Search Products",
+                  "loc": "Software Systems/Storefront App/Interfaces/Search Products",
+                  "urlset": [],
+                  "types": [
+                    "C4 Sequence",
+                    "C4 Static",
+                    "C4",
+                    "Sequence"
+                  ],
+                  "levelsOfDetails": [
+                    "Context"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                },
+                {
+                  "label": "Update Basket Item",
+                  "loc": "Software Systems/Storefront App/Interfaces/Update Basket Item",
+                  "urlset": [],
+                  "types": [
+                    "C4 Sequence",
+                    "C4 Static",
+                    "C4",
+                    "Sequence"
+                  ],
+                  "levelsOfDetails": [
+                    "Context"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                },
+                {
+                  "label": "View Basket",
+                  "loc": "Software Systems/Storefront App/Interfaces/View Basket",
+                  "urlset": [],
+                  "types": [
+                    "C4 Sequence",
+                    "C4 Static",
+                    "C4",
+                    "Sequence"
+                  ],
+                  "levelsOfDetails": [
+                    "Context"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                },
+                {
+                  "label": "View Products",
+                  "loc": "Software Systems/Storefront App/Interfaces/View Products",
+                  "urlset": [],
+                  "types": [
+                    "C4 Sequence",
+                    "C4 Static",
+                    "C4",
+                    "Sequence"
+                  ],
+                  "levelsOfDetails": [
+                    "Context"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                }
+              ],
+              "types": [],
+              "levelsOfDetails": [],
+              "formats": []
+            }
+          ],
+          "types": [
+            "C4 Static",
+            "C4"
+          ],
+          "levelsOfDetails": [
+            "Container",
+            "Context"
+          ],
+          "formats": [
+            "png",
+            "puml",
+            "svg"
+          ]
+        },
+        {
+          "label": "Storefront Bff",
+          "loc": "Software Systems/Storefront Bff",
+          "urlset": [
+            {
+              "label": "Interfaces",
+              "loc": "Software Systems/Storefront Bff/Interfaces",
+              "urlset": [
+                {
+                  "label": "Add Basket Item",
+                  "loc": "Software Systems/Storefront Bff/Interfaces/Add Basket Item",
+                  "urlset": [],
+                  "types": [
+                    "C4 Sequence",
+                    "C4 Static",
+                    "C4",
+                    "Sequence"
+                  ],
+                  "levelsOfDetails": [
+                    "Context"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                },
+                {
+                  "label": "Checkout",
+                  "loc": "Software Systems/Storefront Bff/Interfaces/Checkout",
+                  "urlset": [],
+                  "types": [
+                    "C4 Sequence",
+                    "C4 Static",
+                    "C4",
+                    "Sequence"
+                  ],
+                  "levelsOfDetails": [
+                    "Context"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                },
+                {
+                  "label": "Delete Basket Item",
+                  "loc": "Software Systems/Storefront Bff/Interfaces/Delete Basket Item",
+                  "urlset": [],
+                  "types": [
+                    "C4 Sequence",
+                    "C4 Static",
+                    "C4",
+                    "Sequence"
+                  ],
+                  "levelsOfDetails": [
+                    "Context"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                },
+                {
+                  "label": "Get Basket",
+                  "loc": "Software Systems/Storefront Bff/Interfaces/Get Basket",
+                  "urlset": [],
+                  "types": [
+                    "C4 Sequence",
+                    "C4 Static",
+                    "C4",
+                    "Sequence"
+                  ],
+                  "levelsOfDetails": [
+                    "Context"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                },
+                {
+                  "label": "Get Products",
+                  "loc": "Software Systems/Storefront Bff/Interfaces/Get Products",
+                  "urlset": [],
+                  "types": [
+                    "C4 Sequence",
+                    "C4 Static",
+                    "C4",
+                    "Sequence"
+                  ],
+                  "levelsOfDetails": [
+                    "Context"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                },
+                {
+                  "label": "Search Products",
+                  "loc": "Software Systems/Storefront Bff/Interfaces/Search Products",
+                  "urlset": [],
+                  "types": [
+                    "C4 Sequence",
+                    "C4 Static",
+                    "C4",
+                    "Sequence"
+                  ],
+                  "levelsOfDetails": [
+                    "Context"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                },
+                {
+                  "label": "Update Basket Item",
+                  "loc": "Software Systems/Storefront Bff/Interfaces/Update Basket Item",
+                  "urlset": [],
+                  "types": [
+                    "C4 Sequence",
+                    "C4 Static",
+                    "C4",
+                    "Sequence"
+                  ],
+                  "levelsOfDetails": [
+                    "Context"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                }
+              ],
+              "types": [],
+              "levelsOfDetails": [],
+              "formats": []
+            }
+          ],
+          "types": [
+            "C4 Static",
+            "C4"
+          ],
+          "levelsOfDetails": [
+            "Container",
+            "Context"
+          ],
+          "formats": [
+            "png",
+            "puml",
+            "svg"
+          ]
+        },
+        {
+          "label": "WMS",
+          "loc": "Software Systems/WMS",
+          "urlset": [
+            {
+              "label": "Interfaces",
+              "loc": "Software Systems/WMS/Interfaces",
+              "urlset": [
+                {
+                  "label": "Create Purchase Order",
+                  "loc": "Software Systems/WMS/Interfaces/Create Purchase Order",
+                  "urlset": [],
+                  "types": [
+                    "C4 Sequence",
+                    "C4 Static",
+                    "C4",
+                    "Sequence"
+                  ],
+                  "levelsOfDetails": [
+                    "Context"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                },
+                {
+                  "label": "Delete Purchase Order",
+                  "loc": "Software Systems/WMS/Interfaces/Delete Purchase Order",
+                  "urlset": [],
+                  "types": [
+                    "C4 Sequence",
+                    "C4 Static",
+                    "C4",
+                    "Sequence"
+                  ],
+                  "levelsOfDetails": [
+                    "Context"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                },
+                {
+                  "label": "Ship Order",
+                  "loc": "Software Systems/WMS/Interfaces/Ship Order",
+                  "urlset": [],
+                  "types": [
+                    "C4 Sequence",
+                    "C4 Static",
+                    "C4",
+                    "Sequence"
+                  ],
+                  "levelsOfDetails": [
+                    "Context"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                },
+                {
+                  "label": "Update Purchase Order",
+                  "loc": "Software Systems/WMS/Interfaces/Update Purchase Order",
+                  "urlset": [],
+                  "types": [
+                    "C4 Sequence",
+                    "C4 Static",
+                    "C4",
+                    "Sequence"
+                  ],
+                  "levelsOfDetails": [
+                    "Context"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                }
+              ],
+              "types": [],
+              "levelsOfDetails": [],
+              "formats": []
+            }
+          ],
+          "types": [
+            "C4 Static",
+            "C4"
+          ],
+          "levelsOfDetails": [
+            "Container",
+            "Context"
+          ],
+          "formats": [
+            "png",
+            "puml",
+            "svg"
+          ]
+        }
+      ],
+      "types": [
+        "C4 Static",
+        "C4"
+      ],
+      "levelsOfDetails": [
+        "Container",
+        "Context"
+      ],
+      "formats": [
+        "png",
+        "puml",
+        "svg"
+      ]
+    }
+  ]
+}

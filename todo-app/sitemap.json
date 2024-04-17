@@ -1,0 +1,539 @@
+{
+  "urlset": [
+    {
+      "label": "Software Systems",
+      "loc": "Software Systems",
+      "urlset": [
+        {
+          "label": "To Do App",
+          "loc": "Software Systems/To Do App",
+          "urlset": [
+            {
+              "label": "Containers",
+              "loc": "Software Systems/To Do App/Containers",
+              "urlset": [
+                {
+                  "label": "Database",
+                  "loc": "Software Systems/To Do App/Containers/Database",
+                  "urlset": [
+                    {
+                      "label": "Interfaces",
+                      "loc": "Software Systems/To Do App/Containers/Database/Interfaces",
+                      "urlset": [
+                        {
+                          "label": "Delete Task",
+                          "loc": "Software Systems/To Do App/Containers/Database/Interfaces/Delete Task",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Insert Task",
+                          "loc": "Software Systems/To Do App/Containers/Database/Interfaces/Insert Task",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Select Tasks",
+                          "loc": "Software Systems/To Do App/Containers/Database/Interfaces/Select Tasks",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Update Task",
+                          "loc": "Software Systems/To Do App/Containers/Database/Interfaces/Update Task",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        }
+                      ],
+                      "types": [],
+                      "levelsOfDetails": [],
+                      "formats": []
+                    }
+                  ],
+                  "types": [
+                    "C4 Static",
+                    "C4"
+                  ],
+                  "levelsOfDetails": [
+                    "Container"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                },
+                {
+                  "label": "Mobile App",
+                  "loc": "Software Systems/To Do App/Containers/Mobile App",
+                  "urlset": [
+                    {
+                      "label": "Interfaces",
+                      "loc": "Software Systems/To Do App/Containers/Mobile App/Interfaces",
+                      "urlset": [
+                        {
+                          "label": "Add Task",
+                          "loc": "Software Systems/To Do App/Containers/Mobile App/Interfaces/Add Task",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Delete Task",
+                          "loc": "Software Systems/To Do App/Containers/Mobile App/Interfaces/Delete Task",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Mark Task As Done",
+                          "loc": "Software Systems/To Do App/Containers/Mobile App/Interfaces/Mark Task As Done",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Update Task",
+                          "loc": "Software Systems/To Do App/Containers/Mobile App/Interfaces/Update Task",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "View Tasks",
+                          "loc": "Software Systems/To Do App/Containers/Mobile App/Interfaces/View Tasks",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        }
+                      ],
+                      "types": [],
+                      "levelsOfDetails": [],
+                      "formats": []
+                    }
+                  ],
+                  "types": [
+                    "C4 Static",
+                    "C4"
+                  ],
+                  "levelsOfDetails": [
+                    "Container"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                },
+                {
+                  "label": "Web Api",
+                  "loc": "Software Systems/To Do App/Containers/Web Api",
+                  "urlset": [
+                    {
+                      "label": "Interfaces",
+                      "loc": "Software Systems/To Do App/Containers/Web Api/Interfaces",
+                      "urlset": [
+                        {
+                          "label": "Add Task",
+                          "loc": "Software Systems/To Do App/Containers/Web Api/Interfaces/Add Task",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Delete Task",
+                          "loc": "Software Systems/To Do App/Containers/Web Api/Interfaces/Delete Task",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Get Tasks",
+                          "loc": "Software Systems/To Do App/Containers/Web Api/Interfaces/Get Tasks",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Mark Task As Done",
+                          "loc": "Software Systems/To Do App/Containers/Web Api/Interfaces/Mark Task As Done",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Update Task",
+                          "loc": "Software Systems/To Do App/Containers/Web Api/Interfaces/Update Task",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        }
+                      ],
+                      "types": [],
+                      "levelsOfDetails": [],
+                      "formats": []
+                    }
+                  ],
+                  "types": [
+                    "C4 Static",
+                    "C4"
+                  ],
+                  "levelsOfDetails": [
+                    "Container"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                },
+                {
+                  "label": "Web App",
+                  "loc": "Software Systems/To Do App/Containers/Web App",
+                  "urlset": [
+                    {
+                      "label": "Interfaces",
+                      "loc": "Software Systems/To Do App/Containers/Web App/Interfaces",
+                      "urlset": [
+                        {
+                          "label": "Add Task",
+                          "loc": "Software Systems/To Do App/Containers/Web App/Interfaces/Add Task",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Delete Task",
+                          "loc": "Software Systems/To Do App/Containers/Web App/Interfaces/Delete Task",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Mark Task As Done",
+                          "loc": "Software Systems/To Do App/Containers/Web App/Interfaces/Mark Task As Done",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Update Task",
+                          "loc": "Software Systems/To Do App/Containers/Web App/Interfaces/Update Task",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "View Tasks",
+                          "loc": "Software Systems/To Do App/Containers/Web App/Interfaces/View Tasks",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        }
+                      ],
+                      "types": [],
+                      "levelsOfDetails": [],
+                      "formats": []
+                    }
+                  ],
+                  "types": [
+                    "C4 Static",
+                    "C4"
+                  ],
+                  "levelsOfDetails": [
+                    "Container"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                }
+              ],
+              "types": [],
+              "levelsOfDetails": [],
+              "formats": []
+            }
+          ],
+          "types": [
+            "C4 Static",
+            "C4"
+          ],
+          "levelsOfDetails": [
+            "Container",
+            "Context"
+          ],
+          "formats": [
+            "png",
+            "puml",
+            "svg"
+          ]
+        }
+      ],
+      "types": [
+        "C4 Static",
+        "C4"
+      ],
+      "levelsOfDetails": [
+        "Container",
+        "Context"
+      ],
+      "formats": [
+        "png",
+        "puml",
+        "svg"
+      ]
+    }
+  ]
+}

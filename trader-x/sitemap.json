@@ -1,0 +1,1270 @@
+{
+  "urlset": [
+    {
+      "label": "Business Processes",
+      "loc": "Business Processes",
+      "urlset": [
+        {
+          "label": "Execute Trades",
+          "loc": "Business Processes/Execute Trades",
+          "urlset": [],
+          "types": [
+            "C4 Sequence",
+            "C4 Static",
+            "C4",
+            "Sequence"
+          ],
+          "levelsOfDetails": [
+            "Container",
+            "Context"
+          ],
+          "formats": [
+            "png",
+            "puml",
+            "svg"
+          ]
+        },
+        {
+          "label": "Manage Accounts",
+          "loc": "Business Processes/Manage Accounts",
+          "urlset": [],
+          "types": [
+            "C4 Sequence",
+            "C4 Static",
+            "C4",
+            "Sequence"
+          ],
+          "levelsOfDetails": [
+            "Container",
+            "Context"
+          ],
+          "formats": [
+            "png",
+            "puml",
+            "svg"
+          ]
+        },
+        {
+          "label": "People Search",
+          "loc": "Business Processes/People Search",
+          "urlset": [],
+          "types": [
+            "C4 Sequence",
+            "C4 Static",
+            "C4",
+            "Sequence"
+          ],
+          "levelsOfDetails": [
+            "Container",
+            "Context"
+          ],
+          "formats": [
+            "png",
+            "puml",
+            "svg"
+          ]
+        },
+        {
+          "label": "View Trade Status And Positions",
+          "loc": "Business Processes/View Trade Status And Positions",
+          "urlset": [],
+          "types": [
+            "C4 Sequence",
+            "C4 Static",
+            "C4",
+            "Sequence"
+          ],
+          "levelsOfDetails": [
+            "Container",
+            "Context"
+          ],
+          "formats": [
+            "png",
+            "puml",
+            "svg"
+          ]
+        }
+      ],
+      "types": [],
+      "levelsOfDetails": [],
+      "formats": []
+    },
+    {
+      "label": "Software Systems",
+      "loc": "Software Systems",
+      "urlset": [
+        {
+          "label": "TraderX",
+          "loc": "Software Systems/TraderX",
+          "urlset": [
+            {
+              "label": "Containers",
+              "loc": "Software Systems/TraderX/Containers",
+              "urlset": [
+                {
+                  "label": "Accounts Service",
+                  "loc": "Software Systems/TraderX/Containers/Accounts Service",
+                  "urlset": [
+                    {
+                      "label": "Interfaces",
+                      "loc": "Software Systems/TraderX/Containers/Accounts Service/Interfaces",
+                      "urlset": [
+                        {
+                          "label": "Create Account",
+                          "loc": "Software Systems/TraderX/Containers/Accounts Service/Interfaces/Create Account",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Get Accounts",
+                          "loc": "Software Systems/TraderX/Containers/Accounts Service/Interfaces/Get Accounts",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Update Account",
+                          "loc": "Software Systems/TraderX/Containers/Accounts Service/Interfaces/Update Account",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Validate Accounts",
+                          "loc": "Software Systems/TraderX/Containers/Accounts Service/Interfaces/Validate Accounts",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        }
+                      ],
+                      "types": [],
+                      "levelsOfDetails": [],
+                      "formats": []
+                    }
+                  ],
+                  "types": [
+                    "C4 Static",
+                    "C4"
+                  ],
+                  "levelsOfDetails": [
+                    "Container"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                },
+                {
+                  "label": "People Service",
+                  "loc": "Software Systems/TraderX/Containers/People Service",
+                  "urlset": [
+                    {
+                      "label": "Interfaces",
+                      "loc": "Software Systems/TraderX/Containers/People Service/Interfaces",
+                      "urlset": [
+                        {
+                          "label": "Get People Data",
+                          "loc": "Software Systems/TraderX/Containers/People Service/Interfaces/Get People Data",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        }
+                      ],
+                      "types": [],
+                      "levelsOfDetails": [],
+                      "formats": []
+                    }
+                  ],
+                  "types": [
+                    "C4 Static",
+                    "C4"
+                  ],
+                  "levelsOfDetails": [
+                    "Container"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                },
+                {
+                  "label": "Position Service",
+                  "loc": "Software Systems/TraderX/Containers/Position Service",
+                  "urlset": [
+                    {
+                      "label": "Interfaces",
+                      "loc": "Software Systems/TraderX/Containers/Position Service/Interfaces",
+                      "urlset": [
+                        {
+                          "label": "Get Positions For Account",
+                          "loc": "Software Systems/TraderX/Containers/Position Service/Interfaces/Get Positions For Account",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Get Trades For Account",
+                          "loc": "Software Systems/TraderX/Containers/Position Service/Interfaces/Get Trades For Account",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        }
+                      ],
+                      "types": [],
+                      "levelsOfDetails": [],
+                      "formats": []
+                    }
+                  ],
+                  "types": [
+                    "C4 Static",
+                    "C4"
+                  ],
+                  "levelsOfDetails": [
+                    "Container"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                },
+                {
+                  "label": "Reference Data Service",
+                  "loc": "Software Systems/TraderX/Containers/Reference Data Service",
+                  "urlset": [
+                    {
+                      "label": "Interfaces",
+                      "loc": "Software Systems/TraderX/Containers/Reference Data Service/Interfaces",
+                      "urlset": [
+                        {
+                          "label": "Get Securities",
+                          "loc": "Software Systems/TraderX/Containers/Reference Data Service/Interfaces/Get Securities",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Validate Securities",
+                          "loc": "Software Systems/TraderX/Containers/Reference Data Service/Interfaces/Validate Securities",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        }
+                      ],
+                      "types": [],
+                      "levelsOfDetails": [],
+                      "formats": []
+                    }
+                  ],
+                  "types": [
+                    "C4 Static",
+                    "C4"
+                  ],
+                  "levelsOfDetails": [
+                    "Container"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                },
+                {
+                  "label": "Trade Feed",
+                  "loc": "Software Systems/TraderX/Containers/Trade Feed",
+                  "urlset": [
+                    {
+                      "label": "Interfaces",
+                      "loc": "Software Systems/TraderX/Containers/Trade Feed/Interfaces",
+                      "urlset": [
+                        {
+                          "label": "Receive Trade Request",
+                          "loc": "Software Systems/TraderX/Containers/Trade Feed/Interfaces/Receive Trade Request",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Receive Updates To Positions",
+                          "loc": "Software Systems/TraderX/Containers/Trade Feed/Interfaces/Receive Updates To Positions",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Receive Updates To Trades",
+                          "loc": "Software Systems/TraderX/Containers/Trade Feed/Interfaces/Receive Updates To Trades",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Send Trade Request",
+                          "loc": "Software Systems/TraderX/Containers/Trade Feed/Interfaces/Send Trade Request",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Send Updates To Positions",
+                          "loc": "Software Systems/TraderX/Containers/Trade Feed/Interfaces/Send Updates To Positions",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Send Updates To Trades",
+                          "loc": "Software Systems/TraderX/Containers/Trade Feed/Interfaces/Send Updates To Trades",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        }
+                      ],
+                      "types": [],
+                      "levelsOfDetails": [],
+                      "formats": []
+                    }
+                  ],
+                  "types": [
+                    "C4 Static",
+                    "C4"
+                  ],
+                  "levelsOfDetails": [
+                    "Container"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                },
+                {
+                  "label": "Trade Processor",
+                  "loc": "Software Systems/TraderX/Containers/Trade Processor",
+                  "urlset": [
+                    {
+                      "label": "Interfaces",
+                      "loc": "Software Systems/TraderX/Containers/Trade Processor/Interfaces",
+                      "urlset": [
+                        {
+                          "label": "Start",
+                          "loc": "Software Systems/TraderX/Containers/Trade Processor/Interfaces/Start",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        }
+                      ],
+                      "types": [],
+                      "levelsOfDetails": [],
+                      "formats": []
+                    }
+                  ],
+                  "types": [
+                    "C4 Static",
+                    "C4"
+                  ],
+                  "levelsOfDetails": [
+                    "Container"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                },
+                {
+                  "label": "TraderX DB",
+                  "loc": "Software Systems/TraderX/Containers/TraderX DB",
+                  "urlset": [
+                    {
+                      "label": "Interfaces",
+                      "loc": "Software Systems/TraderX/Containers/TraderX DB/Interfaces",
+                      "urlset": [
+                        {
+                          "label": "Insert Trade Request",
+                          "loc": "Software Systems/TraderX/Containers/TraderX DB/Interfaces/Insert Trade Request",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Save Position State",
+                          "loc": "Software Systems/TraderX/Containers/TraderX DB/Interfaces/Save Position State",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Save Trade State",
+                          "loc": "Software Systems/TraderX/Containers/TraderX DB/Interfaces/Save Trade State",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Select All Trades For Account",
+                          "loc": "Software Systems/TraderX/Containers/TraderX DB/Interfaces/Select All Trades For Account",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Select Current Positions",
+                          "loc": "Software Systems/TraderX/Containers/TraderX DB/Interfaces/Select Current Positions",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Select Default Positions For Account",
+                          "loc": "Software Systems/TraderX/Containers/TraderX DB/Interfaces/Select Default Positions For Account",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Update Trade Status",
+                          "loc": "Software Systems/TraderX/Containers/TraderX DB/Interfaces/Update Trade Status",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        }
+                      ],
+                      "types": [],
+                      "levelsOfDetails": [],
+                      "formats": []
+                    }
+                  ],
+                  "types": [
+                    "C4 Static",
+                    "C4"
+                  ],
+                  "levelsOfDetails": [
+                    "Container"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                },
+                {
+                  "label": "Trading Services",
+                  "loc": "Software Systems/TraderX/Containers/Trading Services",
+                  "urlset": [
+                    {
+                      "label": "Interfaces",
+                      "loc": "Software Systems/TraderX/Containers/Trading Services/Interfaces",
+                      "urlset": [
+                        {
+                          "label": "Cancel Trade",
+                          "loc": "Software Systems/TraderX/Containers/Trading Services/Interfaces/Cancel Trade",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Create Trade",
+                          "loc": "Software Systems/TraderX/Containers/Trading Services/Interfaces/Create Trade",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        }
+                      ],
+                      "types": [],
+                      "levelsOfDetails": [],
+                      "formats": []
+                    }
+                  ],
+                  "types": [
+                    "C4 Static",
+                    "C4"
+                  ],
+                  "levelsOfDetails": [
+                    "Container"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                },
+                {
+                  "label": "Web Client",
+                  "loc": "Software Systems/TraderX/Containers/Web Client",
+                  "urlset": [
+                    {
+                      "label": "Interfaces",
+                      "loc": "Software Systems/TraderX/Containers/Web Client/Interfaces",
+                      "urlset": [
+                        {
+                          "label": "Cancel Trade",
+                          "loc": "Software Systems/TraderX/Containers/Web Client/Interfaces/Cancel Trade",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Create Account",
+                          "loc": "Software Systems/TraderX/Containers/Web Client/Interfaces/Create Account",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Create Trade",
+                          "loc": "Software Systems/TraderX/Containers/Web Client/Interfaces/Create Trade",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Send Trade And Position Status Updates",
+                          "loc": "Software Systems/TraderX/Containers/Web Client/Interfaces/Send Trade And Position Status Updates",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Type Ahead People Search",
+                          "loc": "Software Systems/TraderX/Containers/Web Client/Interfaces/Type Ahead People Search",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Update Account",
+                          "loc": "Software Systems/TraderX/Containers/Web Client/Interfaces/Update Account",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Update Trade And Position Status View",
+                          "loc": "Software Systems/TraderX/Containers/Web Client/Interfaces/Update Trade And Position Status View",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "View Account",
+                          "loc": "Software Systems/TraderX/Containers/Web Client/Interfaces/View Account",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "View Trade Status And Positions",
+                          "loc": "Software Systems/TraderX/Containers/Web Client/Interfaces/View Trade Status And Positions",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        }
+                      ],
+                      "types": [],
+                      "levelsOfDetails": [],
+                      "formats": []
+                    }
+                  ],
+                  "types": [
+                    "C4 Static",
+                    "C4"
+                  ],
+                  "levelsOfDetails": [
+                    "Container"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                },
+                {
+                  "label": "Web GUI",
+                  "loc": "Software Systems/TraderX/Containers/Web GUI",
+                  "urlset": [
+                    {
+                      "label": "Interfaces",
+                      "loc": "Software Systems/TraderX/Containers/Web GUI/Interfaces",
+                      "urlset": [
+                        {
+                          "label": "Cancel Trade",
+                          "loc": "Software Systems/TraderX/Containers/Web GUI/Interfaces/Cancel Trade",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Create Account",
+                          "loc": "Software Systems/TraderX/Containers/Web GUI/Interfaces/Create Account",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Create Trade",
+                          "loc": "Software Systems/TraderX/Containers/Web GUI/Interfaces/Create Trade",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Load Account",
+                          "loc": "Software Systems/TraderX/Containers/Web GUI/Interfaces/Load Account",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Load Positions For Account",
+                          "loc": "Software Systems/TraderX/Containers/Web GUI/Interfaces/Load Positions For Account",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Load Trades For Account",
+                          "loc": "Software Systems/TraderX/Containers/Web GUI/Interfaces/Load Trades For Account",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Start",
+                          "loc": "Software Systems/TraderX/Containers/Web GUI/Interfaces/Start",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Type Ahead People Search",
+                          "loc": "Software Systems/TraderX/Containers/Web GUI/Interfaces/Type Ahead People Search",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        },
+                        {
+                          "label": "Update Account",
+                          "loc": "Software Systems/TraderX/Containers/Web GUI/Interfaces/Update Account",
+                          "urlset": [],
+                          "types": [
+                            "C4 Sequence",
+                            "C4 Static",
+                            "C4",
+                            "Sequence"
+                          ],
+                          "levelsOfDetails": [
+                            "Container",
+                            "Context"
+                          ],
+                          "formats": [
+                            "png",
+                            "puml",
+                            "svg"
+                          ]
+                        }
+                      ],
+                      "types": [],
+                      "levelsOfDetails": [],
+                      "formats": []
+                    }
+                  ],
+                  "types": [
+                    "C4 Static",
+                    "C4"
+                  ],
+                  "levelsOfDetails": [
+                    "Container"
+                  ],
+                  "formats": [
+                    "png",
+                    "puml",
+                    "svg"
+                  ]
+                }
+              ],
+              "types": [],
+              "levelsOfDetails": [],
+              "formats": []
+            }
+          ],
+          "types": [
+            "C4 Static",
+            "C4"
+          ],
+          "levelsOfDetails": [
+            "Container",
+            "Context"
+          ],
+          "formats": [
+            "png",
+            "puml",
+            "svg"
+          ]
+        }
+      ],
+      "types": [
+        "C4 Static",
+        "C4"
+      ],
+      "levelsOfDetails": [
+        "Container",
+        "Context"
+      ],
+      "formats": [
+        "png",
+        "puml",
+        "svg"
+      ]
+    }
+  ]
+}
