@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/dotnet-eshop/static/css/main.c4a43c5b.css",
-    "main.js": "/dotnet-eshop/static/js/main.fbaa8275.js",
-    "static/js/453.4b019878.chunk.js": "/dotnet-eshop/static/js/453.4b019878.chunk.js",
-    "index.html": "/dotnet-eshop/index.html",
-    "main.c4a43c5b.css.map": "/dotnet-eshop/static/css/main.c4a43c5b.css.map",
-    "main.fbaa8275.js.map": "/dotnet-eshop/static/js/main.fbaa8275.js.map",
-    "453.4b019878.chunk.js.map": "/dotnet-eshop/static/js/453.4b019878.chunk.js.map"
+    "main.css": "/architecture-as-code-samples-visualiser/dotnet-eshop/static/css/main.c4a43c5b.css",
+    "main.js": "/architecture-as-code-samples-visualiser/dotnet-eshop/static/js/main.3eb3a8e2.js",
+    "static/js/453.4b019878.chunk.js": "/architecture-as-code-samples-visualiser/dotnet-eshop/static/js/453.4b019878.chunk.js",
+    "index.html": "/architecture-as-code-samples-visualiser/dotnet-eshop/index.html",
+    "main.c4a43c5b.css.map": "/architecture-as-code-samples-visualiser/dotnet-eshop/static/css/main.c4a43c5b.css.map",
+    "main.3eb3a8e2.js.map": "/architecture-as-code-samples-visualiser/dotnet-eshop/static/js/main.3eb3a8e2.js.map",
+    "453.4b019878.chunk.js.map": "/architecture-as-code-samples-visualiser/dotnet-eshop/static/js/453.4b019878.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c4a43c5b.css",
-    "static/js/main.fbaa8275.js"
+    "static/js/main.3eb3a8e2.js"
   ]
 }

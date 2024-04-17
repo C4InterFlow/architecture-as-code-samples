@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/e-commerce-platform/static/css/main.c4a43c5b.css",
-    "main.js": "/e-commerce-platform/static/js/main.3b17b5d0.js",
-    "static/js/453.4b019878.chunk.js": "/e-commerce-platform/static/js/453.4b019878.chunk.js",
-    "index.html": "/e-commerce-platform/index.html",
-    "main.c4a43c5b.css.map": "/e-commerce-platform/static/css/main.c4a43c5b.css.map",
-    "main.3b17b5d0.js.map": "/e-commerce-platform/static/js/main.3b17b5d0.js.map",
-    "453.4b019878.chunk.js.map": "/e-commerce-platform/static/js/453.4b019878.chunk.js.map"
+    "main.css": "/architecture-as-code-samples-visualiser/e-commerce-platform/static/css/main.c4a43c5b.css",
+    "main.js": "/architecture-as-code-samples-visualiser/e-commerce-platform/static/js/main.7fce1b87.js",
+    "static/js/453.4b019878.chunk.js": "/architecture-as-code-samples-visualiser/e-commerce-platform/static/js/453.4b019878.chunk.js",
+    "index.html": "/architecture-as-code-samples-visualiser/e-commerce-platform/index.html",
+    "main.c4a43c5b.css.map": "/architecture-as-code-samples-visualiser/e-commerce-platform/static/css/main.c4a43c5b.css.map",
+    "main.7fce1b87.js.map": "/architecture-as-code-samples-visualiser/e-commerce-platform/static/js/main.7fce1b87.js.map",
+    "453.4b019878.chunk.js.map": "/architecture-as-code-samples-visualiser/e-commerce-platform/static/js/453.4b019878.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c4a43c5b.css",
-    "static/js/main.3b17b5d0.js"
+    "static/js/main.7fce1b87.js"
   ]
 }

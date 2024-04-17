@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/internet-banking-system/static/css/main.c4a43c5b.css",
-    "main.js": "/internet-banking-system/static/js/main.66a1a30b.js",
-    "static/js/453.4b019878.chunk.js": "/internet-banking-system/static/js/453.4b019878.chunk.js",
-    "index.html": "/internet-banking-system/index.html",
-    "main.c4a43c5b.css.map": "/internet-banking-system/static/css/main.c4a43c5b.css.map",
-    "main.66a1a30b.js.map": "/internet-banking-system/static/js/main.66a1a30b.js.map",
-    "453.4b019878.chunk.js.map": "/internet-banking-system/static/js/453.4b019878.chunk.js.map"
+    "main.css": "/architecture-as-code-samples-visualiser/internet-banking-system/static/css/main.c4a43c5b.css",
+    "main.js": "/architecture-as-code-samples-visualiser/internet-banking-system/static/js/main.eefbed07.js",
+    "static/js/453.4b019878.chunk.js": "/architecture-as-code-samples-visualiser/internet-banking-system/static/js/453.4b019878.chunk.js",
+    "index.html": "/architecture-as-code-samples-visualiser/internet-banking-system/index.html",
+    "main.c4a43c5b.css.map": "/architecture-as-code-samples-visualiser/internet-banking-system/static/css/main.c4a43c5b.css.map",
+    "main.eefbed07.js.map": "/architecture-as-code-samples-visualiser/internet-banking-system/static/js/main.eefbed07.js.map",
+    "453.4b019878.chunk.js.map": "/architecture-as-code-samples-visualiser/internet-banking-system/static/js/453.4b019878.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c4a43c5b.css",
-    "static/js/main.66a1a30b.js"
+    "static/js/main.eefbed07.js"
   ]
 }
