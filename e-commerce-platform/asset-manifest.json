@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/architecture-as-code-samples-visualiser/e-commerce-platform/static/css/main.c4a43c5b.css",
-    "main.js": "/architecture-as-code-samples-visualiser/e-commerce-platform/static/js/main.7fce1b87.js",
+    "main.css": "/architecture-as-code-samples-visualiser/e-commerce-platform/static/css/main.a9118f16.css",
+    "main.js": "/architecture-as-code-samples-visualiser/e-commerce-platform/static/js/main.3d461107.js",
     "static/js/453.4b019878.chunk.js": "/architecture-as-code-samples-visualiser/e-commerce-platform/static/js/453.4b019878.chunk.js",
     "index.html": "/architecture-as-code-samples-visualiser/e-commerce-platform/index.html",
-    "main.c4a43c5b.css.map": "/architecture-as-code-samples-visualiser/e-commerce-platform/static/css/main.c4a43c5b.css.map",
-    "main.7fce1b87.js.map": "/architecture-as-code-samples-visualiser/e-commerce-platform/static/js/main.7fce1b87.js.map",
+    "main.a9118f16.css.map": "/architecture-as-code-samples-visualiser/e-commerce-platform/static/css/main.a9118f16.css.map",
+    "main.3d461107.js.map": "/architecture-as-code-samples-visualiser/e-commerce-platform/static/js/main.3d461107.js.map",
     "453.4b019878.chunk.js.map": "/architecture-as-code-samples-visualiser/e-commerce-platform/static/js/453.4b019878.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c4a43c5b.css",
-    "static/js/main.7fce1b87.js"
+    "static/css/main.a9118f16.css",
+    "static/js/main.3d461107.js"
   ]
 }

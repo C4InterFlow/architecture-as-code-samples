@@ -630,6 +630,31 @@
         "puml",
         "svg"
       ]
+    },
+    {
+      "label": "static",
+      "loc": "static",
+      "urlset": [
+        {
+          "label": "css",
+          "loc": "static/css",
+          "urlset": [],
+          "types": [],
+          "levelsOfDetails": [],
+          "formats": []
+        },
+        {
+          "label": "js",
+          "loc": "static/js",
+          "urlset": [],
+          "types": [],
+          "levelsOfDetails": [],
+          "formats": []
+        }
+      ],
+      "types": [],
+      "levelsOfDetails": [],
+      "formats": []
     }
   ]
 }
