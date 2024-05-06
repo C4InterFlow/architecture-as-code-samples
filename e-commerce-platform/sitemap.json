@@ -305,6 +305,7 @@
                     "Sequence"
                   ],
                   "levelsOfDetails": [
+                    "Container",
                     "Context"
                   ],
                   "formats": [
@@ -324,6 +325,7 @@
                     "Sequence"
                   ],
                   "levelsOfDetails": [
+                    "Container",
                     "Context"
                   ],
                   "formats": [
@@ -343,6 +345,7 @@
                     "Sequence"
                   ],
                   "levelsOfDetails": [
+                    "Container",
                     "Context"
                   ],
                   "formats": [
@@ -362,6 +365,7 @@
                     "Sequence"
                   ],
                   "levelsOfDetails": [
+                    "Container",
                     "Context"
                   ],
                   "formats": [
@@ -381,6 +385,7 @@
                     "Sequence"
                   ],
                   "levelsOfDetails": [
+                    "Container",
                     "Context"
                   ],
                   "formats": [
@@ -400,6 +405,7 @@
                     "Sequence"
                   ],
                   "levelsOfDetails": [
+                    "Container",
                     "Context"
                   ],
                   "formats": [
@@ -923,6 +929,7 @@
                     "Sequence"
                   ],
                   "levelsOfDetails": [
+                    "Container",
                     "Context"
                   ],
                   "formats": [
@@ -942,6 +949,7 @@
                     "Sequence"
                   ],
                   "levelsOfDetails": [
+                    "Container",
                     "Context"
                   ],
                   "formats": [
@@ -989,6 +997,7 @@
                     "Sequence"
                   ],
                   "levelsOfDetails": [
+                    "Container",
                     "Context"
                   ],
                   "formats": [
@@ -1944,6 +1953,7 @@
                     "Sequence"
                   ],
                   "levelsOfDetails": [
+                    "Container",
                     "Context"
                   ],
                   "formats": [
@@ -2247,6 +2257,7 @@
                     "Sequence"
                   ],
                   "levelsOfDetails": [
+                    "Container",
                     "Context"
                   ],
                   "formats": [
@@ -2266,6 +2277,7 @@
                     "Sequence"
                   ],
                   "levelsOfDetails": [
+                    "Container",
                     "Context"
                   ],
                   "formats": [
@@ -2285,6 +2297,7 @@
                     "Sequence"
                   ],
                   "levelsOfDetails": [
+                    "Container",
                     "Context"
                   ],
                   "formats": [
@@ -3413,6 +3426,7 @@
                     "Sequence"
                   ],
                   "levelsOfDetails": [
+                    "Container",
                     "Context"
                   ],
                   "formats": [
@@ -3432,6 +3446,7 @@
                     "Sequence"
                   ],
                   "levelsOfDetails": [
+                    "Container",
                     "Context"
                   ],
                   "formats": [
@@ -3451,6 +3466,7 @@
                     "Sequence"
                   ],
                   "levelsOfDetails": [
+                    "Container",
                     "Context"
                   ],
                   "formats": [
@@ -3470,6 +3486,7 @@
                     "Sequence"
                   ],
                   "levelsOfDetails": [
+                    "Container",
                     "Context"
                   ],
                   "formats": [
@@ -3489,6 +3506,7 @@
                     "Sequence"
                   ],
                   "levelsOfDetails": [
+                    "Container",
                     "Context"
                   ],
                   "formats": [
@@ -3508,6 +3526,7 @@
                     "Sequence"
                   ],
                   "levelsOfDetails": [
+                    "Container",
                     "Context"
                   ],
                   "formats": [
@@ -3527,6 +3546,7 @@
                     "Sequence"
                   ],
                   "levelsOfDetails": [
+                    "Container",
                     "Context"
                   ],
                   "formats": [
@@ -3574,6 +3594,7 @@
                     "Sequence"
                   ],
                   "levelsOfDetails": [
+                    "Container",
                     "Context"
                   ],
                   "formats": [
@@ -3593,6 +3614,7 @@
                     "Sequence"
                   ],
                   "levelsOfDetails": [
+                    "Container",
                     "Context"
                   ],
                   "formats": [
@@ -3612,6 +3634,7 @@
                     "Sequence"
                   ],
                   "levelsOfDetails": [
+                    "Container",
                     "Context"
                   ],
                   "formats": [
@@ -3631,6 +3654,7 @@
                     "Sequence"
                   ],
                   "levelsOfDetails": [
+                    "Container",
                     "Context"
                   ],
                   "formats": [
@@ -3650,6 +3674,7 @@
                     "Sequence"
                   ],
                   "levelsOfDetails": [
+                    "Container",
                     "Context"
                   ],
                   "formats": [
@@ -3669,6 +3694,7 @@
                     "Sequence"
                   ],
                   "levelsOfDetails": [
+                    "Container",
                     "Context"
                   ],
                   "formats": [
@@ -3688,12 +3714,13 @@
                     "Sequence"
                   ],
                   "levelsOfDetails": [
+                    "Container",
                     "Context"
                   ],
                   "formats": [
-                    "png",
                     "puml",
-                    "svg"
+                    "svg",
+                    "png"
                   ]
                 }
               ],
@@ -3735,6 +3762,7 @@
                     "Sequence"
                   ],
                   "levelsOfDetails": [
+                    "Container",
                     "Context"
                   ],
                   "formats": [
@@ -3754,6 +3782,7 @@
                     "Sequence"
                   ],
                   "levelsOfDetails": [
+                    "Container",
                     "Context"
                   ],
                   "formats": [
@@ -3773,6 +3802,7 @@
                     "Sequence"
                   ],
                   "levelsOfDetails": [
+                    "Container",
                     "Context"
                   ],
                   "formats": [
@@ -3792,6 +3822,7 @@
                     "Sequence"
                   ],
                   "levelsOfDetails": [
+                    "Container",
                     "Context"
                   ],
                   "formats": [
