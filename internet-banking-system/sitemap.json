@@ -1,605 +1,624 @@
 {
   "urlset": [
     {
-      "label": "Business Processes",
-      "loc": "Business Processes",
+      "label": "Big Bank Plc",
+      "loc": "Big Bank Plc",
       "urlset": [
         {
-          "label": "Complete (End-To-End)",
-          "loc": "Business Processes/Complete (End-To-End)",
-          "urlset": [],
-          "types": [
-            "C4 Sequence",
-            "C4 Static",
-            "C4",
-            "Sequence"
-          ],
-          "levelsOfDetails": [
-            "Container",
-            "Context"
-          ],
-          "formats": [
-            "png",
-            "puml",
-            "svg"
-          ]
-        },
-        {
-          "label": "Create New Account",
-          "loc": "Business Processes/Create New Account",
-          "urlset": [],
-          "types": [
-            "C4 Sequence",
-            "C4 Static",
-            "C4",
-            "Sequence"
-          ],
-          "levelsOfDetails": [
-            "Container",
-            "Context"
-          ],
-          "formats": [
-            "png",
-            "puml",
-            "svg"
-          ]
-        }
-      ],
-      "types": [],
-      "levelsOfDetails": [],
-      "formats": []
-    },
-    {
-      "label": "Software Systems",
-      "loc": "Software Systems",
-      "urlset": [
-        {
-          "label": "Internet Banking",
-          "loc": "Software Systems/Internet Banking",
+          "label": "Business Processes",
+          "loc": "Big Bank Plc/Business Processes",
           "urlset": [
             {
-              "label": "Containers",
-              "loc": "Software Systems/Internet Banking/Containers",
+              "label": "Complete (End-To-End)",
+              "loc": "Big Bank Plc/Business Processes/Complete (End-To-End)",
+              "urlset": [],
+              "types": [
+                "C4 Sequence",
+                "C4 Static",
+                "C4",
+                "Sequence"
+              ],
+              "levelsOfDetails": [
+                "Container",
+                "Context"
+              ],
+              "formats": [
+                "png",
+                "puml",
+                "svg"
+              ]
+            },
+            {
+              "label": "Create New Account",
+              "loc": "Big Bank Plc/Business Processes/Create New Account",
+              "urlset": [],
+              "types": [
+                "C4 Sequence",
+                "C4 Static",
+                "C4",
+                "Sequence"
+              ],
+              "levelsOfDetails": [
+                "Container",
+                "Context"
+              ],
+              "formats": [
+                "png",
+                "puml",
+                "svg"
+              ]
+            }
+          ],
+          "types": [],
+          "levelsOfDetails": [],
+          "formats": []
+        },
+        {
+          "label": "Software Systems",
+          "loc": "Big Bank Plc/Software Systems",
+          "urlset": [
+            {
+              "label": "Internet Banking",
+              "loc": "Big Bank Plc/Software Systems/Internet Banking",
               "urlset": [
                 {
-                  "label": "API Application",
-                  "loc": "Software Systems/Internet Banking/Containers/API Application",
+                  "label": "Containers",
+                  "loc": "Big Bank Plc/Software Systems/Internet Banking/Containers",
                   "urlset": [
                     {
-                      "label": "Interfaces",
-                      "loc": "Software Systems/Internet Banking/Containers/API Application/Interfaces",
+                      "label": "API Application",
+                      "loc": "Big Bank Plc/Software Systems/Internet Banking/Containers/API Application",
                       "urlset": [
                         {
-                          "label": "Change Password",
-                          "loc": "Software Systems/Internet Banking/Containers/API Application/Interfaces/Change Password",
-                          "urlset": [],
-                          "types": [
-                            "C4 Sequence",
-                            "C4 Static",
-                            "C4",
-                            "Sequence"
+                          "label": "Interfaces",
+                          "loc": "Big Bank Plc/Software Systems/Internet Banking/Containers/API Application/Interfaces",
+                          "urlset": [
+                            {
+                              "label": "Change Password",
+                              "loc": "Big Bank Plc/Software Systems/Internet Banking/Containers/API Application/Interfaces/Change Password",
+                              "urlset": [],
+                              "types": [
+                                "C4 Sequence",
+                                "C4 Static",
+                                "C4",
+                                "Sequence"
+                              ],
+                              "levelsOfDetails": [
+                                "Container",
+                                "Context"
+                              ],
+                              "formats": [
+                                "png",
+                                "puml",
+                                "svg"
+                              ]
+                            },
+                            {
+                              "label": "Create Account",
+                              "loc": "Big Bank Plc/Software Systems/Internet Banking/Containers/API Application/Interfaces/Create Account",
+                              "urlset": [],
+                              "types": [
+                                "C4 Sequence",
+                                "C4 Static",
+                                "C4",
+                                "Sequence"
+                              ],
+                              "levelsOfDetails": [
+                                "Container",
+                                "Context"
+                              ],
+                              "formats": [
+                                "png",
+                                "puml",
+                                "svg"
+                              ]
+                            },
+                            {
+                              "label": "Get Account Transactions",
+                              "loc": "Big Bank Plc/Software Systems/Internet Banking/Containers/API Application/Interfaces/Get Account Transactions",
+                              "urlset": [],
+                              "types": [
+                                "C4 Sequence",
+                                "C4 Static",
+                                "C4",
+                                "Sequence"
+                              ],
+                              "levelsOfDetails": [
+                                "Container",
+                                "Context"
+                              ],
+                              "formats": [
+                                "png",
+                                "puml",
+                                "svg"
+                              ]
+                            },
+                            {
+                              "label": "Get Customer",
+                              "loc": "Big Bank Plc/Software Systems/Internet Banking/Containers/API Application/Interfaces/Get Customer",
+                              "urlset": [],
+                              "types": [
+                                "C4 Sequence",
+                                "C4 Static",
+                                "C4",
+                                "Sequence"
+                              ],
+                              "levelsOfDetails": [
+                                "Container",
+                                "Context"
+                              ],
+                              "formats": [
+                                "png",
+                                "puml",
+                                "svg"
+                              ]
+                            },
+                            {
+                              "label": "Get Customer Accounts",
+                              "loc": "Big Bank Plc/Software Systems/Internet Banking/Containers/API Application/Interfaces/Get Customer Accounts",
+                              "urlset": [],
+                              "types": [
+                                "C4 Sequence",
+                                "C4 Static",
+                                "C4",
+                                "Sequence"
+                              ],
+                              "levelsOfDetails": [
+                                "Container",
+                                "Context"
+                              ],
+                              "formats": [
+                                "png",
+                                "puml",
+                                "svg"
+                              ]
+                            },
+                            {
+                              "label": "Sign In",
+                              "loc": "Big Bank Plc/Software Systems/Internet Banking/Containers/API Application/Interfaces/Sign In",
+                              "urlset": [],
+                              "types": [
+                                "C4 Sequence",
+                                "C4 Static",
+                                "C4",
+                                "Sequence"
+                              ],
+                              "levelsOfDetails": [
+                                "Container",
+                                "Context"
+                              ],
+                              "formats": [
+                                "png",
+                                "puml",
+                                "svg"
+                              ]
+                            }
                           ],
-                          "levelsOfDetails": [
-                            "Container",
-                            "Context"
-                          ],
-                          "formats": [
-                            "png",
-                            "puml",
-                            "svg"
-                          ]
-                        },
-                        {
-                          "label": "Create Account",
-                          "loc": "Software Systems/Internet Banking/Containers/API Application/Interfaces/Create Account",
-                          "urlset": [],
-                          "types": [
-                            "C4 Sequence",
-                            "C4 Static",
-                            "C4",
-                            "Sequence"
-                          ],
-                          "levelsOfDetails": [
-                            "Container",
-                            "Context"
-                          ],
-                          "formats": [
-                            "png",
-                            "puml",
-                            "svg"
-                          ]
-                        },
-                        {
-                          "label": "Get Account Transactions",
-                          "loc": "Software Systems/Internet Banking/Containers/API Application/Interfaces/Get Account Transactions",
-                          "urlset": [],
-                          "types": [
-                            "C4 Sequence",
-                            "C4 Static",
-                            "C4",
-                            "Sequence"
-                          ],
-                          "levelsOfDetails": [
-                            "Container",
-                            "Context"
-                          ],
-                          "formats": [
-                            "png",
-                            "puml",
-                            "svg"
-                          ]
-                        },
-                        {
-                          "label": "Get Customer",
-                          "loc": "Software Systems/Internet Banking/Containers/API Application/Interfaces/Get Customer",
-                          "urlset": [],
-                          "types": [
-                            "C4 Sequence",
-                            "C4 Static",
-                            "C4",
-                            "Sequence"
-                          ],
-                          "levelsOfDetails": [
-                            "Container",
-                            "Context"
-                          ],
-                          "formats": [
-                            "png",
-                            "puml",
-                            "svg"
-                          ]
-                        },
-                        {
-                          "label": "Get Customer Accounts",
-                          "loc": "Software Systems/Internet Banking/Containers/API Application/Interfaces/Get Customer Accounts",
-                          "urlset": [],
-                          "types": [
-                            "C4 Sequence",
-                            "C4 Static",
-                            "C4",
-                            "Sequence"
-                          ],
-                          "levelsOfDetails": [
-                            "Container",
-                            "Context"
-                          ],
-                          "formats": [
-                            "png",
-                            "puml",
-                            "svg"
-                          ]
-                        },
-                        {
-                          "label": "Sign In",
-                          "loc": "Software Systems/Internet Banking/Containers/API Application/Interfaces/Sign In",
-                          "urlset": [],
-                          "types": [
-                            "C4 Sequence",
-                            "C4 Static",
-                            "C4",
-                            "Sequence"
-                          ],
-                          "levelsOfDetails": [
-                            "Container",
-                            "Context"
-                          ],
-                          "formats": [
-                            "png",
-                            "puml",
-                            "svg"
-                          ]
+                          "types": [],
+                          "levelsOfDetails": [],
+                          "formats": []
                         }
                       ],
-                      "types": [],
-                      "levelsOfDetails": [],
-                      "formats": []
-                    }
-                  ],
-                  "types": [
-                    "C4 Static",
-                    "C4"
-                  ],
-                  "levelsOfDetails": [
-                    "Container"
-                  ],
-                  "formats": [
-                    "png",
-                    "puml",
-                    "svg"
-                  ]
-                },
-                {
-                  "label": "Database",
-                  "loc": "Software Systems/Internet Banking/Containers/Database",
-                  "urlset": [
+                      "types": [
+                        "C4 Static",
+                        "C4"
+                      ],
+                      "levelsOfDetails": [
+                        "Container"
+                      ],
+                      "formats": [
+                        "png",
+                        "puml",
+                        "svg"
+                      ]
+                    },
                     {
-                      "label": "Interfaces",
-                      "loc": "Software Systems/Internet Banking/Containers/Database/Interfaces",
+                      "label": "Database",
+                      "loc": "Big Bank Plc/Software Systems/Internet Banking/Containers/Database",
                       "urlset": [
                         {
-                          "label": "Authenticate User",
-                          "loc": "Software Systems/Internet Banking/Containers/Database/Interfaces/Authenticate User",
-                          "urlset": [],
-                          "types": [
-                            "C4 Sequence",
-                            "C4 Static",
-                            "C4",
-                            "Sequence"
+                          "label": "Interfaces",
+                          "loc": "Big Bank Plc/Software Systems/Internet Banking/Containers/Database/Interfaces",
+                          "urlset": [
+                            {
+                              "label": "Authenticate User",
+                              "loc": "Big Bank Plc/Software Systems/Internet Banking/Containers/Database/Interfaces/Authenticate User",
+                              "urlset": [],
+                              "types": [
+                                "C4 Sequence",
+                                "C4 Static",
+                                "C4",
+                                "Sequence"
+                              ],
+                              "levelsOfDetails": [
+                                "Container",
+                                "Context"
+                              ],
+                              "formats": [
+                                "png",
+                                "puml",
+                                "svg"
+                              ]
+                            },
+                            {
+                              "label": "Select User Data",
+                              "loc": "Big Bank Plc/Software Systems/Internet Banking/Containers/Database/Interfaces/Select User Data",
+                              "urlset": [],
+                              "types": [
+                                "C4 Sequence",
+                                "C4 Static",
+                                "C4",
+                                "Sequence"
+                              ],
+                              "levelsOfDetails": [
+                                "Container",
+                                "Context"
+                              ],
+                              "formats": [
+                                "png",
+                                "puml",
+                                "svg"
+                              ]
+                            },
+                            {
+                              "label": "Update User Password",
+                              "loc": "Big Bank Plc/Software Systems/Internet Banking/Containers/Database/Interfaces/Update User Password",
+                              "urlset": [],
+                              "types": [
+                                "C4 Sequence",
+                                "C4 Static",
+                                "C4",
+                                "Sequence"
+                              ],
+                              "levelsOfDetails": [
+                                "Container",
+                                "Context"
+                              ],
+                              "formats": [
+                                "png",
+                                "puml",
+                                "svg"
+                              ]
+                            }
                           ],
-                          "levelsOfDetails": [
-                            "Container",
-                            "Context"
-                          ],
-                          "formats": [
-                            "png",
-                            "puml",
-                            "svg"
-                          ]
-                        },
-                        {
-                          "label": "Select User Data",
-                          "loc": "Software Systems/Internet Banking/Containers/Database/Interfaces/Select User Data",
-                          "urlset": [],
-                          "types": [
-                            "C4 Sequence",
-                            "C4 Static",
-                            "C4",
-                            "Sequence"
-                          ],
-                          "levelsOfDetails": [
-                            "Container",
-                            "Context"
-                          ],
-                          "formats": [
-                            "png",
-                            "puml",
-                            "svg"
-                          ]
-                        },
-                        {
-                          "label": "Update User Password",
-                          "loc": "Software Systems/Internet Banking/Containers/Database/Interfaces/Update User Password",
-                          "urlset": [],
-                          "types": [
-                            "C4 Sequence",
-                            "C4 Static",
-                            "C4",
-                            "Sequence"
-                          ],
-                          "levelsOfDetails": [
-                            "Container",
-                            "Context"
-                          ],
-                          "formats": [
-                            "png",
-                            "puml",
-                            "svg"
-                          ]
+                          "types": [],
+                          "levelsOfDetails": [],
+                          "formats": []
                         }
                       ],
-                      "types": [],
-                      "levelsOfDetails": [],
-                      "formats": []
-                    }
-                  ],
-                  "types": [
-                    "C4 Static",
-                    "C4"
-                  ],
-                  "levelsOfDetails": [
-                    "Container"
-                  ],
-                  "formats": [
-                    "png",
-                    "puml",
-                    "svg"
-                  ]
-                },
-                {
-                  "label": "Mobile App",
-                  "loc": "Software Systems/Internet Banking/Containers/Mobile App",
-                  "urlset": [
+                      "types": [
+                        "C4 Static",
+                        "C4"
+                      ],
+                      "levelsOfDetails": [
+                        "Container"
+                      ],
+                      "formats": [
+                        "png",
+                        "puml",
+                        "svg"
+                      ]
+                    },
                     {
-                      "label": "Interfaces",
-                      "loc": "Software Systems/Internet Banking/Containers/Mobile App/Interfaces",
+                      "label": "Mobile App",
+                      "loc": "Big Bank Plc/Software Systems/Internet Banking/Containers/Mobile App",
                       "urlset": [
                         {
-                          "label": "Change Password",
-                          "loc": "Software Systems/Internet Banking/Containers/Mobile App/Interfaces/Change Password",
-                          "urlset": [],
-                          "types": [
-                            "C4 Sequence",
-                            "C4 Static",
-                            "C4",
-                            "Sequence"
+                          "label": "Interfaces",
+                          "loc": "Big Bank Plc/Software Systems/Internet Banking/Containers/Mobile App/Interfaces",
+                          "urlset": [
+                            {
+                              "label": "Change Password",
+                              "loc": "Big Bank Plc/Software Systems/Internet Banking/Containers/Mobile App/Interfaces/Change Password",
+                              "urlset": [],
+                              "types": [
+                                "C4 Sequence",
+                                "C4 Static",
+                                "C4",
+                                "Sequence"
+                              ],
+                              "levelsOfDetails": [
+                                "Container",
+                                "Context"
+                              ],
+                              "formats": [
+                                "png",
+                                "puml",
+                                "svg"
+                              ]
+                            },
+                            {
+                              "label": "Sign In",
+                              "loc": "Big Bank Plc/Software Systems/Internet Banking/Containers/Mobile App/Interfaces/Sign In",
+                              "urlset": [],
+                              "types": [
+                                "C4 Sequence",
+                                "C4 Static",
+                                "C4",
+                                "Sequence"
+                              ],
+                              "levelsOfDetails": [
+                                "Container",
+                                "Context"
+                              ],
+                              "formats": [
+                                "png",
+                                "puml",
+                                "svg"
+                              ]
+                            },
+                            {
+                              "label": "View Account Transactions",
+                              "loc": "Big Bank Plc/Software Systems/Internet Banking/Containers/Mobile App/Interfaces/View Account Transactions",
+                              "urlset": [],
+                              "types": [
+                                "C4 Sequence",
+                                "C4 Static",
+                                "C4",
+                                "Sequence"
+                              ],
+                              "levelsOfDetails": [
+                                "Container",
+                                "Context"
+                              ],
+                              "formats": [
+                                "png",
+                                "puml",
+                                "svg"
+                              ]
+                            },
+                            {
+                              "label": "View Customer Details",
+                              "loc": "Big Bank Plc/Software Systems/Internet Banking/Containers/Mobile App/Interfaces/View Customer Details",
+                              "urlset": [],
+                              "types": [
+                                "C4 Sequence",
+                                "C4 Static",
+                                "C4",
+                                "Sequence"
+                              ],
+                              "levelsOfDetails": [
+                                "Container",
+                                "Context"
+                              ],
+                              "formats": [
+                                "png",
+                                "puml",
+                                "svg"
+                              ]
+                            }
                           ],
-                          "levelsOfDetails": [
-                            "Container",
-                            "Context"
-                          ],
-                          "formats": [
-                            "png",
-                            "puml",
-                            "svg"
-                          ]
-                        },
-                        {
-                          "label": "Sign In",
-                          "loc": "Software Systems/Internet Banking/Containers/Mobile App/Interfaces/Sign In",
-                          "urlset": [],
-                          "types": [
-                            "C4 Sequence",
-                            "C4 Static",
-                            "C4",
-                            "Sequence"
-                          ],
-                          "levelsOfDetails": [
-                            "Container",
-                            "Context"
-                          ],
-                          "formats": [
-                            "png",
-                            "puml",
-                            "svg"
-                          ]
-                        },
-                        {
-                          "label": "View Account Transactions",
-                          "loc": "Software Systems/Internet Banking/Containers/Mobile App/Interfaces/View Account Transactions",
-                          "urlset": [],
-                          "types": [
-                            "C4 Sequence",
-                            "C4 Static",
-                            "C4",
-                            "Sequence"
-                          ],
-                          "levelsOfDetails": [
-                            "Container",
-                            "Context"
-                          ],
-                          "formats": [
-                            "png",
-                            "puml",
-                            "svg"
-                          ]
-                        },
-                        {
-                          "label": "View Customer Details",
-                          "loc": "Software Systems/Internet Banking/Containers/Mobile App/Interfaces/View Customer Details",
-                          "urlset": [],
-                          "types": [
-                            "C4 Sequence",
-                            "C4 Static",
-                            "C4",
-                            "Sequence"
-                          ],
-                          "levelsOfDetails": [
-                            "Container",
-                            "Context"
-                          ],
-                          "formats": [
-                            "png",
-                            "puml",
-                            "svg"
-                          ]
+                          "types": [],
+                          "levelsOfDetails": [],
+                          "formats": []
                         }
                       ],
-                      "types": [],
-                      "levelsOfDetails": [],
-                      "formats": []
-                    }
-                  ],
-                  "types": [
-                    "C4 Static",
-                    "C4"
-                  ],
-                  "levelsOfDetails": [
-                    "Container"
-                  ],
-                  "formats": [
-                    "png",
-                    "puml",
-                    "svg"
-                  ]
-                },
-                {
-                  "label": "Single-Page App",
-                  "loc": "Software Systems/Internet Banking/Containers/Single-Page App",
-                  "urlset": [
+                      "types": [
+                        "C4 Static",
+                        "C4"
+                      ],
+                      "levelsOfDetails": [
+                        "Container"
+                      ],
+                      "formats": [
+                        "png",
+                        "puml",
+                        "svg"
+                      ]
+                    },
                     {
-                      "label": "Interfaces",
-                      "loc": "Software Systems/Internet Banking/Containers/Single-Page App/Interfaces",
+                      "label": "Single-Page App",
+                      "loc": "Big Bank Plc/Software Systems/Internet Banking/Containers/Single-Page App",
                       "urlset": [
                         {
-                          "label": "Change Password",
-                          "loc": "Software Systems/Internet Banking/Containers/Single-Page App/Interfaces/Change Password",
-                          "urlset": [],
-                          "types": [
-                            "C4 Sequence",
-                            "C4 Static",
-                            "C4",
-                            "Sequence"
+                          "label": "Interfaces",
+                          "loc": "Big Bank Plc/Software Systems/Internet Banking/Containers/Single-Page App/Interfaces",
+                          "urlset": [
+                            {
+                              "label": "Change Password",
+                              "loc": "Big Bank Plc/Software Systems/Internet Banking/Containers/Single-Page App/Interfaces/Change Password",
+                              "urlset": [],
+                              "types": [
+                                "C4 Sequence",
+                                "C4 Static",
+                                "C4",
+                                "Sequence"
+                              ],
+                              "levelsOfDetails": [
+                                "Container",
+                                "Context"
+                              ],
+                              "formats": [
+                                "png",
+                                "puml",
+                                "svg"
+                              ]
+                            },
+                            {
+                              "label": "Create Account",
+                              "loc": "Big Bank Plc/Software Systems/Internet Banking/Containers/Single-Page App/Interfaces/Create Account",
+                              "urlset": [],
+                              "types": [
+                                "C4 Sequence",
+                                "C4 Static",
+                                "C4",
+                                "Sequence"
+                              ],
+                              "levelsOfDetails": [
+                                "Container",
+                                "Context"
+                              ],
+                              "formats": [
+                                "png",
+                                "puml",
+                                "svg"
+                              ]
+                            },
+                            {
+                              "label": "Load And Start",
+                              "loc": "Big Bank Plc/Software Systems/Internet Banking/Containers/Single-Page App/Interfaces/Load And Start",
+                              "urlset": [],
+                              "types": [
+                                "C4 Sequence",
+                                "C4 Static",
+                                "C4",
+                                "Sequence"
+                              ],
+                              "levelsOfDetails": [
+                                "Container",
+                                "Context"
+                              ],
+                              "formats": [
+                                "png",
+                                "puml",
+                                "svg"
+                              ]
+                            },
+                            {
+                              "label": "Sign In",
+                              "loc": "Big Bank Plc/Software Systems/Internet Banking/Containers/Single-Page App/Interfaces/Sign In",
+                              "urlset": [],
+                              "types": [
+                                "C4 Sequence",
+                                "C4 Static",
+                                "C4",
+                                "Sequence"
+                              ],
+                              "levelsOfDetails": [
+                                "Container",
+                                "Context"
+                              ],
+                              "formats": [
+                                "png",
+                                "puml",
+                                "svg"
+                              ]
+                            },
+                            {
+                              "label": "View Account Transactions",
+                              "loc": "Big Bank Plc/Software Systems/Internet Banking/Containers/Single-Page App/Interfaces/View Account Transactions",
+                              "urlset": [],
+                              "types": [
+                                "C4 Sequence",
+                                "C4 Static",
+                                "C4",
+                                "Sequence"
+                              ],
+                              "levelsOfDetails": [
+                                "Container",
+                                "Context"
+                              ],
+                              "formats": [
+                                "png",
+                                "puml",
+                                "svg"
+                              ]
+                            },
+                            {
+                              "label": "View Customer Details",
+                              "loc": "Big Bank Plc/Software Systems/Internet Banking/Containers/Single-Page App/Interfaces/View Customer Details",
+                              "urlset": [],
+                              "types": [
+                                "C4 Sequence",
+                                "C4 Static",
+                                "C4",
+                                "Sequence"
+                              ],
+                              "levelsOfDetails": [
+                                "Container",
+                                "Context"
+                              ],
+                              "formats": [
+                                "png",
+                                "puml",
+                                "svg"
+                              ]
+                            }
                           ],
-                          "levelsOfDetails": [
-                            "Container",
-                            "Context"
-                          ],
-                          "formats": [
-                            "png",
-                            "puml",
-                            "svg"
-                          ]
-                        },
-                        {
-                          "label": "Create Account",
-                          "loc": "Software Systems/Internet Banking/Containers/Single-Page App/Interfaces/Create Account",
-                          "urlset": [],
-                          "types": [
-                            "C4 Sequence",
-                            "C4 Static",
-                            "C4",
-                            "Sequence"
-                          ],
-                          "levelsOfDetails": [
-                            "Container",
-                            "Context"
-                          ],
-                          "formats": [
-                            "png",
-                            "puml",
-                            "svg"
-                          ]
-                        },
-                        {
-                          "label": "Load And Start",
-                          "loc": "Software Systems/Internet Banking/Containers/Single-Page App/Interfaces/Load And Start",
-                          "urlset": [],
-                          "types": [
-                            "C4 Sequence",
-                            "C4 Static",
-                            "C4",
-                            "Sequence"
-                          ],
-                          "levelsOfDetails": [
-                            "Container",
-                            "Context"
-                          ],
-                          "formats": [
-                            "png",
-                            "puml",
-                            "svg"
-                          ]
-                        },
-                        {
-                          "label": "Sign In",
-                          "loc": "Software Systems/Internet Banking/Containers/Single-Page App/Interfaces/Sign In",
-                          "urlset": [],
-                          "types": [
-                            "C4 Sequence",
-                            "C4 Static",
-                            "C4",
-                            "Sequence"
-                          ],
-                          "levelsOfDetails": [
-                            "Container",
-                            "Context"
-                          ],
-                          "formats": [
-                            "png",
-                            "puml",
-                            "svg"
-                          ]
-                        },
-                        {
-                          "label": "View Account Transactions",
-                          "loc": "Software Systems/Internet Banking/Containers/Single-Page App/Interfaces/View Account Transactions",
-                          "urlset": [],
-                          "types": [
-                            "C4 Sequence",
-                            "C4 Static",
-                            "C4",
-                            "Sequence"
-                          ],
-                          "levelsOfDetails": [
-                            "Container",
-                            "Context"
-                          ],
-                          "formats": [
-                            "png",
-                            "puml",
-                            "svg"
-                          ]
-                        },
-                        {
-                          "label": "View Customer Details",
-                          "loc": "Software Systems/Internet Banking/Containers/Single-Page App/Interfaces/View Customer Details",
-                          "urlset": [],
-                          "types": [
-                            "C4 Sequence",
-                            "C4 Static",
-                            "C4",
-                            "Sequence"
-                          ],
-                          "levelsOfDetails": [
-                            "Container",
-                            "Context"
-                          ],
-                          "formats": [
-                            "png",
-                            "puml",
-                            "svg"
-                          ]
+                          "types": [],
+                          "levelsOfDetails": [],
+                          "formats": []
                         }
                       ],
-                      "types": [],
-                      "levelsOfDetails": [],
-                      "formats": []
-                    }
-                  ],
-                  "types": [
-                    "C4 Static",
-                    "C4"
-                  ],
-                  "levelsOfDetails": [
-                    "Container"
-                  ],
-                  "formats": [
-                    "png",
-                    "puml",
-                    "svg"
-                  ]
-                },
-                {
-                  "label": "Web Application",
-                  "loc": "Software Systems/Internet Banking/Containers/Web Application",
-                  "urlset": [
+                      "types": [
+                        "C4 Static",
+                        "C4"
+                      ],
+                      "levelsOfDetails": [
+                        "Container"
+                      ],
+                      "formats": [
+                        "png",
+                        "puml",
+                        "svg"
+                      ]
+                    },
                     {
-                      "label": "Interfaces",
-                      "loc": "Software Systems/Internet Banking/Containers/Web Application/Interfaces",
+                      "label": "Web Application",
+                      "loc": "Big Bank Plc/Software Systems/Internet Banking/Containers/Web Application",
                       "urlset": [
                         {
-                          "label": "Navigate",
-                          "loc": "Software Systems/Internet Banking/Containers/Web Application/Interfaces/Navigate",
-                          "urlset": [],
-                          "types": [
-                            "C4 Sequence",
-                            "C4 Static",
-                            "C4",
-                            "Sequence"
+                          "label": "Interfaces",
+                          "loc": "Big Bank Plc/Software Systems/Internet Banking/Containers/Web Application/Interfaces",
+                          "urlset": [
+                            {
+                              "label": "Navigate",
+                              "loc": "Big Bank Plc/Software Systems/Internet Banking/Containers/Web Application/Interfaces/Navigate",
+                              "urlset": [],
+                              "types": [
+                                "C4 Sequence",
+                                "C4 Static",
+                                "C4",
+                                "Sequence"
+                              ],
+                              "levelsOfDetails": [
+                                "Container",
+                                "Context"
+                              ],
+                              "formats": [
+                                "png",
+                                "puml",
+                                "svg"
+                              ]
+                            }
                           ],
-                          "levelsOfDetails": [
-                            "Container",
-                            "Context"
-                          ],
-                          "formats": [
-                            "png",
-                            "puml",
-                            "svg"
-                          ]
+                          "types": [],
+                          "levelsOfDetails": [],
+                          "formats": []
                         }
                       ],
-                      "types": [],
-                      "levelsOfDetails": [],
-                      "formats": []
+                      "types": [
+                        "C4 Static",
+                        "C4"
+                      ],
+                      "levelsOfDetails": [
+                        "Container"
+                      ],
+                      "formats": [
+                        "png",
+                        "puml",
+                        "svg"
+                      ]
                     }
                   ],
-                  "types": [
-                    "C4 Static",
-                    "C4"
-                  ],
-                  "levelsOfDetails": [
-                    "Container"
-                  ],
-                  "formats": [
-                    "png",
-                    "puml",
-                    "svg"
-                  ]
+                  "types": [],
+                  "levelsOfDetails": [],
+                  "formats": []
                 }
               ],
-              "types": [],
-              "levelsOfDetails": [],
-              "formats": []
+              "types": [
+                "C4 Static",
+                "C4"
+              ],
+              "levelsOfDetails": [
+                "Container",
+                "Context"
+              ],
+              "formats": [
+                "png",
+                "puml",
+                "svg"
+              ]
             }
           ],
           "types": [

@@ -1,4 +1,4 @@
-publish-site --site-source-dir "C:\C4InterFlow\Publishers\StaticSite" --output-dir "C:\architecture-as-code-samples-visualiser\e-commerce-platform" --environment-variables "HOMEPAGE=architecture-as-code-samples-visualiser/e-commerce-platform" --site-content-sub-dirs "Software Systems" ".c4s" --site-no-sitemap-sub-dirs ".c4s"
+publish-site --site-source-dir "C:\C4InterFlow\Publishers\StaticSite" --output-dir "C:\architecture-as-code-samples-visualiser\e-commerce-platform" --environment-variables "HOMEPAGE=architecture-as-code-samples-visualiser/e-commerce-platform" --site-content-sub-dirs "ECommercePlatform" ".c4s" --site-no-sitemap-sub-dirs ".c4s"
 
 
 publish-site --site-source-dir "C:\C4InterFlow\Publishers\StaticSite" --output-dir "C:\architecture-as-code-samples-visualiser\dotnet-eshop" --environment-variables "HOMEPAGE=architecture-as-code-samples-visualiser/dotnet-eshop" --site-content-sub-dirs "Software Systems" ".c4s" --site-no-sitemap-sub-dirs ".c4s"

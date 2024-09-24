@@ -1,32 +1,32 @@
 {
   "urlset": [
     {
-      "label": "ECommercePlatform",
-      "loc": "ECommercePlatform",
+      "label": "E Commerce Platform",
+      "loc": "E Commerce Platform",
       "urlset": [
         {
-          "label": "CreateProduct",
-          "loc": "ECommercePlatform/CreateProduct",
+          "label": "Create Product",
+          "loc": "E Commerce Platform/Create Product",
           "urlset": [
             {
-              "label": "BuyingAndMerchandising",
-              "loc": "ECommercePlatform/CreateProduct/BuyingAndMerchandising",
+              "label": "Buying And Merchandising",
+              "loc": "E Commerce Platform/Create Product/Buying And Merchandising",
               "urlset": [
                 {
                   "label": "Software Systems",
-                  "loc": "ECommercePlatform/CreateProduct/BuyingAndMerchandising/Software Systems",
+                  "loc": "E Commerce Platform/Create Product/Buying And Merchandising/Software Systems",
                   "urlset": [
                     {
                       "label": "Buying And Merchandising App",
-                      "loc": "ECommercePlatform/CreateProduct/BuyingAndMerchandising/Software Systems/Buying And Merchandising App",
+                      "loc": "E Commerce Platform/Create Product/Buying And Merchandising/Software Systems/Buying And Merchandising App",
                       "urlset": [
                         {
                           "label": "Interfaces",
-                          "loc": "ECommercePlatform/CreateProduct/BuyingAndMerchandising/Software Systems/Buying And Merchandising App/Interfaces",
+                          "loc": "E Commerce Platform/Create Product/Buying And Merchandising/Software Systems/Buying And Merchandising App/Interfaces",
                           "urlset": [
                             {
                               "label": "Create Purchase Order",
-                              "loc": "ECommercePlatform/CreateProduct/BuyingAndMerchandising/Software Systems/Buying And Merchandising App/Interfaces/Create Purchase Order",
+                              "loc": "E Commerce Platform/Create Product/Buying And Merchandising/Software Systems/Buying And Merchandising App/Interfaces/Create Purchase Order",
                               "urlset": [],
                               "types": [
                                 "C4 Sequence",
@@ -46,7 +46,7 @@
                             },
                             {
                               "label": "Delete Purchase Order",
-                              "loc": "ECommercePlatform/CreateProduct/BuyingAndMerchandising/Software Systems/Buying And Merchandising App/Interfaces/Delete Purchase Order",
+                              "loc": "E Commerce Platform/Create Product/Buying And Merchandising/Software Systems/Buying And Merchandising App/Interfaces/Delete Purchase Order",
                               "urlset": [],
                               "types": [
                                 "C4 Sequence",
@@ -66,7 +66,7 @@
                             },
                             {
                               "label": "Update Product Prices",
-                              "loc": "ECommercePlatform/CreateProduct/BuyingAndMerchandising/Software Systems/Buying And Merchandising App/Interfaces/Update Product Prices",
+                              "loc": "E Commerce Platform/Create Product/Buying And Merchandising/Software Systems/Buying And Merchandising App/Interfaces/Update Product Prices",
                               "urlset": [],
                               "types": [
                                 "C4 Sequence",
@@ -86,7 +86,7 @@
                             },
                             {
                               "label": "Update Purchase Order",
-                              "loc": "ECommercePlatform/CreateProduct/BuyingAndMerchandising/Software Systems/Buying And Merchandising App/Interfaces/Update Purchase Order",
+                              "loc": "E Commerce Platform/Create Product/Buying And Merchandising/Software Systems/Buying And Merchandising App/Interfaces/Update Purchase Order",
                               "urlset": [],
                               "types": [
                                 "C4 Sequence",
@@ -106,7 +106,7 @@
                             },
                             {
                               "label": "View Product Prices",
-                              "loc": "ECommercePlatform/CreateProduct/BuyingAndMerchandising/Software Systems/Buying And Merchandising App/Interfaces/View Product Prices",
+                              "loc": "E Commerce Platform/Create Product/Buying And Merchandising/Software Systems/Buying And Merchandising App/Interfaces/View Product Prices",
                               "urlset": [],
                               "types": [
                                 "C4 Sequence",
@@ -126,7 +126,7 @@
                             },
                             {
                               "label": "View Purchase Orders",
-                              "loc": "ECommercePlatform/CreateProduct/BuyingAndMerchandising/Software Systems/Buying And Merchandising App/Interfaces/View Purchase Orders",
+                              "loc": "E Commerce Platform/Create Product/Buying And Merchandising/Software Systems/Buying And Merchandising App/Interfaces/View Purchase Orders",
                               "urlset": [],
                               "types": [
                                 "C4 Sequence",
@@ -166,23 +166,23 @@
                     },
                     {
                       "label": "Buying Service",
-                      "loc": "ECommercePlatform/CreateProduct/BuyingAndMerchandising/Software Systems/Buying Service",
+                      "loc": "E Commerce Platform/Create Product/Buying And Merchandising/Software Systems/Buying Service",
                       "urlset": [
                         {
                           "label": "Containers",
-                          "loc": "ECommercePlatform/CreateProduct/BuyingAndMerchandising/Software Systems/Buying Service/Containers",
+                          "loc": "E Commerce Platform/Create Product/Buying And Merchandising/Software Systems/Buying Service/Containers",
                           "urlset": [
                             {
                               "label": "Api",
-                              "loc": "ECommercePlatform/CreateProduct/BuyingAndMerchandising/Software Systems/Buying Service/Containers/Api",
+                              "loc": "E Commerce Platform/Create Product/Buying And Merchandising/Software Systems/Buying Service/Containers/Api",
                               "urlset": [
                                 {
                                   "label": "Interfaces",
-                                  "loc": "ECommercePlatform/CreateProduct/BuyingAndMerchandising/Software Systems/Buying Service/Containers/Api/Interfaces",
+                                  "loc": "E Commerce Platform/Create Product/Buying And Merchandising/Software Systems/Buying Service/Containers/Api/Interfaces",
                                   "urlset": [
                                     {
                                       "label": "Create Purchase Order",
-                                      "loc": "ECommercePlatform/CreateProduct/BuyingAndMerchandising/Software Systems/Buying Service/Containers/Api/Interfaces/Create Purchase Order",
+                                      "loc": "E Commerce Platform/Create Product/Buying And Merchandising/Software Systems/Buying Service/Containers/Api/Interfaces/Create Purchase Order",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -202,7 +202,7 @@
                                     },
                                     {
                                       "label": "Delete Purchase Order",
-                                      "loc": "ECommercePlatform/CreateProduct/BuyingAndMerchandising/Software Systems/Buying Service/Containers/Api/Interfaces/Delete Purchase Order",
+                                      "loc": "E Commerce Platform/Create Product/Buying And Merchandising/Software Systems/Buying Service/Containers/Api/Interfaces/Delete Purchase Order",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -222,7 +222,7 @@
                                     },
                                     {
                                       "label": "Get Purchase Orders",
-                                      "loc": "ECommercePlatform/CreateProduct/BuyingAndMerchandising/Software Systems/Buying Service/Containers/Api/Interfaces/Get Purchase Orders",
+                                      "loc": "E Commerce Platform/Create Product/Buying And Merchandising/Software Systems/Buying Service/Containers/Api/Interfaces/Get Purchase Orders",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -242,7 +242,7 @@
                                     },
                                     {
                                       "label": "Update Purchase Order",
-                                      "loc": "ECommercePlatform/CreateProduct/BuyingAndMerchandising/Software Systems/Buying Service/Containers/Api/Interfaces/Update Purchase Order",
+                                      "loc": "E Commerce Platform/Create Product/Buying And Merchandising/Software Systems/Buying Service/Containers/Api/Interfaces/Update Purchase Order",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -281,15 +281,15 @@
                             },
                             {
                               "label": "Database",
-                              "loc": "ECommercePlatform/CreateProduct/BuyingAndMerchandising/Software Systems/Buying Service/Containers/Database",
+                              "loc": "E Commerce Platform/Create Product/Buying And Merchandising/Software Systems/Buying Service/Containers/Database",
                               "urlset": [
                                 {
                                   "label": "Interfaces",
-                                  "loc": "ECommercePlatform/CreateProduct/BuyingAndMerchandising/Software Systems/Buying Service/Containers/Database/Interfaces",
+                                  "loc": "E Commerce Platform/Create Product/Buying And Merchandising/Software Systems/Buying Service/Containers/Database/Interfaces",
                                   "urlset": [
                                     {
                                       "label": "Delete Purchase Order",
-                                      "loc": "ECommercePlatform/CreateProduct/BuyingAndMerchandising/Software Systems/Buying Service/Containers/Database/Interfaces/Delete Purchase Order",
+                                      "loc": "E Commerce Platform/Create Product/Buying And Merchandising/Software Systems/Buying Service/Containers/Database/Interfaces/Delete Purchase Order",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -309,7 +309,7 @@
                                     },
                                     {
                                       "label": "Insert Purchase Order",
-                                      "loc": "ECommercePlatform/CreateProduct/BuyingAndMerchandising/Software Systems/Buying Service/Containers/Database/Interfaces/Insert Purchase Order",
+                                      "loc": "E Commerce Platform/Create Product/Buying And Merchandising/Software Systems/Buying Service/Containers/Database/Interfaces/Insert Purchase Order",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -329,7 +329,7 @@
                                     },
                                     {
                                       "label": "Select Purchase Order",
-                                      "loc": "ECommercePlatform/CreateProduct/BuyingAndMerchandising/Software Systems/Buying Service/Containers/Database/Interfaces/Select Purchase Order",
+                                      "loc": "E Commerce Platform/Create Product/Buying And Merchandising/Software Systems/Buying Service/Containers/Database/Interfaces/Select Purchase Order",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -349,7 +349,7 @@
                                     },
                                     {
                                       "label": "Update Purchase Order",
-                                      "loc": "ECommercePlatform/CreateProduct/BuyingAndMerchandising/Software Systems/Buying Service/Containers/Database/Interfaces/Update Purchase Order",
+                                      "loc": "E Commerce Platform/Create Product/Buying And Merchandising/Software Systems/Buying Service/Containers/Database/Interfaces/Update Purchase Order",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -388,15 +388,15 @@
                             },
                             {
                               "label": "Message Handler",
-                              "loc": "ECommercePlatform/CreateProduct/BuyingAndMerchandising/Software Systems/Buying Service/Containers/Message Handler",
+                              "loc": "E Commerce Platform/Create Product/Buying And Merchandising/Software Systems/Buying Service/Containers/Message Handler",
                               "urlset": [
                                 {
                                   "label": "Interfaces",
-                                  "loc": "ECommercePlatform/CreateProduct/BuyingAndMerchandising/Software Systems/Buying Service/Containers/Message Handler/Interfaces",
+                                  "loc": "E Commerce Platform/Create Product/Buying And Merchandising/Software Systems/Buying Service/Containers/Message Handler/Interfaces",
                                   "urlset": [
                                     {
                                       "label": "Handle Purchase Order Created Event",
-                                      "loc": "ECommercePlatform/CreateProduct/BuyingAndMerchandising/Software Systems/Buying Service/Containers/Message Handler/Interfaces/Handle Purchase Order Created Event",
+                                      "loc": "E Commerce Platform/Create Product/Buying And Merchandising/Software Systems/Buying Service/Containers/Message Handler/Interfaces/Handle Purchase Order Created Event",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -416,7 +416,7 @@
                                     },
                                     {
                                       "label": "Handle Purchase Order Deleted Event",
-                                      "loc": "ECommercePlatform/CreateProduct/BuyingAndMerchandising/Software Systems/Buying Service/Containers/Message Handler/Interfaces/Handle Purchase Order Deleted Event",
+                                      "loc": "E Commerce Platform/Create Product/Buying And Merchandising/Software Systems/Buying Service/Containers/Message Handler/Interfaces/Handle Purchase Order Deleted Event",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -436,7 +436,7 @@
                                     },
                                     {
                                       "label": "Handle Purchase Order Updated Event",
-                                      "loc": "ECommercePlatform/CreateProduct/BuyingAndMerchandising/Software Systems/Buying Service/Containers/Message Handler/Interfaces/Handle Purchase Order Updated Event",
+                                      "loc": "E Commerce Platform/Create Product/Buying And Merchandising/Software Systems/Buying Service/Containers/Message Handler/Interfaces/Handle Purchase Order Updated Event",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -475,15 +475,15 @@
                             },
                             {
                               "label": "Messaging",
-                              "loc": "ECommercePlatform/CreateProduct/BuyingAndMerchandising/Software Systems/Buying Service/Containers/Messaging",
+                              "loc": "E Commerce Platform/Create Product/Buying And Merchandising/Software Systems/Buying Service/Containers/Messaging",
                               "urlset": [
                                 {
                                   "label": "Interfaces",
-                                  "loc": "ECommercePlatform/CreateProduct/BuyingAndMerchandising/Software Systems/Buying Service/Containers/Messaging/Interfaces",
+                                  "loc": "E Commerce Platform/Create Product/Buying And Merchandising/Software Systems/Buying Service/Containers/Messaging/Interfaces",
                                   "urlset": [
                                     {
                                       "label": "Receive Purchase Order Created Event",
-                                      "loc": "ECommercePlatform/CreateProduct/BuyingAndMerchandising/Software Systems/Buying Service/Containers/Messaging/Interfaces/Receive Purchase Order Created Event",
+                                      "loc": "E Commerce Platform/Create Product/Buying And Merchandising/Software Systems/Buying Service/Containers/Messaging/Interfaces/Receive Purchase Order Created Event",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -503,7 +503,7 @@
                                     },
                                     {
                                       "label": "Receive Purchase Order Deleted Event",
-                                      "loc": "ECommercePlatform/CreateProduct/BuyingAndMerchandising/Software Systems/Buying Service/Containers/Messaging/Interfaces/Receive Purchase Order Deleted Event",
+                                      "loc": "E Commerce Platform/Create Product/Buying And Merchandising/Software Systems/Buying Service/Containers/Messaging/Interfaces/Receive Purchase Order Deleted Event",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -523,7 +523,7 @@
                                     },
                                     {
                                       "label": "Receive Purchase Order Updated Event",
-                                      "loc": "ECommercePlatform/CreateProduct/BuyingAndMerchandising/Software Systems/Buying Service/Containers/Messaging/Interfaces/Receive Purchase Order Updated Event",
+                                      "loc": "E Commerce Platform/Create Product/Buying And Merchandising/Software Systems/Buying Service/Containers/Messaging/Interfaces/Receive Purchase Order Updated Event",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -543,7 +543,7 @@
                                     },
                                     {
                                       "label": "Send Purchase Order Created Event",
-                                      "loc": "ECommercePlatform/CreateProduct/BuyingAndMerchandising/Software Systems/Buying Service/Containers/Messaging/Interfaces/Send Purchase Order Created Event",
+                                      "loc": "E Commerce Platform/Create Product/Buying And Merchandising/Software Systems/Buying Service/Containers/Messaging/Interfaces/Send Purchase Order Created Event",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -563,7 +563,7 @@
                                     },
                                     {
                                       "label": "Send Purchase Order Deleted Event",
-                                      "loc": "ECommercePlatform/CreateProduct/BuyingAndMerchandising/Software Systems/Buying Service/Containers/Messaging/Interfaces/Send Purchase Order Deleted Event",
+                                      "loc": "E Commerce Platform/Create Product/Buying And Merchandising/Software Systems/Buying Service/Containers/Messaging/Interfaces/Send Purchase Order Deleted Event",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -583,7 +583,7 @@
                                     },
                                     {
                                       "label": "Send Purchase Order Updated Event",
-                                      "loc": "ECommercePlatform/CreateProduct/BuyingAndMerchandising/Software Systems/Buying Service/Containers/Messaging/Interfaces/Send Purchase Order Updated Event",
+                                      "loc": "E Commerce Platform/Create Product/Buying And Merchandising/Software Systems/Buying Service/Containers/Messaging/Interfaces/Send Purchase Order Updated Event",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -671,32 +671,32 @@
               ]
             },
             {
-              "label": "PriceManagement",
-              "loc": "ECommercePlatform/CreateProduct/PriceManagement",
+              "label": "Price Management",
+              "loc": "E Commerce Platform/Create Product/Price Management",
               "urlset": [
                 {
                   "label": "Software Systems",
-                  "loc": "ECommercePlatform/CreateProduct/PriceManagement/Software Systems",
+                  "loc": "E Commerce Platform/Create Product/Price Management/Software Systems",
                   "urlset": [
                     {
                       "label": "Pricing Service",
-                      "loc": "ECommercePlatform/CreateProduct/PriceManagement/Software Systems/Pricing Service",
+                      "loc": "E Commerce Platform/Create Product/Price Management/Software Systems/Pricing Service",
                       "urlset": [
                         {
                           "label": "Containers",
-                          "loc": "ECommercePlatform/CreateProduct/PriceManagement/Software Systems/Pricing Service/Containers",
+                          "loc": "E Commerce Platform/Create Product/Price Management/Software Systems/Pricing Service/Containers",
                           "urlset": [
                             {
                               "label": "Api",
-                              "loc": "ECommercePlatform/CreateProduct/PriceManagement/Software Systems/Pricing Service/Containers/Api",
+                              "loc": "E Commerce Platform/Create Product/Price Management/Software Systems/Pricing Service/Containers/Api",
                               "urlset": [
                                 {
                                   "label": "Interfaces",
-                                  "loc": "ECommercePlatform/CreateProduct/PriceManagement/Software Systems/Pricing Service/Containers/Api/Interfaces",
+                                  "loc": "E Commerce Platform/Create Product/Price Management/Software Systems/Pricing Service/Containers/Api/Interfaces",
                                   "urlset": [
                                     {
                                       "label": "Get Product Prices",
-                                      "loc": "ECommercePlatform/CreateProduct/PriceManagement/Software Systems/Pricing Service/Containers/Api/Interfaces/Get Product Prices",
+                                      "loc": "E Commerce Platform/Create Product/Price Management/Software Systems/Pricing Service/Containers/Api/Interfaces/Get Product Prices",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -716,7 +716,7 @@
                                     },
                                     {
                                       "label": "Update Product Prices",
-                                      "loc": "ECommercePlatform/CreateProduct/PriceManagement/Software Systems/Pricing Service/Containers/Api/Interfaces/Update Product Prices",
+                                      "loc": "E Commerce Platform/Create Product/Price Management/Software Systems/Pricing Service/Containers/Api/Interfaces/Update Product Prices",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -755,15 +755,15 @@
                             },
                             {
                               "label": "Database",
-                              "loc": "ECommercePlatform/CreateProduct/PriceManagement/Software Systems/Pricing Service/Containers/Database",
+                              "loc": "E Commerce Platform/Create Product/Price Management/Software Systems/Pricing Service/Containers/Database",
                               "urlset": [
                                 {
                                   "label": "Interfaces",
-                                  "loc": "ECommercePlatform/CreateProduct/PriceManagement/Software Systems/Pricing Service/Containers/Database/Interfaces",
+                                  "loc": "E Commerce Platform/Create Product/Price Management/Software Systems/Pricing Service/Containers/Database/Interfaces",
                                   "urlset": [
                                     {
                                       "label": "Insert Product",
-                                      "loc": "ECommercePlatform/CreateProduct/PriceManagement/Software Systems/Pricing Service/Containers/Database/Interfaces/Insert Product",
+                                      "loc": "E Commerce Platform/Create Product/Price Management/Software Systems/Pricing Service/Containers/Database/Interfaces/Insert Product",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -783,7 +783,7 @@
                                     },
                                     {
                                       "label": "Select Product Prices",
-                                      "loc": "ECommercePlatform/CreateProduct/PriceManagement/Software Systems/Pricing Service/Containers/Database/Interfaces/Select Product Prices",
+                                      "loc": "E Commerce Platform/Create Product/Price Management/Software Systems/Pricing Service/Containers/Database/Interfaces/Select Product Prices",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -803,7 +803,7 @@
                                     },
                                     {
                                       "label": "Select Products",
-                                      "loc": "ECommercePlatform/CreateProduct/PriceManagement/Software Systems/Pricing Service/Containers/Database/Interfaces/Select Products",
+                                      "loc": "E Commerce Platform/Create Product/Price Management/Software Systems/Pricing Service/Containers/Database/Interfaces/Select Products",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -823,7 +823,7 @@
                                     },
                                     {
                                       "label": "Update Product Prices",
-                                      "loc": "ECommercePlatform/CreateProduct/PriceManagement/Software Systems/Pricing Service/Containers/Database/Interfaces/Update Product Prices",
+                                      "loc": "E Commerce Platform/Create Product/Price Management/Software Systems/Pricing Service/Containers/Database/Interfaces/Update Product Prices",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -862,15 +862,15 @@
                             },
                             {
                               "label": "Message Handler",
-                              "loc": "ECommercePlatform/CreateProduct/PriceManagement/Software Systems/Pricing Service/Containers/Message Handler",
+                              "loc": "E Commerce Platform/Create Product/Price Management/Software Systems/Pricing Service/Containers/Message Handler",
                               "urlset": [
                                 {
                                   "label": "Interfaces",
-                                  "loc": "ECommercePlatform/CreateProduct/PriceManagement/Software Systems/Pricing Service/Containers/Message Handler/Interfaces",
+                                  "loc": "E Commerce Platform/Create Product/Price Management/Software Systems/Pricing Service/Containers/Message Handler/Interfaces",
                                   "urlset": [
                                     {
                                       "label": "Handle Purchase Order Created Event",
-                                      "loc": "ECommercePlatform/CreateProduct/PriceManagement/Software Systems/Pricing Service/Containers/Message Handler/Interfaces/Handle Purchase Order Created Event",
+                                      "loc": "E Commerce Platform/Create Product/Price Management/Software Systems/Pricing Service/Containers/Message Handler/Interfaces/Handle Purchase Order Created Event",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -890,7 +890,7 @@
                                     },
                                     {
                                       "label": "Handle Purchase Order Updated Event",
-                                      "loc": "ECommercePlatform/CreateProduct/PriceManagement/Software Systems/Pricing Service/Containers/Message Handler/Interfaces/Handle Purchase Order Updated Event",
+                                      "loc": "E Commerce Platform/Create Product/Price Management/Software Systems/Pricing Service/Containers/Message Handler/Interfaces/Handle Purchase Order Updated Event",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -929,15 +929,15 @@
                             },
                             {
                               "label": "Messaging",
-                              "loc": "ECommercePlatform/CreateProduct/PriceManagement/Software Systems/Pricing Service/Containers/Messaging",
+                              "loc": "E Commerce Platform/Create Product/Price Management/Software Systems/Pricing Service/Containers/Messaging",
                               "urlset": [
                                 {
                                   "label": "Interfaces",
-                                  "loc": "ECommercePlatform/CreateProduct/PriceManagement/Software Systems/Pricing Service/Containers/Messaging/Interfaces",
+                                  "loc": "E Commerce Platform/Create Product/Price Management/Software Systems/Pricing Service/Containers/Messaging/Interfaces",
                                   "urlset": [
                                     {
                                       "label": "Receive Product Price Changed Event",
-                                      "loc": "ECommercePlatform/CreateProduct/PriceManagement/Software Systems/Pricing Service/Containers/Messaging/Interfaces/Receive Product Price Changed Event",
+                                      "loc": "E Commerce Platform/Create Product/Price Management/Software Systems/Pricing Service/Containers/Messaging/Interfaces/Receive Product Price Changed Event",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -957,7 +957,7 @@
                                     },
                                     {
                                       "label": "Send Product Price Changed Event",
-                                      "loc": "ECommercePlatform/CreateProduct/PriceManagement/Software Systems/Pricing Service/Containers/Messaging/Interfaces/Send Product Price Changed Event",
+                                      "loc": "E Commerce Platform/Create Product/Price Management/Software Systems/Pricing Service/Containers/Messaging/Interfaces/Send Product Price Changed Event",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -1045,24 +1045,24 @@
               ]
             },
             {
-              "label": "ProductInformationManagement",
-              "loc": "ECommercePlatform/CreateProduct/ProductInformationManagement",
+              "label": "Product Information Management",
+              "loc": "E Commerce Platform/Create Product/Product Information Management",
               "urlset": [
                 {
                   "label": "Software Systems",
-                  "loc": "ECommercePlatform/CreateProduct/ProductInformationManagement/Software Systems",
+                  "loc": "E Commerce Platform/Create Product/Product Information Management/Software Systems",
                   "urlset": [
                     {
                       "label": "PIM App",
-                      "loc": "ECommercePlatform/CreateProduct/ProductInformationManagement/Software Systems/PIM App",
+                      "loc": "E Commerce Platform/Create Product/Product Information Management/Software Systems/PIM App",
                       "urlset": [
                         {
                           "label": "Interfaces",
-                          "loc": "ECommercePlatform/CreateProduct/ProductInformationManagement/Software Systems/PIM App/Interfaces",
+                          "loc": "E Commerce Platform/Create Product/Product Information Management/Software Systems/PIM App/Interfaces",
                           "urlset": [
                             {
                               "label": "Delete Product",
-                              "loc": "ECommercePlatform/CreateProduct/ProductInformationManagement/Software Systems/PIM App/Interfaces/Delete Product",
+                              "loc": "E Commerce Platform/Create Product/Product Information Management/Software Systems/PIM App/Interfaces/Delete Product",
                               "urlset": [],
                               "types": [
                                 "C4 Sequence",
@@ -1082,7 +1082,7 @@
                             },
                             {
                               "label": "Update Product",
-                              "loc": "ECommercePlatform/CreateProduct/ProductInformationManagement/Software Systems/PIM App/Interfaces/Update Product",
+                              "loc": "E Commerce Platform/Create Product/Product Information Management/Software Systems/PIM App/Interfaces/Update Product",
                               "urlset": [],
                               "types": [
                                 "C4 Sequence",
@@ -1102,7 +1102,7 @@
                             },
                             {
                               "label": "View Products",
-                              "loc": "ECommercePlatform/CreateProduct/ProductInformationManagement/Software Systems/PIM App/Interfaces/View Products",
+                              "loc": "E Commerce Platform/Create Product/Product Information Management/Software Systems/PIM App/Interfaces/View Products",
                               "urlset": [],
                               "types": [
                                 "C4 Sequence",
@@ -1142,23 +1142,23 @@
                     },
                     {
                       "label": "Product Service",
-                      "loc": "ECommercePlatform/CreateProduct/ProductInformationManagement/Software Systems/Product Service",
+                      "loc": "E Commerce Platform/Create Product/Product Information Management/Software Systems/Product Service",
                       "urlset": [
                         {
                           "label": "Containers",
-                          "loc": "ECommercePlatform/CreateProduct/ProductInformationManagement/Software Systems/Product Service/Containers",
+                          "loc": "E Commerce Platform/Create Product/Product Information Management/Software Systems/Product Service/Containers",
                           "urlset": [
                             {
                               "label": "Api",
-                              "loc": "ECommercePlatform/CreateProduct/ProductInformationManagement/Software Systems/Product Service/Containers/Api",
+                              "loc": "E Commerce Platform/Create Product/Product Information Management/Software Systems/Product Service/Containers/Api",
                               "urlset": [
                                 {
                                   "label": "Interfaces",
-                                  "loc": "ECommercePlatform/CreateProduct/ProductInformationManagement/Software Systems/Product Service/Containers/Api/Interfaces",
+                                  "loc": "E Commerce Platform/Create Product/Product Information Management/Software Systems/Product Service/Containers/Api/Interfaces",
                                   "urlset": [
                                     {
                                       "label": "Delete Product",
-                                      "loc": "ECommercePlatform/CreateProduct/ProductInformationManagement/Software Systems/Product Service/Containers/Api/Interfaces/Delete Product",
+                                      "loc": "E Commerce Platform/Create Product/Product Information Management/Software Systems/Product Service/Containers/Api/Interfaces/Delete Product",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -1178,7 +1178,7 @@
                                     },
                                     {
                                       "label": "Get Products",
-                                      "loc": "ECommercePlatform/CreateProduct/ProductInformationManagement/Software Systems/Product Service/Containers/Api/Interfaces/Get Products",
+                                      "loc": "E Commerce Platform/Create Product/Product Information Management/Software Systems/Product Service/Containers/Api/Interfaces/Get Products",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -1198,7 +1198,7 @@
                                     },
                                     {
                                       "label": "Update Product",
-                                      "loc": "ECommercePlatform/CreateProduct/ProductInformationManagement/Software Systems/Product Service/Containers/Api/Interfaces/Update Product",
+                                      "loc": "E Commerce Platform/Create Product/Product Information Management/Software Systems/Product Service/Containers/Api/Interfaces/Update Product",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -1237,15 +1237,15 @@
                             },
                             {
                               "label": "Database",
-                              "loc": "ECommercePlatform/CreateProduct/ProductInformationManagement/Software Systems/Product Service/Containers/Database",
+                              "loc": "E Commerce Platform/Create Product/Product Information Management/Software Systems/Product Service/Containers/Database",
                               "urlset": [
                                 {
                                   "label": "Interfaces",
-                                  "loc": "ECommercePlatform/CreateProduct/ProductInformationManagement/Software Systems/Product Service/Containers/Database/Interfaces",
+                                  "loc": "E Commerce Platform/Create Product/Product Information Management/Software Systems/Product Service/Containers/Database/Interfaces",
                                   "urlset": [
                                     {
                                       "label": "Delete Product",
-                                      "loc": "ECommercePlatform/CreateProduct/ProductInformationManagement/Software Systems/Product Service/Containers/Database/Interfaces/Delete Product",
+                                      "loc": "E Commerce Platform/Create Product/Product Information Management/Software Systems/Product Service/Containers/Database/Interfaces/Delete Product",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -1265,7 +1265,7 @@
                                     },
                                     {
                                       "label": "Insert Product",
-                                      "loc": "ECommercePlatform/CreateProduct/ProductInformationManagement/Software Systems/Product Service/Containers/Database/Interfaces/Insert Product",
+                                      "loc": "E Commerce Platform/Create Product/Product Information Management/Software Systems/Product Service/Containers/Database/Interfaces/Insert Product",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -1285,7 +1285,7 @@
                                     },
                                     {
                                       "label": "Select Products",
-                                      "loc": "ECommercePlatform/CreateProduct/ProductInformationManagement/Software Systems/Product Service/Containers/Database/Interfaces/Select Products",
+                                      "loc": "E Commerce Platform/Create Product/Product Information Management/Software Systems/Product Service/Containers/Database/Interfaces/Select Products",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -1305,7 +1305,7 @@
                                     },
                                     {
                                       "label": "Update Product",
-                                      "loc": "ECommercePlatform/CreateProduct/ProductInformationManagement/Software Systems/Product Service/Containers/Database/Interfaces/Update Product",
+                                      "loc": "E Commerce Platform/Create Product/Product Information Management/Software Systems/Product Service/Containers/Database/Interfaces/Update Product",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -1344,15 +1344,15 @@
                             },
                             {
                               "label": "Message Handler",
-                              "loc": "ECommercePlatform/CreateProduct/ProductInformationManagement/Software Systems/Product Service/Containers/Message Handler",
+                              "loc": "E Commerce Platform/Create Product/Product Information Management/Software Systems/Product Service/Containers/Message Handler",
                               "urlset": [
                                 {
                                   "label": "Interfaces",
-                                  "loc": "ECommercePlatform/CreateProduct/ProductInformationManagement/Software Systems/Product Service/Containers/Message Handler/Interfaces",
+                                  "loc": "E Commerce Platform/Create Product/Product Information Management/Software Systems/Product Service/Containers/Message Handler/Interfaces",
                                   "urlset": [
                                     {
                                       "label": "Handle Purchase Order Created Event",
-                                      "loc": "ECommercePlatform/CreateProduct/ProductInformationManagement/Software Systems/Product Service/Containers/Message Handler/Interfaces/Handle Purchase Order Created Event",
+                                      "loc": "E Commerce Platform/Create Product/Product Information Management/Software Systems/Product Service/Containers/Message Handler/Interfaces/Handle Purchase Order Created Event",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -1372,7 +1372,7 @@
                                     },
                                     {
                                       "label": "Handle Purchase Order Updated Event",
-                                      "loc": "ECommercePlatform/CreateProduct/ProductInformationManagement/Software Systems/Product Service/Containers/Message Handler/Interfaces/Handle Purchase Order Updated Event",
+                                      "loc": "E Commerce Platform/Create Product/Product Information Management/Software Systems/Product Service/Containers/Message Handler/Interfaces/Handle Purchase Order Updated Event",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -1411,15 +1411,15 @@
                             },
                             {
                               "label": "Messaging",
-                              "loc": "ECommercePlatform/CreateProduct/ProductInformationManagement/Software Systems/Product Service/Containers/Messaging",
+                              "loc": "E Commerce Platform/Create Product/Product Information Management/Software Systems/Product Service/Containers/Messaging",
                               "urlset": [
                                 {
                                   "label": "Interfaces",
-                                  "loc": "ECommercePlatform/CreateProduct/ProductInformationManagement/Software Systems/Product Service/Containers/Messaging/Interfaces",
+                                  "loc": "E Commerce Platform/Create Product/Product Information Management/Software Systems/Product Service/Containers/Messaging/Interfaces",
                                   "urlset": [
                                     {
                                       "label": "Receive Product Created Event",
-                                      "loc": "ECommercePlatform/CreateProduct/ProductInformationManagement/Software Systems/Product Service/Containers/Messaging/Interfaces/Receive Product Created Event",
+                                      "loc": "E Commerce Platform/Create Product/Product Information Management/Software Systems/Product Service/Containers/Messaging/Interfaces/Receive Product Created Event",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -1439,7 +1439,7 @@
                                     },
                                     {
                                       "label": "Receive Product Deleted Event",
-                                      "loc": "ECommercePlatform/CreateProduct/ProductInformationManagement/Software Systems/Product Service/Containers/Messaging/Interfaces/Receive Product Deleted Event",
+                                      "loc": "E Commerce Platform/Create Product/Product Information Management/Software Systems/Product Service/Containers/Messaging/Interfaces/Receive Product Deleted Event",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -1459,7 +1459,7 @@
                                     },
                                     {
                                       "label": "Receive Product Updated Event",
-                                      "loc": "ECommercePlatform/CreateProduct/ProductInformationManagement/Software Systems/Product Service/Containers/Messaging/Interfaces/Receive Product Updated Event",
+                                      "loc": "E Commerce Platform/Create Product/Product Information Management/Software Systems/Product Service/Containers/Messaging/Interfaces/Receive Product Updated Event",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -1479,7 +1479,7 @@
                                     },
                                     {
                                       "label": "Send Product Created Event",
-                                      "loc": "ECommercePlatform/CreateProduct/ProductInformationManagement/Software Systems/Product Service/Containers/Messaging/Interfaces/Send Product Created Event",
+                                      "loc": "E Commerce Platform/Create Product/Product Information Management/Software Systems/Product Service/Containers/Messaging/Interfaces/Send Product Created Event",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -1499,7 +1499,7 @@
                                     },
                                     {
                                       "label": "Send Product Deleted Event",
-                                      "loc": "ECommercePlatform/CreateProduct/ProductInformationManagement/Software Systems/Product Service/Containers/Messaging/Interfaces/Send Product Deleted Event",
+                                      "loc": "E Commerce Platform/Create Product/Product Information Management/Software Systems/Product Service/Containers/Messaging/Interfaces/Send Product Deleted Event",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -1519,7 +1519,7 @@
                                     },
                                     {
                                       "label": "Send Product Updated Event",
-                                      "loc": "ECommercePlatform/CreateProduct/ProductInformationManagement/Software Systems/Product Service/Containers/Messaging/Interfaces/Send Product Updated Event",
+                                      "loc": "E Commerce Platform/Create Product/Product Information Management/Software Systems/Product Service/Containers/Messaging/Interfaces/Send Product Updated Event",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -1623,27 +1623,27 @@
         },
         {
           "label": "Deliver",
-          "loc": "ECommercePlatform/Deliver",
+          "loc": "E Commerce Platform/Deliver",
           "urlset": [
             {
-              "label": "CustomerManagement",
-              "loc": "ECommercePlatform/Deliver/CustomerManagement",
+              "label": "Customer Management",
+              "loc": "E Commerce Platform/Deliver/Customer Management",
               "urlset": [
                 {
                   "label": "Software Systems",
-                  "loc": "ECommercePlatform/Deliver/CustomerManagement/Software Systems",
+                  "loc": "E Commerce Platform/Deliver/Customer Management/Software Systems",
                   "urlset": [
                     {
                       "label": "CRM App",
-                      "loc": "ECommercePlatform/Deliver/CustomerManagement/Software Systems/CRM App",
+                      "loc": "E Commerce Platform/Deliver/Customer Management/Software Systems/CRM App",
                       "urlset": [
                         {
                           "label": "Interfaces",
-                          "loc": "ECommercePlatform/Deliver/CustomerManagement/Software Systems/CRM App/Interfaces",
+                          "loc": "E Commerce Platform/Deliver/Customer Management/Software Systems/CRM App/Interfaces",
                           "urlset": [
                             {
                               "label": "Update Order Fraud Check Result",
-                              "loc": "ECommercePlatform/Deliver/CustomerManagement/Software Systems/CRM App/Interfaces/Update Order Fraud Check Result",
+                              "loc": "E Commerce Platform/Deliver/Customer Management/Software Systems/CRM App/Interfaces/Update Order Fraud Check Result",
                               "urlset": [],
                               "types": [
                                 "C4 Sequence",
@@ -1663,7 +1663,7 @@
                             },
                             {
                               "label": "View High Risk Orders",
-                              "loc": "ECommercePlatform/Deliver/CustomerManagement/Software Systems/CRM App/Interfaces/View High Risk Orders",
+                              "loc": "E Commerce Platform/Deliver/Customer Management/Software Systems/CRM App/Interfaces/View High Risk Orders",
                               "urlset": [],
                               "types": [
                                 "C4 Sequence",
@@ -1732,24 +1732,24 @@
               ]
             },
             {
-              "label": "FraudManagement",
-              "loc": "ECommercePlatform/Deliver/FraudManagement",
+              "label": "Fraud Management",
+              "loc": "E Commerce Platform/Deliver/Fraud Management",
               "urlset": [
                 {
                   "label": "Software Systems",
-                  "loc": "ECommercePlatform/Deliver/FraudManagement/Software Systems",
+                  "loc": "E Commerce Platform/Deliver/Fraud Management/Software Systems",
                   "urlset": [
                     {
                       "label": "Fraud Engine",
-                      "loc": "ECommercePlatform/Deliver/FraudManagement/Software Systems/Fraud Engine",
+                      "loc": "E Commerce Platform/Deliver/Fraud Management/Software Systems/Fraud Engine",
                       "urlset": [
                         {
                           "label": "Interfaces",
-                          "loc": "ECommercePlatform/Deliver/FraudManagement/Software Systems/Fraud Engine/Interfaces",
+                          "loc": "E Commerce Platform/Deliver/Fraud Management/Software Systems/Fraud Engine/Interfaces",
                           "urlset": [
                             {
                               "label": "Get Fraud Check Result",
-                              "loc": "ECommercePlatform/Deliver/FraudManagement/Software Systems/Fraud Engine/Interfaces/Get Fraud Check Result",
+                              "loc": "E Commerce Platform/Deliver/Fraud Management/Software Systems/Fraud Engine/Interfaces/Get Fraud Check Result",
                               "urlset": [],
                               "types": [
                                 "C4 Sequence",
@@ -1789,23 +1789,23 @@
                     },
                     {
                       "label": "Fraud Service",
-                      "loc": "ECommercePlatform/Deliver/FraudManagement/Software Systems/Fraud Service",
+                      "loc": "E Commerce Platform/Deliver/Fraud Management/Software Systems/Fraud Service",
                       "urlset": [
                         {
                           "label": "Containers",
-                          "loc": "ECommercePlatform/Deliver/FraudManagement/Software Systems/Fraud Service/Containers",
+                          "loc": "E Commerce Platform/Deliver/Fraud Management/Software Systems/Fraud Service/Containers",
                           "urlset": [
                             {
                               "label": "Api",
-                              "loc": "ECommercePlatform/Deliver/FraudManagement/Software Systems/Fraud Service/Containers/Api",
+                              "loc": "E Commerce Platform/Deliver/Fraud Management/Software Systems/Fraud Service/Containers/Api",
                               "urlset": [
                                 {
                                   "label": "Interfaces",
-                                  "loc": "ECommercePlatform/Deliver/FraudManagement/Software Systems/Fraud Service/Containers/Api/Interfaces",
+                                  "loc": "E Commerce Platform/Deliver/Fraud Management/Software Systems/Fraud Service/Containers/Api/Interfaces",
                                   "urlset": [
                                     {
                                       "label": "Get High Risk Orders",
-                                      "loc": "ECommercePlatform/Deliver/FraudManagement/Software Systems/Fraud Service/Containers/Api/Interfaces/Get High Risk Orders",
+                                      "loc": "E Commerce Platform/Deliver/Fraud Management/Software Systems/Fraud Service/Containers/Api/Interfaces/Get High Risk Orders",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -1825,7 +1825,7 @@
                                     },
                                     {
                                       "label": "Update Order Fraud Check Result",
-                                      "loc": "ECommercePlatform/Deliver/FraudManagement/Software Systems/Fraud Service/Containers/Api/Interfaces/Update Order Fraud Check Result",
+                                      "loc": "E Commerce Platform/Deliver/Fraud Management/Software Systems/Fraud Service/Containers/Api/Interfaces/Update Order Fraud Check Result",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -1864,15 +1864,15 @@
                             },
                             {
                               "label": "Database",
-                              "loc": "ECommercePlatform/Deliver/FraudManagement/Software Systems/Fraud Service/Containers/Database",
+                              "loc": "E Commerce Platform/Deliver/Fraud Management/Software Systems/Fraud Service/Containers/Database",
                               "urlset": [
                                 {
                                   "label": "Interfaces",
-                                  "loc": "ECommercePlatform/Deliver/FraudManagement/Software Systems/Fraud Service/Containers/Database/Interfaces",
+                                  "loc": "E Commerce Platform/Deliver/Fraud Management/Software Systems/Fraud Service/Containers/Database/Interfaces",
                                   "urlset": [
                                     {
                                       "label": "Insert Fraud Check Result",
-                                      "loc": "ECommercePlatform/Deliver/FraudManagement/Software Systems/Fraud Service/Containers/Database/Interfaces/Insert Fraud Check Result",
+                                      "loc": "E Commerce Platform/Deliver/Fraud Management/Software Systems/Fraud Service/Containers/Database/Interfaces/Insert Fraud Check Result",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -1892,7 +1892,7 @@
                                     },
                                     {
                                       "label": "Insert Order",
-                                      "loc": "ECommercePlatform/Deliver/FraudManagement/Software Systems/Fraud Service/Containers/Database/Interfaces/Insert Order",
+                                      "loc": "E Commerce Platform/Deliver/Fraud Management/Software Systems/Fraud Service/Containers/Database/Interfaces/Insert Order",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -1912,7 +1912,7 @@
                                     },
                                     {
                                       "label": "Select High Risk Orders",
-                                      "loc": "ECommercePlatform/Deliver/FraudManagement/Software Systems/Fraud Service/Containers/Database/Interfaces/Select High Risk Orders",
+                                      "loc": "E Commerce Platform/Deliver/Fraud Management/Software Systems/Fraud Service/Containers/Database/Interfaces/Select High Risk Orders",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -1932,7 +1932,7 @@
                                     },
                                     {
                                       "label": "Update Fraud Check Result",
-                                      "loc": "ECommercePlatform/Deliver/FraudManagement/Software Systems/Fraud Service/Containers/Database/Interfaces/Update Fraud Check Result",
+                                      "loc": "E Commerce Platform/Deliver/Fraud Management/Software Systems/Fraud Service/Containers/Database/Interfaces/Update Fraud Check Result",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -1971,15 +1971,15 @@
                             },
                             {
                               "label": "Message Handler",
-                              "loc": "ECommercePlatform/Deliver/FraudManagement/Software Systems/Fraud Service/Containers/Message Handler",
+                              "loc": "E Commerce Platform/Deliver/Fraud Management/Software Systems/Fraud Service/Containers/Message Handler",
                               "urlset": [
                                 {
                                   "label": "Interfaces",
-                                  "loc": "ECommercePlatform/Deliver/FraudManagement/Software Systems/Fraud Service/Containers/Message Handler/Interfaces",
+                                  "loc": "E Commerce Platform/Deliver/Fraud Management/Software Systems/Fraud Service/Containers/Message Handler/Interfaces",
                                   "urlset": [
                                     {
                                       "label": "Handle Order Created Event",
-                                      "loc": "ECommercePlatform/Deliver/FraudManagement/Software Systems/Fraud Service/Containers/Message Handler/Interfaces/Handle Order Created Event",
+                                      "loc": "E Commerce Platform/Deliver/Fraud Management/Software Systems/Fraud Service/Containers/Message Handler/Interfaces/Handle Order Created Event",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -2018,15 +2018,15 @@
                             },
                             {
                               "label": "Messaging",
-                              "loc": "ECommercePlatform/Deliver/FraudManagement/Software Systems/Fraud Service/Containers/Messaging",
+                              "loc": "E Commerce Platform/Deliver/Fraud Management/Software Systems/Fraud Service/Containers/Messaging",
                               "urlset": [
                                 {
                                   "label": "Interfaces",
-                                  "loc": "ECommercePlatform/Deliver/FraudManagement/Software Systems/Fraud Service/Containers/Messaging/Interfaces",
+                                  "loc": "E Commerce Platform/Deliver/Fraud Management/Software Systems/Fraud Service/Containers/Messaging/Interfaces",
                                   "urlset": [
                                     {
                                       "label": "Receive Fraud Check Result Event",
-                                      "loc": "ECommercePlatform/Deliver/FraudManagement/Software Systems/Fraud Service/Containers/Messaging/Interfaces/Receive Fraud Check Result Event",
+                                      "loc": "E Commerce Platform/Deliver/Fraud Management/Software Systems/Fraud Service/Containers/Messaging/Interfaces/Receive Fraud Check Result Event",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -2046,7 +2046,7 @@
                                     },
                                     {
                                       "label": "Send Fraud Check Result Event",
-                                      "loc": "ECommercePlatform/Deliver/FraudManagement/Software Systems/Fraud Service/Containers/Messaging/Interfaces/Send Fraud Check Result Event",
+                                      "loc": "E Commerce Platform/Deliver/Fraud Management/Software Systems/Fraud Service/Containers/Messaging/Interfaces/Send Fraud Check Result Event",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -2135,31 +2135,31 @@
             },
             {
               "label": "Fulfilment",
-              "loc": "ECommercePlatform/Deliver/Fulfilment",
+              "loc": "E Commerce Platform/Deliver/Fulfilment",
               "urlset": [
                 {
                   "label": "Software Systems",
-                  "loc": "ECommercePlatform/Deliver/Fulfilment/Software Systems",
+                  "loc": "E Commerce Platform/Deliver/Fulfilment/Software Systems",
                   "urlset": [
                     {
                       "label": "Fulfilment Service",
-                      "loc": "ECommercePlatform/Deliver/Fulfilment/Software Systems/Fulfilment Service",
+                      "loc": "E Commerce Platform/Deliver/Fulfilment/Software Systems/Fulfilment Service",
                       "urlset": [
                         {
                           "label": "Containers",
-                          "loc": "ECommercePlatform/Deliver/Fulfilment/Software Systems/Fulfilment Service/Containers",
+                          "loc": "E Commerce Platform/Deliver/Fulfilment/Software Systems/Fulfilment Service/Containers",
                           "urlset": [
                             {
                               "label": "Api",
-                              "loc": "ECommercePlatform/Deliver/Fulfilment/Software Systems/Fulfilment Service/Containers/Api",
+                              "loc": "E Commerce Platform/Deliver/Fulfilment/Software Systems/Fulfilment Service/Containers/Api",
                               "urlset": [
                                 {
                                   "label": "Interfaces",
-                                  "loc": "ECommercePlatform/Deliver/Fulfilment/Software Systems/Fulfilment Service/Containers/Api/Interfaces",
+                                  "loc": "E Commerce Platform/Deliver/Fulfilment/Software Systems/Fulfilment Service/Containers/Api/Interfaces",
                                   "urlset": [
                                     {
                                       "label": "Post Order Shipped Event",
-                                      "loc": "ECommercePlatform/Deliver/Fulfilment/Software Systems/Fulfilment Service/Containers/Api/Interfaces/Post Order Shipped Event",
+                                      "loc": "E Commerce Platform/Deliver/Fulfilment/Software Systems/Fulfilment Service/Containers/Api/Interfaces/Post Order Shipped Event",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -2198,15 +2198,15 @@
                             },
                             {
                               "label": "Database",
-                              "loc": "ECommercePlatform/Deliver/Fulfilment/Software Systems/Fulfilment Service/Containers/Database",
+                              "loc": "E Commerce Platform/Deliver/Fulfilment/Software Systems/Fulfilment Service/Containers/Database",
                               "urlset": [
                                 {
                                   "label": "Interfaces",
-                                  "loc": "ECommercePlatform/Deliver/Fulfilment/Software Systems/Fulfilment Service/Containers/Database/Interfaces",
+                                  "loc": "E Commerce Platform/Deliver/Fulfilment/Software Systems/Fulfilment Service/Containers/Database/Interfaces",
                                   "urlset": [
                                     {
                                       "label": "Insert Order",
-                                      "loc": "ECommercePlatform/Deliver/Fulfilment/Software Systems/Fulfilment Service/Containers/Database/Interfaces/Insert Order",
+                                      "loc": "E Commerce Platform/Deliver/Fulfilment/Software Systems/Fulfilment Service/Containers/Database/Interfaces/Insert Order",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -2226,7 +2226,7 @@
                                     },
                                     {
                                       "label": "Update Order Status",
-                                      "loc": "ECommercePlatform/Deliver/Fulfilment/Software Systems/Fulfilment Service/Containers/Database/Interfaces/Update Order Status",
+                                      "loc": "E Commerce Platform/Deliver/Fulfilment/Software Systems/Fulfilment Service/Containers/Database/Interfaces/Update Order Status",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -2265,15 +2265,15 @@
                             },
                             {
                               "label": "Message Handler",
-                              "loc": "ECommercePlatform/Deliver/Fulfilment/Software Systems/Fulfilment Service/Containers/Message Handler",
+                              "loc": "E Commerce Platform/Deliver/Fulfilment/Software Systems/Fulfilment Service/Containers/Message Handler",
                               "urlset": [
                                 {
                                   "label": "Interfaces",
-                                  "loc": "ECommercePlatform/Deliver/Fulfilment/Software Systems/Fulfilment Service/Containers/Message Handler/Interfaces",
+                                  "loc": "E Commerce Platform/Deliver/Fulfilment/Software Systems/Fulfilment Service/Containers/Message Handler/Interfaces",
                                   "urlset": [
                                     {
                                       "label": "Handle Order Status Changed Event",
-                                      "loc": "ECommercePlatform/Deliver/Fulfilment/Software Systems/Fulfilment Service/Containers/Message Handler/Interfaces/Handle Order Status Changed Event",
+                                      "loc": "E Commerce Platform/Deliver/Fulfilment/Software Systems/Fulfilment Service/Containers/Message Handler/Interfaces/Handle Order Status Changed Event",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -2312,15 +2312,15 @@
                             },
                             {
                               "label": "Messaging",
-                              "loc": "ECommercePlatform/Deliver/Fulfilment/Software Systems/Fulfilment Service/Containers/Messaging",
+                              "loc": "E Commerce Platform/Deliver/Fulfilment/Software Systems/Fulfilment Service/Containers/Messaging",
                               "urlset": [
                                 {
                                   "label": "Interfaces",
-                                  "loc": "ECommercePlatform/Deliver/Fulfilment/Software Systems/Fulfilment Service/Containers/Messaging/Interfaces",
+                                  "loc": "E Commerce Platform/Deliver/Fulfilment/Software Systems/Fulfilment Service/Containers/Messaging/Interfaces",
                                   "urlset": [
                                     {
                                       "label": "Receive Order Shipped Event",
-                                      "loc": "ECommercePlatform/Deliver/Fulfilment/Software Systems/Fulfilment Service/Containers/Messaging/Interfaces/Receive Order Shipped Event",
+                                      "loc": "E Commerce Platform/Deliver/Fulfilment/Software Systems/Fulfilment Service/Containers/Messaging/Interfaces/Receive Order Shipped Event",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -2340,7 +2340,7 @@
                                     },
                                     {
                                       "label": "Send Order Shipped Event",
-                                      "loc": "ECommercePlatform/Deliver/Fulfilment/Software Systems/Fulfilment Service/Containers/Messaging/Interfaces/Send Order Shipped Event",
+                                      "loc": "E Commerce Platform/Deliver/Fulfilment/Software Systems/Fulfilment Service/Containers/Messaging/Interfaces/Send Order Shipped Event",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -2399,15 +2399,15 @@
                     },
                     {
                       "label": "WMS",
-                      "loc": "ECommercePlatform/Deliver/Fulfilment/Software Systems/WMS",
+                      "loc": "E Commerce Platform/Deliver/Fulfilment/Software Systems/WMS",
                       "urlset": [
                         {
                           "label": "Interfaces",
-                          "loc": "ECommercePlatform/Deliver/Fulfilment/Software Systems/WMS/Interfaces",
+                          "loc": "E Commerce Platform/Deliver/Fulfilment/Software Systems/WMS/Interfaces",
                           "urlset": [
                             {
                               "label": "Create Purchase Order",
-                              "loc": "ECommercePlatform/Deliver/Fulfilment/Software Systems/WMS/Interfaces/Create Purchase Order",
+                              "loc": "E Commerce Platform/Deliver/Fulfilment/Software Systems/WMS/Interfaces/Create Purchase Order",
                               "urlset": [],
                               "types": [
                                 "C4 Sequence",
@@ -2427,7 +2427,7 @@
                             },
                             {
                               "label": "Delete Purchase Order",
-                              "loc": "ECommercePlatform/Deliver/Fulfilment/Software Systems/WMS/Interfaces/Delete Purchase Order",
+                              "loc": "E Commerce Platform/Deliver/Fulfilment/Software Systems/WMS/Interfaces/Delete Purchase Order",
                               "urlset": [],
                               "types": [
                                 "C4 Sequence",
@@ -2447,7 +2447,7 @@
                             },
                             {
                               "label": "Ship Order",
-                              "loc": "ECommercePlatform/Deliver/Fulfilment/Software Systems/WMS/Interfaces/Ship Order",
+                              "loc": "E Commerce Platform/Deliver/Fulfilment/Software Systems/WMS/Interfaces/Ship Order",
                               "urlset": [],
                               "types": [
                                 "C4 Sequence",
@@ -2467,7 +2467,7 @@
                             },
                             {
                               "label": "Update Purchase Order",
-                              "loc": "ECommercePlatform/Deliver/Fulfilment/Software Systems/WMS/Interfaces/Update Purchase Order",
+                              "loc": "E Commerce Platform/Deliver/Fulfilment/Software Systems/WMS/Interfaces/Update Purchase Order",
                               "urlset": [],
                               "types": [
                                 "C4 Sequence",
@@ -2537,23 +2537,23 @@
             },
             {
               "label": "Payments",
-              "loc": "ECommercePlatform/Deliver/Payments",
+              "loc": "E Commerce Platform/Deliver/Payments",
               "urlset": [
                 {
                   "label": "Software Systems",
-                  "loc": "ECommercePlatform/Deliver/Payments/Software Systems",
+                  "loc": "E Commerce Platform/Deliver/Payments/Software Systems",
                   "urlset": [
                     {
                       "label": "Payment Provider",
-                      "loc": "ECommercePlatform/Deliver/Payments/Software Systems/Payment Provider",
+                      "loc": "E Commerce Platform/Deliver/Payments/Software Systems/Payment Provider",
                       "urlset": [
                         {
                           "label": "Interfaces",
-                          "loc": "ECommercePlatform/Deliver/Payments/Software Systems/Payment Provider/Interfaces",
+                          "loc": "E Commerce Platform/Deliver/Payments/Software Systems/Payment Provider/Interfaces",
                           "urlset": [
                             {
                               "label": "Process Payment",
-                              "loc": "ECommercePlatform/Deliver/Payments/Software Systems/Payment Provider/Interfaces/Process Payment",
+                              "loc": "E Commerce Platform/Deliver/Payments/Software Systems/Payment Provider/Interfaces/Process Payment",
                               "urlset": [],
                               "types": [
                                 "C4 Sequence",
@@ -2593,23 +2593,23 @@
                     },
                     {
                       "label": "Payment Service",
-                      "loc": "ECommercePlatform/Deliver/Payments/Software Systems/Payment Service",
+                      "loc": "E Commerce Platform/Deliver/Payments/Software Systems/Payment Service",
                       "urlset": [
                         {
                           "label": "Containers",
-                          "loc": "ECommercePlatform/Deliver/Payments/Software Systems/Payment Service/Containers",
+                          "loc": "E Commerce Platform/Deliver/Payments/Software Systems/Payment Service/Containers",
                           "urlset": [
                             {
                               "label": "Api",
-                              "loc": "ECommercePlatform/Deliver/Payments/Software Systems/Payment Service/Containers/Api",
+                              "loc": "E Commerce Platform/Deliver/Payments/Software Systems/Payment Service/Containers/Api",
                               "urlset": [
                                 {
                                   "label": "Interfaces",
-                                  "loc": "ECommercePlatform/Deliver/Payments/Software Systems/Payment Service/Containers/Api/Interfaces",
+                                  "loc": "E Commerce Platform/Deliver/Payments/Software Systems/Payment Service/Containers/Api/Interfaces",
                                   "urlset": [
                                     {
                                       "label": "Post Payment Result Event",
-                                      "loc": "ECommercePlatform/Deliver/Payments/Software Systems/Payment Service/Containers/Api/Interfaces/Post Payment Result Event",
+                                      "loc": "E Commerce Platform/Deliver/Payments/Software Systems/Payment Service/Containers/Api/Interfaces/Post Payment Result Event",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -2648,15 +2648,15 @@
                             },
                             {
                               "label": "Database",
-                              "loc": "ECommercePlatform/Deliver/Payments/Software Systems/Payment Service/Containers/Database",
+                              "loc": "E Commerce Platform/Deliver/Payments/Software Systems/Payment Service/Containers/Database",
                               "urlset": [
                                 {
                                   "label": "Interfaces",
-                                  "loc": "ECommercePlatform/Deliver/Payments/Software Systems/Payment Service/Containers/Database/Interfaces",
+                                  "loc": "E Commerce Platform/Deliver/Payments/Software Systems/Payment Service/Containers/Database/Interfaces",
                                   "urlset": [
                                     {
                                       "label": "Insert Order",
-                                      "loc": "ECommercePlatform/Deliver/Payments/Software Systems/Payment Service/Containers/Database/Interfaces/Insert Order",
+                                      "loc": "E Commerce Platform/Deliver/Payments/Software Systems/Payment Service/Containers/Database/Interfaces/Insert Order",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -2676,7 +2676,7 @@
                                     },
                                     {
                                       "label": "Insert Payment Result",
-                                      "loc": "ECommercePlatform/Deliver/Payments/Software Systems/Payment Service/Containers/Database/Interfaces/Insert Payment Result",
+                                      "loc": "E Commerce Platform/Deliver/Payments/Software Systems/Payment Service/Containers/Database/Interfaces/Insert Payment Result",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -2715,15 +2715,15 @@
                             },
                             {
                               "label": "Message Handler",
-                              "loc": "ECommercePlatform/Deliver/Payments/Software Systems/Payment Service/Containers/Message Handler",
+                              "loc": "E Commerce Platform/Deliver/Payments/Software Systems/Payment Service/Containers/Message Handler",
                               "urlset": [
                                 {
                                   "label": "Interfaces",
-                                  "loc": "ECommercePlatform/Deliver/Payments/Software Systems/Payment Service/Containers/Message Handler/Interfaces",
+                                  "loc": "E Commerce Platform/Deliver/Payments/Software Systems/Payment Service/Containers/Message Handler/Interfaces",
                                   "urlset": [
                                     {
                                       "label": "Handle Order Status Changed Event",
-                                      "loc": "ECommercePlatform/Deliver/Payments/Software Systems/Payment Service/Containers/Message Handler/Interfaces/Handle Order Status Changed Event",
+                                      "loc": "E Commerce Platform/Deliver/Payments/Software Systems/Payment Service/Containers/Message Handler/Interfaces/Handle Order Status Changed Event",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -2762,15 +2762,15 @@
                             },
                             {
                               "label": "Messaging",
-                              "loc": "ECommercePlatform/Deliver/Payments/Software Systems/Payment Service/Containers/Messaging",
+                              "loc": "E Commerce Platform/Deliver/Payments/Software Systems/Payment Service/Containers/Messaging",
                               "urlset": [
                                 {
                                   "label": "Interfaces",
-                                  "loc": "ECommercePlatform/Deliver/Payments/Software Systems/Payment Service/Containers/Messaging/Interfaces",
+                                  "loc": "E Commerce Platform/Deliver/Payments/Software Systems/Payment Service/Containers/Messaging/Interfaces",
                                   "urlset": [
                                     {
                                       "label": "Receive Payment Result Event",
-                                      "loc": "ECommercePlatform/Deliver/Payments/Software Systems/Payment Service/Containers/Messaging/Interfaces/Receive Payment Result Event",
+                                      "loc": "E Commerce Platform/Deliver/Payments/Software Systems/Payment Service/Containers/Messaging/Interfaces/Receive Payment Result Event",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -2783,14 +2783,14 @@
                                         "Context"
                                       ],
                                       "formats": [
-                                        "png",
                                         "puml",
-                                        "svg"
+                                        "svg",
+                                        "png"
                                       ]
                                     },
                                     {
                                       "label": "Send Payment Result Event",
-                                      "loc": "ECommercePlatform/Deliver/Payments/Software Systems/Payment Service/Containers/Messaging/Interfaces/Send Payment Result Event",
+                                      "loc": "E Commerce Platform/Deliver/Payments/Software Systems/Payment Service/Containers/Messaging/Interfaces/Send Payment Result Event",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -2893,36 +2893,36 @@
           ]
         },
         {
-          "label": "GenerateDemand",
-          "loc": "ECommercePlatform/GenerateDemand",
+          "label": "Generate Demand",
+          "loc": "E Commerce Platform/Generate Demand",
           "urlset": [
             {
               "label": "Basket",
-              "loc": "ECommercePlatform/GenerateDemand/Basket",
+              "loc": "E Commerce Platform/Generate Demand/Basket",
               "urlset": [
                 {
                   "label": "Software Systems",
-                  "loc": "ECommercePlatform/GenerateDemand/Basket/Software Systems",
+                  "loc": "E Commerce Platform/Generate Demand/Basket/Software Systems",
                   "urlset": [
                     {
                       "label": "Basket Service",
-                      "loc": "ECommercePlatform/GenerateDemand/Basket/Software Systems/Basket Service",
+                      "loc": "E Commerce Platform/Generate Demand/Basket/Software Systems/Basket Service",
                       "urlset": [
                         {
                           "label": "Containers",
-                          "loc": "ECommercePlatform/GenerateDemand/Basket/Software Systems/Basket Service/Containers",
+                          "loc": "E Commerce Platform/Generate Demand/Basket/Software Systems/Basket Service/Containers",
                           "urlset": [
                             {
                               "label": "Api",
-                              "loc": "ECommercePlatform/GenerateDemand/Basket/Software Systems/Basket Service/Containers/Api",
+                              "loc": "E Commerce Platform/Generate Demand/Basket/Software Systems/Basket Service/Containers/Api",
                               "urlset": [
                                 {
                                   "label": "Interfaces",
-                                  "loc": "ECommercePlatform/GenerateDemand/Basket/Software Systems/Basket Service/Containers/Api/Interfaces",
+                                  "loc": "E Commerce Platform/Generate Demand/Basket/Software Systems/Basket Service/Containers/Api/Interfaces",
                                   "urlset": [
                                     {
                                       "label": "Add Item",
-                                      "loc": "ECommercePlatform/GenerateDemand/Basket/Software Systems/Basket Service/Containers/Api/Interfaces/Add Item",
+                                      "loc": "E Commerce Platform/Generate Demand/Basket/Software Systems/Basket Service/Containers/Api/Interfaces/Add Item",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -2942,7 +2942,7 @@
                                     },
                                     {
                                       "label": "Delete Basket",
-                                      "loc": "ECommercePlatform/GenerateDemand/Basket/Software Systems/Basket Service/Containers/Api/Interfaces/Delete Basket",
+                                      "loc": "E Commerce Platform/Generate Demand/Basket/Software Systems/Basket Service/Containers/Api/Interfaces/Delete Basket",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -2962,7 +2962,7 @@
                                     },
                                     {
                                       "label": "Delete Item",
-                                      "loc": "ECommercePlatform/GenerateDemand/Basket/Software Systems/Basket Service/Containers/Api/Interfaces/Delete Item",
+                                      "loc": "E Commerce Platform/Generate Demand/Basket/Software Systems/Basket Service/Containers/Api/Interfaces/Delete Item",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -2982,7 +2982,7 @@
                                     },
                                     {
                                       "label": "Get Items",
-                                      "loc": "ECommercePlatform/GenerateDemand/Basket/Software Systems/Basket Service/Containers/Api/Interfaces/Get Items",
+                                      "loc": "E Commerce Platform/Generate Demand/Basket/Software Systems/Basket Service/Containers/Api/Interfaces/Get Items",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -3002,7 +3002,7 @@
                                     },
                                     {
                                       "label": "Update Item",
-                                      "loc": "ECommercePlatform/GenerateDemand/Basket/Software Systems/Basket Service/Containers/Api/Interfaces/Update Item",
+                                      "loc": "E Commerce Platform/Generate Demand/Basket/Software Systems/Basket Service/Containers/Api/Interfaces/Update Item",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -3041,15 +3041,15 @@
                             },
                             {
                               "label": "Database",
-                              "loc": "ECommercePlatform/GenerateDemand/Basket/Software Systems/Basket Service/Containers/Database",
+                              "loc": "E Commerce Platform/Generate Demand/Basket/Software Systems/Basket Service/Containers/Database",
                               "urlset": [
                                 {
                                   "label": "Interfaces",
-                                  "loc": "ECommercePlatform/GenerateDemand/Basket/Software Systems/Basket Service/Containers/Database/Interfaces",
+                                  "loc": "E Commerce Platform/Generate Demand/Basket/Software Systems/Basket Service/Containers/Database/Interfaces",
                                   "urlset": [
                                     {
                                       "label": "Delete Basket",
-                                      "loc": "ECommercePlatform/GenerateDemand/Basket/Software Systems/Basket Service/Containers/Database/Interfaces/Delete Basket",
+                                      "loc": "E Commerce Platform/Generate Demand/Basket/Software Systems/Basket Service/Containers/Database/Interfaces/Delete Basket",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -3069,7 +3069,7 @@
                                     },
                                     {
                                       "label": "Delete Item",
-                                      "loc": "ECommercePlatform/GenerateDemand/Basket/Software Systems/Basket Service/Containers/Database/Interfaces/Delete Item",
+                                      "loc": "E Commerce Platform/Generate Demand/Basket/Software Systems/Basket Service/Containers/Database/Interfaces/Delete Item",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -3089,7 +3089,7 @@
                                     },
                                     {
                                       "label": "Insert Item",
-                                      "loc": "ECommercePlatform/GenerateDemand/Basket/Software Systems/Basket Service/Containers/Database/Interfaces/Insert Item",
+                                      "loc": "E Commerce Platform/Generate Demand/Basket/Software Systems/Basket Service/Containers/Database/Interfaces/Insert Item",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -3109,7 +3109,7 @@
                                     },
                                     {
                                       "label": "Select Items",
-                                      "loc": "ECommercePlatform/GenerateDemand/Basket/Software Systems/Basket Service/Containers/Database/Interfaces/Select Items",
+                                      "loc": "E Commerce Platform/Generate Demand/Basket/Software Systems/Basket Service/Containers/Database/Interfaces/Select Items",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -3129,7 +3129,7 @@
                                     },
                                     {
                                       "label": "Update Item",
-                                      "loc": "ECommercePlatform/GenerateDemand/Basket/Software Systems/Basket Service/Containers/Database/Interfaces/Update Item",
+                                      "loc": "E Commerce Platform/Generate Demand/Basket/Software Systems/Basket Service/Containers/Database/Interfaces/Update Item",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -3217,32 +3217,32 @@
               ]
             },
             {
-              "label": "OrderManagement",
-              "loc": "ECommercePlatform/GenerateDemand/OrderManagement",
+              "label": "Order Management",
+              "loc": "E Commerce Platform/Generate Demand/Order Management",
               "urlset": [
                 {
                   "label": "Software Systems",
-                  "loc": "ECommercePlatform/GenerateDemand/OrderManagement/Software Systems",
+                  "loc": "E Commerce Platform/Generate Demand/Order Management/Software Systems",
                   "urlset": [
                     {
                       "label": "Order Service",
-                      "loc": "ECommercePlatform/GenerateDemand/OrderManagement/Software Systems/Order Service",
+                      "loc": "E Commerce Platform/Generate Demand/Order Management/Software Systems/Order Service",
                       "urlset": [
                         {
                           "label": "Containers",
-                          "loc": "ECommercePlatform/GenerateDemand/OrderManagement/Software Systems/Order Service/Containers",
+                          "loc": "E Commerce Platform/Generate Demand/Order Management/Software Systems/Order Service/Containers",
                           "urlset": [
                             {
                               "label": "Api",
-                              "loc": "ECommercePlatform/GenerateDemand/OrderManagement/Software Systems/Order Service/Containers/Api",
+                              "loc": "E Commerce Platform/Generate Demand/Order Management/Software Systems/Order Service/Containers/Api",
                               "urlset": [
                                 {
                                   "label": "Interfaces",
-                                  "loc": "ECommercePlatform/GenerateDemand/OrderManagement/Software Systems/Order Service/Containers/Api/Interfaces",
+                                  "loc": "E Commerce Platform/Generate Demand/Order Management/Software Systems/Order Service/Containers/Api/Interfaces",
                                   "urlset": [
                                     {
                                       "label": "Create Order",
-                                      "loc": "ECommercePlatform/GenerateDemand/OrderManagement/Software Systems/Order Service/Containers/Api/Interfaces/Create Order",
+                                      "loc": "E Commerce Platform/Generate Demand/Order Management/Software Systems/Order Service/Containers/Api/Interfaces/Create Order",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -3281,15 +3281,15 @@
                             },
                             {
                               "label": "Database",
-                              "loc": "ECommercePlatform/GenerateDemand/OrderManagement/Software Systems/Order Service/Containers/Database",
+                              "loc": "E Commerce Platform/Generate Demand/Order Management/Software Systems/Order Service/Containers/Database",
                               "urlset": [
                                 {
                                   "label": "Interfaces",
-                                  "loc": "ECommercePlatform/GenerateDemand/OrderManagement/Software Systems/Order Service/Containers/Database/Interfaces",
+                                  "loc": "E Commerce Platform/Generate Demand/Order Management/Software Systems/Order Service/Containers/Database/Interfaces",
                                   "urlset": [
                                     {
                                       "label": "Insert Order",
-                                      "loc": "ECommercePlatform/GenerateDemand/OrderManagement/Software Systems/Order Service/Containers/Database/Interfaces/Insert Order",
+                                      "loc": "E Commerce Platform/Generate Demand/Order Management/Software Systems/Order Service/Containers/Database/Interfaces/Insert Order",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -3309,7 +3309,7 @@
                                     },
                                     {
                                       "label": "Update Order Status",
-                                      "loc": "ECommercePlatform/GenerateDemand/OrderManagement/Software Systems/Order Service/Containers/Database/Interfaces/Update Order Status",
+                                      "loc": "E Commerce Platform/Generate Demand/Order Management/Software Systems/Order Service/Containers/Database/Interfaces/Update Order Status",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -3348,15 +3348,15 @@
                             },
                             {
                               "label": "Message Handler",
-                              "loc": "ECommercePlatform/GenerateDemand/OrderManagement/Software Systems/Order Service/Containers/Message Handler",
+                              "loc": "E Commerce Platform/Generate Demand/Order Management/Software Systems/Order Service/Containers/Message Handler",
                               "urlset": [
                                 {
                                   "label": "Interfaces",
-                                  "loc": "ECommercePlatform/GenerateDemand/OrderManagement/Software Systems/Order Service/Containers/Message Handler/Interfaces",
+                                  "loc": "E Commerce Platform/Generate Demand/Order Management/Software Systems/Order Service/Containers/Message Handler/Interfaces",
                                   "urlset": [
                                     {
                                       "label": "Handle Fraud Check Result Event",
-                                      "loc": "ECommercePlatform/GenerateDemand/OrderManagement/Software Systems/Order Service/Containers/Message Handler/Interfaces/Handle Fraud Check Result Event",
+                                      "loc": "E Commerce Platform/Generate Demand/Order Management/Software Systems/Order Service/Containers/Message Handler/Interfaces/Handle Fraud Check Result Event",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -3376,7 +3376,7 @@
                                     },
                                     {
                                       "label": "Handle Order Shipped Event",
-                                      "loc": "ECommercePlatform/GenerateDemand/OrderManagement/Software Systems/Order Service/Containers/Message Handler/Interfaces/Handle Order Shipped Event",
+                                      "loc": "E Commerce Platform/Generate Demand/Order Management/Software Systems/Order Service/Containers/Message Handler/Interfaces/Handle Order Shipped Event",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -3396,7 +3396,7 @@
                                     },
                                     {
                                       "label": "Handle Payment Result Event",
-                                      "loc": "ECommercePlatform/GenerateDemand/OrderManagement/Software Systems/Order Service/Containers/Message Handler/Interfaces/Handle Payment Result Event",
+                                      "loc": "E Commerce Platform/Generate Demand/Order Management/Software Systems/Order Service/Containers/Message Handler/Interfaces/Handle Payment Result Event",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -3435,15 +3435,15 @@
                             },
                             {
                               "label": "Messaging",
-                              "loc": "ECommercePlatform/GenerateDemand/OrderManagement/Software Systems/Order Service/Containers/Messaging",
+                              "loc": "E Commerce Platform/Generate Demand/Order Management/Software Systems/Order Service/Containers/Messaging",
                               "urlset": [
                                 {
                                   "label": "Interfaces",
-                                  "loc": "ECommercePlatform/GenerateDemand/OrderManagement/Software Systems/Order Service/Containers/Messaging/Interfaces",
+                                  "loc": "E Commerce Platform/Generate Demand/Order Management/Software Systems/Order Service/Containers/Messaging/Interfaces",
                                   "urlset": [
                                     {
                                       "label": "Receive Order Created Event",
-                                      "loc": "ECommercePlatform/GenerateDemand/OrderManagement/Software Systems/Order Service/Containers/Messaging/Interfaces/Receive Order Created Event",
+                                      "loc": "E Commerce Platform/Generate Demand/Order Management/Software Systems/Order Service/Containers/Messaging/Interfaces/Receive Order Created Event",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -3463,7 +3463,7 @@
                                     },
                                     {
                                       "label": "Receive Order Status Changed Event",
-                                      "loc": "ECommercePlatform/GenerateDemand/OrderManagement/Software Systems/Order Service/Containers/Messaging/Interfaces/Receive Order Status Changed Event",
+                                      "loc": "E Commerce Platform/Generate Demand/Order Management/Software Systems/Order Service/Containers/Messaging/Interfaces/Receive Order Status Changed Event",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -3483,7 +3483,7 @@
                                     },
                                     {
                                       "label": "Send Order Created Event",
-                                      "loc": "ECommercePlatform/GenerateDemand/OrderManagement/Software Systems/Order Service/Containers/Messaging/Interfaces/Send Order Created Event",
+                                      "loc": "E Commerce Platform/Generate Demand/Order Management/Software Systems/Order Service/Containers/Messaging/Interfaces/Send Order Created Event",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -3503,7 +3503,7 @@
                                     },
                                     {
                                       "label": "Send Order Status Changed Event",
-                                      "loc": "ECommercePlatform/GenerateDemand/OrderManagement/Software Systems/Order Service/Containers/Messaging/Interfaces/Send Order Status Changed Event",
+                                      "loc": "E Commerce Platform/Generate Demand/Order Management/Software Systems/Order Service/Containers/Messaging/Interfaces/Send Order Status Changed Event",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -3591,32 +3591,32 @@
               ]
             },
             {
-              "label": "SearchAndBrowse",
-              "loc": "ECommercePlatform/GenerateDemand/SearchAndBrowse",
+              "label": "Search And Browse",
+              "loc": "E Commerce Platform/Generate Demand/Search And Browse",
               "urlset": [
                 {
                   "label": "Software Systems",
-                  "loc": "ECommercePlatform/GenerateDemand/SearchAndBrowse/Software Systems",
+                  "loc": "E Commerce Platform/Generate Demand/Search And Browse/Software Systems",
                   "urlset": [
                     {
                       "label": "Search Service",
-                      "loc": "ECommercePlatform/GenerateDemand/SearchAndBrowse/Software Systems/Search Service",
+                      "loc": "E Commerce Platform/Generate Demand/Search And Browse/Software Systems/Search Service",
                       "urlset": [
                         {
                           "label": "Containers",
-                          "loc": "ECommercePlatform/GenerateDemand/SearchAndBrowse/Software Systems/Search Service/Containers",
+                          "loc": "E Commerce Platform/Generate Demand/Search And Browse/Software Systems/Search Service/Containers",
                           "urlset": [
                             {
                               "label": "Api",
-                              "loc": "ECommercePlatform/GenerateDemand/SearchAndBrowse/Software Systems/Search Service/Containers/Api",
+                              "loc": "E Commerce Platform/Generate Demand/Search And Browse/Software Systems/Search Service/Containers/Api",
                               "urlset": [
                                 {
                                   "label": "Interfaces",
-                                  "loc": "ECommercePlatform/GenerateDemand/SearchAndBrowse/Software Systems/Search Service/Containers/Api/Interfaces",
+                                  "loc": "E Commerce Platform/Generate Demand/Search And Browse/Software Systems/Search Service/Containers/Api/Interfaces",
                                   "urlset": [
                                     {
                                       "label": "Search Products",
-                                      "loc": "ECommercePlatform/GenerateDemand/SearchAndBrowse/Software Systems/Search Service/Containers/Api/Interfaces/Search Products",
+                                      "loc": "E Commerce Platform/Generate Demand/Search And Browse/Software Systems/Search Service/Containers/Api/Interfaces/Search Products",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -3655,15 +3655,15 @@
                             },
                             {
                               "label": "Database",
-                              "loc": "ECommercePlatform/GenerateDemand/SearchAndBrowse/Software Systems/Search Service/Containers/Database",
+                              "loc": "E Commerce Platform/Generate Demand/Search And Browse/Software Systems/Search Service/Containers/Database",
                               "urlset": [
                                 {
                                   "label": "Interfaces",
-                                  "loc": "ECommercePlatform/GenerateDemand/SearchAndBrowse/Software Systems/Search Service/Containers/Database/Interfaces",
+                                  "loc": "E Commerce Platform/Generate Demand/Search And Browse/Software Systems/Search Service/Containers/Database/Interfaces",
                                   "urlset": [
                                     {
                                       "label": "Delete Product",
-                                      "loc": "ECommercePlatform/GenerateDemand/SearchAndBrowse/Software Systems/Search Service/Containers/Database/Interfaces/Delete Product",
+                                      "loc": "E Commerce Platform/Generate Demand/Search And Browse/Software Systems/Search Service/Containers/Database/Interfaces/Delete Product",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -3683,7 +3683,7 @@
                                     },
                                     {
                                       "label": "Insert Product",
-                                      "loc": "ECommercePlatform/GenerateDemand/SearchAndBrowse/Software Systems/Search Service/Containers/Database/Interfaces/Insert Product",
+                                      "loc": "E Commerce Platform/Generate Demand/Search And Browse/Software Systems/Search Service/Containers/Database/Interfaces/Insert Product",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -3703,7 +3703,7 @@
                                     },
                                     {
                                       "label": "Select Products",
-                                      "loc": "ECommercePlatform/GenerateDemand/SearchAndBrowse/Software Systems/Search Service/Containers/Database/Interfaces/Select Products",
+                                      "loc": "E Commerce Platform/Generate Demand/Search And Browse/Software Systems/Search Service/Containers/Database/Interfaces/Select Products",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -3723,7 +3723,7 @@
                                     },
                                     {
                                       "label": "Update Product",
-                                      "loc": "ECommercePlatform/GenerateDemand/SearchAndBrowse/Software Systems/Search Service/Containers/Database/Interfaces/Update Product",
+                                      "loc": "E Commerce Platform/Generate Demand/Search And Browse/Software Systems/Search Service/Containers/Database/Interfaces/Update Product",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -3743,7 +3743,7 @@
                                     },
                                     {
                                       "label": "Update Product Prices",
-                                      "loc": "ECommercePlatform/GenerateDemand/SearchAndBrowse/Software Systems/Search Service/Containers/Database/Interfaces/Update Product Prices",
+                                      "loc": "E Commerce Platform/Generate Demand/Search And Browse/Software Systems/Search Service/Containers/Database/Interfaces/Update Product Prices",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -3782,15 +3782,15 @@
                             },
                             {
                               "label": "Message Handler",
-                              "loc": "ECommercePlatform/GenerateDemand/SearchAndBrowse/Software Systems/Search Service/Containers/Message Handler",
+                              "loc": "E Commerce Platform/Generate Demand/Search And Browse/Software Systems/Search Service/Containers/Message Handler",
                               "urlset": [
                                 {
                                   "label": "Interfaces",
-                                  "loc": "ECommercePlatform/GenerateDemand/SearchAndBrowse/Software Systems/Search Service/Containers/Message Handler/Interfaces",
+                                  "loc": "E Commerce Platform/Generate Demand/Search And Browse/Software Systems/Search Service/Containers/Message Handler/Interfaces",
                                   "urlset": [
                                     {
                                       "label": "Handle Product Created Event",
-                                      "loc": "ECommercePlatform/GenerateDemand/SearchAndBrowse/Software Systems/Search Service/Containers/Message Handler/Interfaces/Handle Product Created Event",
+                                      "loc": "E Commerce Platform/Generate Demand/Search And Browse/Software Systems/Search Service/Containers/Message Handler/Interfaces/Handle Product Created Event",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -3810,7 +3810,7 @@
                                     },
                                     {
                                       "label": "Handle Product Deleted Event",
-                                      "loc": "ECommercePlatform/GenerateDemand/SearchAndBrowse/Software Systems/Search Service/Containers/Message Handler/Interfaces/Handle Product Deleted Event",
+                                      "loc": "E Commerce Platform/Generate Demand/Search And Browse/Software Systems/Search Service/Containers/Message Handler/Interfaces/Handle Product Deleted Event",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -3830,7 +3830,7 @@
                                     },
                                     {
                                       "label": "Handle Product Price Changed Event",
-                                      "loc": "ECommercePlatform/GenerateDemand/SearchAndBrowse/Software Systems/Search Service/Containers/Message Handler/Interfaces/Handle Product Price Changed Event",
+                                      "loc": "E Commerce Platform/Generate Demand/Search And Browse/Software Systems/Search Service/Containers/Message Handler/Interfaces/Handle Product Price Changed Event",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -3850,7 +3850,7 @@
                                     },
                                     {
                                       "label": "Handle Product Updated Event",
-                                      "loc": "ECommercePlatform/GenerateDemand/SearchAndBrowse/Software Systems/Search Service/Containers/Message Handler/Interfaces/Handle Product Updated Event",
+                                      "loc": "E Commerce Platform/Generate Demand/Search And Browse/Software Systems/Search Service/Containers/Message Handler/Interfaces/Handle Product Updated Event",
                                       "urlset": [],
                                       "types": [
                                         "C4 Sequence",
@@ -3939,23 +3939,23 @@
             },
             {
               "label": "Storefront",
-              "loc": "ECommercePlatform/GenerateDemand/Storefront",
+              "loc": "E Commerce Platform/Generate Demand/Storefront",
               "urlset": [
                 {
                   "label": "Software Systems",
-                  "loc": "ECommercePlatform/GenerateDemand/Storefront/Software Systems",
+                  "loc": "E Commerce Platform/Generate Demand/Storefront/Software Systems",
                   "urlset": [
                     {
                       "label": "Storefront App",
-                      "loc": "ECommercePlatform/GenerateDemand/Storefront/Software Systems/Storefront App",
+                      "loc": "E Commerce Platform/Generate Demand/Storefront/Software Systems/Storefront App",
                       "urlset": [
                         {
                           "label": "Interfaces",
-                          "loc": "ECommercePlatform/GenerateDemand/Storefront/Software Systems/Storefront App/Interfaces",
+                          "loc": "E Commerce Platform/Generate Demand/Storefront/Software Systems/Storefront App/Interfaces",
                           "urlset": [
                             {
                               "label": "Add Product To Basket",
-                              "loc": "ECommercePlatform/GenerateDemand/Storefront/Software Systems/Storefront App/Interfaces/Add Product To Basket",
+                              "loc": "E Commerce Platform/Generate Demand/Storefront/Software Systems/Storefront App/Interfaces/Add Product To Basket",
                               "urlset": [],
                               "types": [
                                 "C4 Sequence",
@@ -3975,7 +3975,7 @@
                             },
                             {
                               "label": "Checkout",
-                              "loc": "ECommercePlatform/GenerateDemand/Storefront/Software Systems/Storefront App/Interfaces/Checkout",
+                              "loc": "E Commerce Platform/Generate Demand/Storefront/Software Systems/Storefront App/Interfaces/Checkout",
                               "urlset": [],
                               "types": [
                                 "C4 Sequence",
@@ -3995,7 +3995,7 @@
                             },
                             {
                               "label": "Delete Basket Item",
-                              "loc": "ECommercePlatform/GenerateDemand/Storefront/Software Systems/Storefront App/Interfaces/Delete Basket Item",
+                              "loc": "E Commerce Platform/Generate Demand/Storefront/Software Systems/Storefront App/Interfaces/Delete Basket Item",
                               "urlset": [],
                               "types": [
                                 "C4 Sequence",
@@ -4015,7 +4015,7 @@
                             },
                             {
                               "label": "Search Products",
-                              "loc": "ECommercePlatform/GenerateDemand/Storefront/Software Systems/Storefront App/Interfaces/Search Products",
+                              "loc": "E Commerce Platform/Generate Demand/Storefront/Software Systems/Storefront App/Interfaces/Search Products",
                               "urlset": [],
                               "types": [
                                 "C4 Sequence",
@@ -4035,7 +4035,7 @@
                             },
                             {
                               "label": "Update Basket Item",
-                              "loc": "ECommercePlatform/GenerateDemand/Storefront/Software Systems/Storefront App/Interfaces/Update Basket Item",
+                              "loc": "E Commerce Platform/Generate Demand/Storefront/Software Systems/Storefront App/Interfaces/Update Basket Item",
                               "urlset": [],
                               "types": [
                                 "C4 Sequence",
@@ -4055,7 +4055,7 @@
                             },
                             {
                               "label": "View Basket",
-                              "loc": "ECommercePlatform/GenerateDemand/Storefront/Software Systems/Storefront App/Interfaces/View Basket",
+                              "loc": "E Commerce Platform/Generate Demand/Storefront/Software Systems/Storefront App/Interfaces/View Basket",
                               "urlset": [],
                               "types": [
                                 "C4 Sequence",
@@ -4075,7 +4075,7 @@
                             },
                             {
                               "label": "View Products",
-                              "loc": "ECommercePlatform/GenerateDemand/Storefront/Software Systems/Storefront App/Interfaces/View Products",
+                              "loc": "E Commerce Platform/Generate Demand/Storefront/Software Systems/Storefront App/Interfaces/View Products",
                               "urlset": [],
                               "types": [
                                 "C4 Sequence",
@@ -4115,15 +4115,15 @@
                     },
                     {
                       "label": "Storefront Bff",
-                      "loc": "ECommercePlatform/GenerateDemand/Storefront/Software Systems/Storefront Bff",
+                      "loc": "E Commerce Platform/Generate Demand/Storefront/Software Systems/Storefront Bff",
                       "urlset": [
                         {
                           "label": "Interfaces",
-                          "loc": "ECommercePlatform/GenerateDemand/Storefront/Software Systems/Storefront Bff/Interfaces",
+                          "loc": "E Commerce Platform/Generate Demand/Storefront/Software Systems/Storefront Bff/Interfaces",
                           "urlset": [
                             {
                               "label": "Add Basket Item",
-                              "loc": "ECommercePlatform/GenerateDemand/Storefront/Software Systems/Storefront Bff/Interfaces/Add Basket Item",
+                              "loc": "E Commerce Platform/Generate Demand/Storefront/Software Systems/Storefront Bff/Interfaces/Add Basket Item",
                               "urlset": [],
                               "types": [
                                 "C4 Sequence",
@@ -4143,7 +4143,7 @@
                             },
                             {
                               "label": "Checkout",
-                              "loc": "ECommercePlatform/GenerateDemand/Storefront/Software Systems/Storefront Bff/Interfaces/Checkout",
+                              "loc": "E Commerce Platform/Generate Demand/Storefront/Software Systems/Storefront Bff/Interfaces/Checkout",
                               "urlset": [],
                               "types": [
                                 "C4 Sequence",
@@ -4163,7 +4163,7 @@
                             },
                             {
                               "label": "Delete Basket Item",
-                              "loc": "ECommercePlatform/GenerateDemand/Storefront/Software Systems/Storefront Bff/Interfaces/Delete Basket Item",
+                              "loc": "E Commerce Platform/Generate Demand/Storefront/Software Systems/Storefront Bff/Interfaces/Delete Basket Item",
                               "urlset": [],
                               "types": [
                                 "C4 Sequence",
@@ -4183,7 +4183,7 @@
                             },
                             {
                               "label": "Get Basket",
-                              "loc": "ECommercePlatform/GenerateDemand/Storefront/Software Systems/Storefront Bff/Interfaces/Get Basket",
+                              "loc": "E Commerce Platform/Generate Demand/Storefront/Software Systems/Storefront Bff/Interfaces/Get Basket",
                               "urlset": [],
                               "types": [
                                 "C4 Sequence",
@@ -4203,7 +4203,7 @@
                             },
                             {
                               "label": "Get Products",
-                              "loc": "ECommercePlatform/GenerateDemand/Storefront/Software Systems/Storefront Bff/Interfaces/Get Products",
+                              "loc": "E Commerce Platform/Generate Demand/Storefront/Software Systems/Storefront Bff/Interfaces/Get Products",
                               "urlset": [],
                               "types": [
                                 "C4 Sequence",
@@ -4223,7 +4223,7 @@
                             },
                             {
                               "label": "Search Products",
-                              "loc": "ECommercePlatform/GenerateDemand/Storefront/Software Systems/Storefront Bff/Interfaces/Search Products",
+                              "loc": "E Commerce Platform/Generate Demand/Storefront/Software Systems/Storefront Bff/Interfaces/Search Products",
                               "urlset": [],
                               "types": [
                                 "C4 Sequence",
@@ -4243,7 +4243,7 @@
                             },
                             {
                               "label": "Update Basket Item",
-                              "loc": "ECommercePlatform/GenerateDemand/Storefront/Software Systems/Storefront Bff/Interfaces/Update Basket Item",
+                              "loc": "E Commerce Platform/Generate Demand/Storefront/Software Systems/Storefront Bff/Interfaces/Update Basket Item",
                               "urlset": [],
                               "types": [
                                 "C4 Sequence",
